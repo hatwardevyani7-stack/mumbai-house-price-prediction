@@ -1,0 +1,2501 @@
+Locality,BHK,CarpetArea_sqft,Bathrooms,Balcony,FloorNo,TotalFloors,PropertyAge_Years,MetroDistance_KM,Gymnasium,SwimmingPool,Clubhouse,CarParking,GatedSecurity,Price_In_Lakhs
+Andheri East / Marol / Sakinaka,3,1100,3,2,17,22,0,5.6,1,1,0,1,0,219.33
+Mira Road / Bhayandar,3,1068,3,3,37,40,6,5.4,0,1,0,1,1,100.83
+Thane West (Ghodbunder Road),2,726,2,1,38,48,1,7.2,1,0,1,1,1,90.92
+Ghatkopar / Mulund West,4,2346,4,2,26,43,1,5.4,0,0,1,1,1,456.78
+Andheri West / Lokhandwala,1,408,1,0,24,30,1,8.4,1,1,1,1,1,122.5
+Andheri West / Lokhandwala,1,470,1,0,39,43,1,7.1,0,0,1,1,1,130.15
+Worli / Lower Parel / Prabhadevi,3,1072,3,1,21,26,3,1.5,1,1,1,0,1,555.76
+Navi Mumbai (Vashi / Palm Beach Road),2,712,2,1,30,37,3,2.6,1,0,0,1,1,142.37
+Ghatkopar / Mulund West,3,1203,2,2,13,24,6,0.5,0,1,0,0,1,239.43
+Thane West (Ghodbunder Road),3,1316,3,3,37,39,6,3.7,0,0,0,1,1,142.81
+South Mumbai (Colaba / Marine Drive / Malabar Hill),1,464,1,1,3,11,0,4.7,1,0,0,1,1,295.02
+Kalyan / Dombivli / Beyond Thane,3,1063,3,2,32,41,3,8.5,1,0,1,0,1,69.73
+Navi Mumbai (Vashi / Palm Beach Road),2,913,2,2,35,43,10,4.8,1,1,0,1,1,185.59
+Andheri West / Lokhandwala,2,857,2,2,19,27,0,7.1,1,1,1,1,1,261.78
+Andheri West / Lokhandwala,2,629,2,2,14,24,3,2.6,1,0,0,1,1,170.57
+Andheri West / Lokhandwala,4,2356,4,2,22,36,6,1.6,1,0,0,1,1,643.37
+Powai / Hiranandani,1,454,1,1,17,22,3,7.4,1,0,1,1,0,109.75
+Borivali / Kandivali West,2,623,2,1,4,19,0,2.5,1,0,1,1,1,125.48
+Goregaon / Malad West,2,725,2,2,40,57,1,7.9,1,0,1,0,1,150.42
+Powai / Hiranandani,3,1170,3,3,19,27,3,1.8,1,1,1,1,1,298.16
+Ghatkopar / Mulund West,2,749,2,1,37,47,25,7.7,1,1,1,0,1,131.97
+Juhu / Vile Parle West,1,413,1,1,2,18,0,7.0,0,1,0,1,1,194.58
+Powai / Hiranandani,2,744,2,2,15,21,25,5.6,1,0,0,1,1,149.55
+Andheri East / Marol / Sakinaka,2,759,2,2,2,5,1,7.7,1,0,1,1,0,153.19
+Goregaon / Malad West,3,1057,3,1,11,27,1,3.2,1,0,1,1,1,235.36
+Thane (Majiwada / Teen Hath Naka),1,349,1,1,23,29,3,1.7,1,1,0,1,1,58.01
+Andheri West / Lokhandwala,1,451,1,0,10,15,3,1.7,0,0,1,1,1,124.33
+Borivali / Kandivali West,4,2176,4,3,3,12,1,2.7,1,0,1,0,1,404.86
+Ghatkopar / Mulund West,1,353,1,1,5,22,1,4.2,1,0,0,1,1,74.47
+Worli / Lower Parel / Prabhadevi,5,4777,5,3,3,19,10,7.9,0,1,1,1,1,2266.95
+Ghatkopar / Mulund West,2,768,2,1,38,44,25,1.1,0,0,1,1,1,135.82
+Andheri West / Lokhandwala,3,1527,3,3,13,23,1,8.3,1,1,1,0,1,440.56
+Worli / Lower Parel / Prabhadevi,2,754,2,1,19,29,0,8.4,1,0,1,1,1,401.23
+Mira Road / Bhayandar,1,493,1,1,40,44,6,6.6,1,0,1,1,1,44.08
+Kalyan / Dombivli / Beyond Thane,3,1295,3,2,35,49,3,8.1,1,1,1,1,1,80.84
+Thane (Majiwada / Teen Hath Naka),3,1379,3,1,24,35,0,7.0,1,1,1,1,0,237.98
+Powai / Hiranandani,3,1194,3,1,24,40,15,4.9,1,0,0,1,1,265.33
+Bandra West / Khar / Santacruz West,1,390,1,0,17,24,0,5.5,1,0,0,1,1,187.64
+Thane West (Ghodbunder Road),3,1249,3,1,40,47,3,5.8,0,1,0,1,1,162.45
+Goregaon / Malad West,3,1106,3,2,10,15,3,1.4,1,0,1,1,0,198.72
+Juhu / Vile Parle West,2,637,2,1,2,14,3,2.0,1,0,1,0,1,289.27
+Borivali / Kandivali West,3,1362,3,3,23,37,1,4.9,0,1,1,1,1,254.62
+Worli / Lower Parel / Prabhadevi,3,1347,3,2,6,17,6,1.3,1,0,0,1,0,618.84
+Navi Mumbai (Kharghar / Belapur / Nerul),2,799,2,2,2,6,15,8.7,1,1,1,1,1,93.32
+Powai / Hiranandani,1,365,1,1,21,23,3,4.7,1,1,0,1,1,110.05
+Chembur / Wadala,2,898,2,1,35,48,3,3.6,1,0,1,1,1,224.15
+Andheri East / Marol / Sakinaka,1,519,1,1,29,37,1,1.7,1,1,0,1,1,102.22
+Borivali / Kandivali West,2,906,2,1,7,23,10,3.9,1,0,0,1,1,154.82
+Borivali / Kandivali West,2,851,2,2,29,45,25,2.9,1,0,1,1,1,133.96
+Andheri West / Lokhandwala,1,341,1,0,37,43,6,1.1,1,0,0,0,1,86.74
+Kalyan / Dombivli / Beyond Thane,2,848,2,1,23,38,3,8.7,0,1,1,1,1,54.71
+Thane (Majiwada / Teen Hath Naka),1,374,1,1,33,44,15,2.6,1,1,0,1,1,55.24
+Mira Road / Bhayandar,3,1295,3,2,8,24,0,6.3,1,0,1,1,1,124.86
+Navi Mumbai (Kharghar / Belapur / Nerul),4,2283,4,2,12,20,3,1.1,0,0,1,1,1,287.49
+Ghatkopar / Mulund West,1,369,1,0,10,12,3,8.2,1,0,1,1,1,78.83
+Navi Mumbai (Kharghar / Belapur / Nerul),4,2605,4,2,15,24,3,5.4,1,0,0,1,1,321.05
+Bandra West / Khar / Santacruz West,2,796,2,2,24,28,10,6.0,1,1,0,1,0,408.1
+Andheri West / Lokhandwala,2,805,2,2,26,34,6,7.1,0,0,1,1,1,238.94
+Worli / Lower Parel / Prabhadevi,1,500,1,1,39,52,0,5.6,1,0,0,1,1,259.24
+Andheri East / Marol / Sakinaka,2,915,2,2,3,7,1,0.9,0,0,1,0,1,185.24
+Goregaon / Malad West,3,1091,3,2,2,17,1,4.0,0,1,1,1,1,223.9
+Powai / Hiranandani,2,894,2,1,6,10,3,2.6,1,0,0,1,1,201.5
+Thane (Majiwada / Teen Hath Naka),1,393,1,0,21,32,1,4.5,1,1,1,1,1,69.09
+Andheri East / Marol / Sakinaka,1,479,1,1,9,19,0,3.8,1,0,0,1,1,97.69
+Powai / Hiranandani,2,928,2,1,10,24,6,7.5,1,1,1,1,1,224.62
+Borivali / Kandivali West,2,637,2,2,36,39,10,2.4,1,0,1,1,1,114.65
+Juhu / Vile Parle West,1,344,1,0,3,18,15,2.1,1,0,1,1,1,130.08
+Thane (Majiwada / Teen Hath Naka),2,801,2,1,41,46,25,8.6,0,0,0,1,1,99.2
+Bandra West / Khar / Santacruz West,3,1334,3,2,24,31,6,8.6,1,0,0,1,1,668.85
+Kalyan / Dombivli / Beyond Thane,4,2397,4,3,22,37,0,8.9,0,1,1,1,1,162.49
+Thane West (Ghodbunder Road),2,874,2,1,14,18,10,5.2,0,0,0,1,1,89.43
+Andheri West / Lokhandwala,3,1508,3,2,27,40,1,1.3,1,0,0,0,1,420.69
+South Mumbai (Colaba / Marine Drive / Malabar Hill),2,877,2,1,33,44,6,8.0,0,0,1,1,1,644.23
+Thane (Majiwada / Teen Hath Naka),2,901,2,2,22,37,3,1.6,1,0,1,1,1,149.36
+Thane West (Ghodbunder Road),1,355,1,0,29,40,10,1.7,0,1,1,1,1,43.43
+Thane West (Ghodbunder Road),2,873,2,2,19,27,3,2.0,1,0,1,1,1,112.59
+Thane West (Ghodbunder Road),4,2243,4,2,19,27,0,6.0,1,1,0,0,1,280.71
+Bandra West / Khar / Santacruz West,2,624,2,1,6,22,3,1.2,0,0,1,1,1,363.94
+Andheri East / Marol / Sakinaka,2,927,2,2,19,25,0,7.1,1,1,1,1,1,193.69
+Juhu / Vile Parle West,2,800,2,2,13,17,25,0.8,0,1,1,1,1,328.43
+Navi Mumbai (Vashi / Palm Beach Road),1,482,1,0,26,29,3,1.3,1,1,1,1,1,104.59
+Chembur / Wadala,3,1176,3,2,22,38,3,4.1,1,1,0,1,1,285.24
+Andheri East / Marol / Sakinaka,2,874,2,2,21,37,15,3.6,1,0,0,1,0,141.75
+Worli / Lower Parel / Prabhadevi,2,847,2,2,36,41,3,8.9,0,1,1,1,1,424.37
+Powai / Hiranandani,2,684,2,1,2,17,1,8.7,1,1,1,1,1,190.3
+Andheri East / Marol / Sakinaka,2,727,2,2,30,46,1,2.0,0,0,1,1,1,132.05
+Thane West (Ghodbunder Road),1,504,1,1,27,41,3,8.5,0,0,0,0,1,59.18
+Chembur / Wadala,2,856,2,1,7,12,10,6.3,0,0,1,1,1,171.44
+Navi Mumbai (Kharghar / Belapur / Nerul),1,507,1,0,20,32,6,3.9,0,0,1,1,1,58.96
+Borivali / Kandivali West,2,742,2,1,31,40,25,6.7,1,1,1,0,1,114.6
+Juhu / Vile Parle West,3,1238,3,3,23,32,0,8.1,0,1,1,0,1,586.59
+Thane West (Ghodbunder Road),3,1208,2,1,13,27,1,1.9,0,1,1,1,1,152.14
+Thane West (Ghodbunder Road),2,709,2,2,17,23,0,2.0,0,0,0,1,1,91.88
+Ghatkopar / Mulund West,2,839,2,2,4,18,6,3.9,1,0,0,1,1,164.36
+Thane West (Ghodbunder Road),1,408,1,1,14,21,0,1.8,1,1,1,1,0,54.88
+Borivali / Kandivali West,3,1231,3,1,20,29,0,3.4,1,1,0,0,1,243.63
+Borivali / Kandivali West,1,449,1,0,13,29,3,5.9,1,0,0,1,1,80.63
+Goregaon / Malad West,2,722,2,2,3,5,3,7.4,1,1,1,1,1,153.64
+South Mumbai (Colaba / Marine Drive / Malabar Hill),2,677,2,2,26,32,6,2.9,1,0,1,0,1,495.85
+Bandra West / Khar / Santacruz West,1,381,1,1,26,31,3,2.8,1,0,1,1,1,210.81
+Worli / Lower Parel / Prabhadevi,2,800,2,2,18,35,3,7.1,1,0,0,0,1,374.36
+Chembur / Wadala,1,395,1,1,32,37,3,3.6,1,0,0,0,0,94.86
+Andheri East / Marol / Sakinaka,3,1150,3,2,14,26,10,7.4,1,1,1,1,1,226.51
+Borivali / Kandivali West,2,762,2,2,3,6,1,8.9,0,0,1,1,1,126.23
+Navi Mumbai (Kharghar / Belapur / Nerul),1,344,1,0,1,12,1,8.8,1,0,0,1,0,43.19
+Powai / Hiranandani,2,801,2,1,26,28,1,6.1,1,0,1,0,1,203.69
+Goregaon / Malad West,1,479,1,1,24,39,0,3.6,1,0,0,0,1,100.25
+Thane West (Ghodbunder Road),1,434,1,1,35,51,10,0.9,1,0,1,1,0,55.65
+Andheri West / Lokhandwala,2,911,2,2,14,21,0,6.7,0,0,0,1,1,249.13
+Bandra West / Khar / Santacruz West,1,437,1,1,3,11,15,8.8,0,1,0,1,1,187.54
+Powai / Hiranandani,3,1500,3,3,13,19,1,0.9,1,1,1,0,1,434.76
+Andheri West / Lokhandwala,1,510,1,1,14,31,10,0.4,1,1,0,1,1,146.74
+Mira Road / Bhayandar,1,402,1,1,21,37,6,7.5,0,0,1,1,1,36.57
+Thane (Majiwada / Teen Hath Naka),3,1275,3,2,26,35,3,1.2,1,0,1,1,1,218.97
+Chembur / Wadala,2,874,2,2,3,13,6,1.0,1,1,0,1,1,214.88
+Navi Mumbai (Vashi / Palm Beach Road),1,367,1,0,40,52,1,8.2,1,1,1,0,1,81.23
+Thane (Majiwada / Teen Hath Naka),2,695,2,1,4,16,3,1.0,1,0,0,1,1,118.02
+Andheri West / Lokhandwala,1,437,1,1,36,39,1,1.3,1,1,1,1,1,134.36
+Navi Mumbai (Kharghar / Belapur / Nerul),3,1216,3,1,1,13,3,5.3,1,1,0,1,1,163.6
+Borivali / Kandivali West,2,870,2,1,40,54,6,6.9,1,1,1,0,1,160.99
+Thane (Majiwada / Teen Hath Naka),3,1468,3,2,33,38,1,3.8,1,1,0,1,1,237.78
+Navi Mumbai (Kharghar / Belapur / Nerul),3,1139,3,2,7,19,10,4.0,1,0,1,1,1,136.87
+Andheri East / Marol / Sakinaka,2,769,2,1,11,21,1,5.8,1,0,1,1,1,145.58
+Bandra West / Khar / Santacruz West,3,1108,3,2,27,33,3,4.7,1,0,1,1,0,589.57
+Andheri West / Lokhandwala,2,668,2,2,14,18,15,0.5,1,0,1,1,1,181.85
+Goregaon / Malad West,4,1946,4,3,22,29,6,1.3,1,1,1,1,1,453.94
+Thane (Majiwada / Teen Hath Naka),1,498,1,1,16,32,3,5.4,0,1,1,1,0,80.34
+Navi Mumbai (Vashi / Palm Beach Road),2,667,2,2,12,16,6,7.2,1,0,0,1,1,134.42
+South Mumbai (Colaba / Marine Drive / Malabar Hill),2,717,2,2,10,25,15,6.9,1,0,1,1,1,468.34
+Borivali / Kandivali West,2,796,2,2,24,30,1,6.7,1,1,0,1,1,157.48
+Goregaon / Malad West,2,699,2,2,18,22,3,7.0,1,1,0,1,1,152.95
+Andheri West / Lokhandwala,2,646,2,2,22,29,3,0.7,1,1,1,1,1,225.67
+Juhu / Vile Parle West,1,497,1,1,9,22,0,8.1,1,0,0,1,1,211.32
+Andheri East / Marol / Sakinaka,1,452,1,0,17,34,0,8.0,0,1,0,0,1,80.95
+Mira Road / Bhayandar,2,861,2,2,38,49,1,4.9,0,0,1,1,0,90.91
+Andheri East / Marol / Sakinaka,2,924,2,1,40,46,3,2.5,1,1,0,1,1,186.94
+Borivali / Kandivali West,4,2168,4,3,13,28,10,5.5,1,0,1,1,1,345.12
+Thane West (Ghodbunder Road),3,1245,3,2,37,47,6,5.2,0,1,0,0,1,154.72
+Andheri East / Marol / Sakinaka,4,2554,4,3,6,23,3,2.2,1,0,1,1,1,466.23
+Kalyan / Dombivli / Beyond Thane,2,703,2,1,21,25,0,5.5,0,1,1,1,1,46.38
+Kalyan / Dombivli / Beyond Thane,2,775,2,2,36,43,1,7.2,1,1,0,1,1,54.6
+Powai / Hiranandani,1,488,1,0,7,16,1,7.3,1,0,1,1,0,129.8
+Borivali / Kandivali West,3,1547,3,2,36,44,3,0.8,1,0,1,1,0,300.33
+Powai / Hiranandani,2,664,2,1,25,42,0,2.0,0,0,1,1,1,196.23
+Powai / Hiranandani,1,401,1,1,11,18,3,6.1,0,0,0,0,1,93.58
+Worli / Lower Parel / Prabhadevi,2,927,2,2,14,29,15,7.8,1,1,1,1,1,433.14
+Ghatkopar / Mulund West,4,1999,4,2,29,45,6,4.8,0,0,1,0,1,364.52
+Borivali / Kandivali West,2,868,2,1,10,13,6,6.5,1,1,1,1,1,165.11
+Worli / Lower Parel / Prabhadevi,2,687,2,2,5,22,6,0.5,0,1,0,0,1,356.71
+Powai / Hiranandani,2,813,2,2,8,24,1,5.6,0,0,0,1,0,191.5
+Navi Mumbai (Kharghar / Belapur / Nerul),1,349,1,1,5,13,0,8.7,1,0,1,1,1,39.83
+Powai / Hiranandani,2,916,2,1,24,33,10,6.1,1,0,1,1,1,215.59
+Juhu / Vile Parle West,2,629,2,2,40,42,6,8.3,0,0,1,0,0,261.92
+Borivali / Kandivali West,1,467,1,0,26,42,3,5.2,0,0,0,1,1,75.96
+Kalyan / Dombivli / Beyond Thane,3,1441,2,3,6,16,0,7.6,1,1,0,1,1,95.14
+Powai / Hiranandani,2,697,2,1,16,21,3,1.4,1,0,1,1,1,189.85
+Chembur / Wadala,3,1262,2,1,36,45,0,1.4,0,0,0,0,1,270.87
+Thane West (Ghodbunder Road),3,1107,2,2,12,28,0,1.3,1,0,1,1,0,144.25
+Powai / Hiranandani,1,379,1,1,11,22,1,4.6,1,0,1,1,1,95.64
+Thane West (Ghodbunder Road),2,682,2,1,3,11,3,3.2,1,0,0,0,1,71.51
+Andheri East / Marol / Sakinaka,2,925,2,1,37,52,0,6.6,0,0,0,0,1,157.66
+Chembur / Wadala,3,1383,3,2,6,20,0,8.2,1,1,0,1,1,308.82
+Chembur / Wadala,1,382,1,1,19,30,6,5.7,1,0,1,0,1,85.52
+Borivali / Kandivali West,2,727,2,2,18,26,3,2.2,1,1,1,1,0,149.0
+Bandra West / Khar / Santacruz West,2,881,2,2,16,19,3,8.4,0,1,0,1,1,429.74
+Navi Mumbai (Vashi / Palm Beach Road),2,690,2,2,23,40,3,4.9,0,1,0,0,0,132.23
+Andheri East / Marol / Sakinaka,1,360,1,1,37,39,25,6.6,0,1,1,0,0,60.92
+Andheri West / Lokhandwala,2,699,2,2,9,14,0,8.0,1,1,1,1,1,216.69
+Worli / Lower Parel / Prabhadevi,3,1520,2,2,3,16,0,8.9,0,1,0,1,1,691.24
+Ghatkopar / Mulund West,2,644,2,2,8,25,3,4.7,0,0,0,1,1,131.02
+Chembur / Wadala,2,739,2,2,38,55,0,7.3,0,0,0,0,1,177.57
+South Mumbai (Colaba / Marine Drive / Malabar Hill),2,817,2,2,4,7,3,5.2,0,1,0,0,1,555.96
+Borivali / Kandivali West,2,638,2,2,12,21,3,4.5,1,1,1,1,1,123.83
+Andheri West / Lokhandwala,1,470,1,1,31,42,25,5.0,1,0,0,0,1,105.47
+Chembur / Wadala,3,1276,2,1,25,42,10,4.5,0,1,0,1,1,277.77
+Andheri West / Lokhandwala,2,746,2,2,16,24,15,4.0,0,1,1,1,1,204.86
+Thane West (Ghodbunder Road),2,674,2,1,14,23,0,6.6,1,1,0,1,1,80.9
+Andheri East / Marol / Sakinaka,1,511,1,0,13,25,10,2.5,1,1,0,1,1,99.03
+Mira Road / Bhayandar,1,451,1,1,41,48,0,5.7,0,0,1,1,1,42.18
+Juhu / Vile Parle West,2,706,2,2,7,9,3,6.5,1,1,0,0,1,301.12
+Andheri East / Marol / Sakinaka,1,405,1,1,12,27,6,8.1,1,0,0,1,1,73.68
+Juhu / Vile Parle West,3,1440,3,2,37,51,0,3.2,0,1,0,1,1,691.25
+Mira Road / Bhayandar,1,398,1,1,4,18,3,7.8,1,0,0,0,1,32.5
+Navi Mumbai (Vashi / Palm Beach Road),2,636,2,1,2,15,0,8.5,1,0,1,1,1,127.01
+Powai / Hiranandani,2,877,2,2,35,45,1,5.9,0,1,0,1,1,228.96
+Chembur / Wadala,1,439,1,1,3,10,15,7.0,1,1,1,1,1,89.64
+Thane (Majiwada / Teen Hath Naka),1,408,1,1,4,17,0,3.8,1,1,0,0,1,62.35
+Borivali / Kandivali West,2,865,2,2,38,52,0,8.6,1,0,1,1,1,168.58
+Borivali / Kandivali West,2,700,2,2,12,23,3,6.1,1,1,1,1,1,135.2
+Powai / Hiranandani,2,816,2,1,19,21,10,3.0,1,0,1,1,1,207.33
+Bandra West / Khar / Santacruz West,2,815,2,2,10,12,0,3.8,1,1,1,0,1,455.13
+Navi Mumbai (Kharghar / Belapur / Nerul),2,815,2,2,1,18,1,5.7,1,1,1,1,1,111.74
+Navi Mumbai (Kharghar / Belapur / Nerul),1,353,1,0,17,26,10,2.3,1,1,1,1,1,42.36
+Chembur / Wadala,2,676,2,2,16,23,0,6.9,1,1,0,1,1,173.32
+Andheri East / Marol / Sakinaka,4,1909,4,2,9,18,1,2.3,0,1,0,1,1,343.13
+Andheri East / Marol / Sakinaka,2,905,2,2,9,18,6,5.4,1,1,0,1,1,178.73
+Thane West (Ghodbunder Road),2,718,2,1,9,25,3,6.4,0,0,0,0,1,78.03
+Navi Mumbai (Kharghar / Belapur / Nerul),2,748,2,2,12,24,10,7.8,1,1,0,1,1,86.53
+Navi Mumbai (Kharghar / Belapur / Nerul),3,1301,3,1,41,56,0,6.7,0,0,1,0,1,139.27
+Thane (Majiwada / Teen Hath Naka),3,1237,3,2,15,24,15,7.2,1,0,0,0,1,151.75
+Chembur / Wadala,2,830,2,2,2,13,15,8.2,1,0,0,1,1,156.21
+Bandra West / Khar / Santacruz West,4,2359,4,2,11,27,0,5.5,1,0,1,1,1,1273.76
+Andheri West / Lokhandwala,1,516,1,1,11,19,0,7.7,1,1,0,0,1,141.1
+Navi Mumbai (Kharghar / Belapur / Nerul),1,349,1,0,8,16,25,2.3,1,1,1,0,1,36.47
+Ghatkopar / Mulund West,3,1364,3,1,32,43,3,7.4,1,0,0,1,1,267.52
+South Mumbai (Colaba / Marine Drive / Malabar Hill),3,1391,3,3,6,11,3,2.2,0,0,0,1,1,979.81
+Bandra West / Khar / Santacruz West,1,366,1,1,20,30,3,8.4,1,0,0,1,1,173.88
+Chembur / Wadala,1,506,1,1,39,52,6,3.2,1,1,1,1,1,122.74
+South Mumbai (Colaba / Marine Drive / Malabar Hill),1,421,1,1,35,38,10,1.8,1,0,1,1,1,318.04
+Andheri West / Lokhandwala,2,929,2,2,8,20,0,1.6,0,0,0,0,1,276.41
+Borivali / Kandivali West,3,1211,3,1,34,44,1,1.9,1,1,1,1,1,261.69
+Thane West (Ghodbunder Road),2,657,2,1,19,30,10,4.2,1,0,1,0,1,73.16
+Chembur / Wadala,2,820,2,1,7,11,10,4.8,1,1,0,1,1,175.73
+Andheri West / Lokhandwala,2,874,2,2,31,46,3,8.2,1,1,0,1,1,263.58
+Thane West (Ghodbunder Road),1,421,1,0,18,32,25,3.6,0,1,1,1,1,41.19
+Powai / Hiranandani,2,839,2,2,40,56,6,2.2,0,0,1,1,1,214.43
+Andheri East / Marol / Sakinaka,2,786,2,2,14,31,1,6.8,1,0,1,1,0,153.42
+Thane West (Ghodbunder Road),4,2108,4,3,39,42,10,1.5,1,0,1,1,1,248.53
+Chembur / Wadala,3,1253,3,1,36,50,3,8.1,1,0,1,1,1,307.35
+Navi Mumbai (Vashi / Palm Beach Road),1,498,1,0,17,22,0,3.9,1,1,0,1,1,107.14
+Chembur / Wadala,3,1453,3,1,37,43,1,5.6,0,1,0,0,1,319.43
+Ghatkopar / Mulund West,3,1512,3,2,9,12,6,1.9,1,1,0,0,0,287.95
+Bandra West / Khar / Santacruz West,3,1234,2,3,20,34,25,1.6,1,0,1,1,1,511.7
+Andheri East / Marol / Sakinaka,2,727,2,1,28,44,1,7.2,0,1,0,0,1,126.09
+Powai / Hiranandani,2,765,2,2,20,22,1,4.0,1,0,0,1,1,206.31
+Powai / Hiranandani,2,727,2,2,41,52,3,8.9,0,1,0,1,1,200.69
+Kalyan / Dombivli / Beyond Thane,1,410,1,1,36,48,10,4.9,0,1,1,1,1,28.76
+Goregaon / Malad West,1,458,1,0,27,33,6,7.7,0,1,0,1,1,100.04
+Navi Mumbai (Kharghar / Belapur / Nerul),1,384,1,1,8,18,3,8.8,1,1,1,1,1,50.55
+Chembur / Wadala,2,663,2,2,32,48,3,2.7,0,0,0,1,1,152.11
+Thane (Majiwada / Teen Hath Naka),3,1375,3,2,1,14,1,7.3,0,0,1,1,1,219.16
+Borivali / Kandivali West,2,622,2,1,17,30,3,0.5,1,0,0,1,1,117.65
+Ghatkopar / Mulund West,1,413,1,0,9,25,1,6.2,1,0,0,0,1,84.85
+Borivali / Kandivali West,4,2208,4,3,20,26,10,6.8,1,0,1,0,1,372.01
+Andheri West / Lokhandwala,4,1792,4,3,32,45,0,4.5,0,0,1,1,1,535.3
+Thane West (Ghodbunder Road),3,1194,3,2,2,14,6,1.7,0,0,1,1,1,134.49
+Powai / Hiranandani,5,4552,5,4,32,43,1,5.7,0,0,1,1,1,1233.15
+South Mumbai (Colaba / Marine Drive / Malabar Hill),2,753,2,2,9,19,3,8.1,0,1,1,0,1,532.65
+Chembur / Wadala,4,2691,4,3,30,45,1,8.4,1,1,0,1,1,664.51
+Andheri West / Lokhandwala,1,476,1,0,20,34,1,6.8,1,0,1,1,1,129.09
+Mira Road / Bhayandar,2,830,2,1,38,51,1,2.6,1,1,1,1,1,85.22
+Mira Road / Bhayandar,1,343,1,1,1,12,6,7.9,1,0,1,1,1,31.51
+Navi Mumbai (Kharghar / Belapur / Nerul),1,342,1,1,5,12,1,8.0,1,0,1,1,1,40.64
+Andheri East / Marol / Sakinaka,1,440,1,0,35,39,6,3.5,0,0,0,1,1,80.7
+South Mumbai (Colaba / Marine Drive / Malabar Hill),2,929,2,2,36,41,3,1.9,0,0,0,0,1,652.25
+Mira Road / Bhayandar,3,1105,3,3,1,6,3,7.9,1,1,0,1,1,97.74
+Goregaon / Malad West,2,943,2,2,14,16,3,8.0,0,0,1,1,1,201.24
+Kalyan / Dombivli / Beyond Thane,1,480,1,0,9,13,25,1.2,1,1,1,1,1,28.03
+Kalyan / Dombivli / Beyond Thane,3,1322,3,2,30,34,1,8.7,1,0,1,1,1,90.73
+Navi Mumbai (Vashi / Palm Beach Road),2,877,2,1,24,38,1,4.9,0,0,1,1,1,189.97
+Powai / Hiranandani,2,799,2,1,4,19,15,8.9,1,0,0,1,1,174.75
+Andheri East / Marol / Sakinaka,2,790,2,2,14,16,0,4.2,0,1,0,0,1,160.97
+Navi Mumbai (Vashi / Palm Beach Road),1,361,1,0,25,39,10,4.9,0,1,1,1,1,67.86
+Andheri East / Marol / Sakinaka,2,942,2,1,4,14,0,2.6,0,0,1,0,1,169.87
+Andheri West / Lokhandwala,3,1491,3,3,25,37,6,8.1,1,0,0,0,1,393.83
+Ghatkopar / Mulund West,2,722,2,2,10,12,0,4.2,1,0,0,0,1,129.37
+Mira Road / Bhayandar,2,916,2,1,35,45,15,7.4,1,0,1,1,1,83.73
+Thane West (Ghodbunder Road),3,1542,3,3,7,9,3,1.0,0,0,0,1,1,173.68
+Ghatkopar / Mulund West,2,676,2,2,13,30,1,7.2,0,1,0,1,1,135.04
+Bandra West / Khar / Santacruz West,1,419,1,1,4,7,0,4.6,1,0,1,1,1,233.52
+Ghatkopar / Mulund West,1,374,1,1,36,39,1,0.3,0,0,1,1,1,90.35
+Kalyan / Dombivli / Beyond Thane,1,344,1,1,14,29,6,2.3,1,1,1,0,1,20.05
+Juhu / Vile Parle West,2,946,2,1,18,25,1,2.0,1,1,0,0,1,458.35
+Borivali / Kandivali West,2,735,2,2,8,16,1,6.8,0,0,1,0,1,124.08
+Navi Mumbai (Kharghar / Belapur / Nerul),1,370,1,0,32,44,3,4.5,0,0,0,1,1,47.26
+Thane West (Ghodbunder Road),4,2538,4,2,27,29,3,1.7,1,1,0,1,1,339.74
+Thane West (Ghodbunder Road),2,685,2,2,37,41,0,2.5,1,1,1,1,1,94.59
+Thane West (Ghodbunder Road),1,499,1,1,23,26,0,4.7,1,1,1,1,1,66.87
+Andheri East / Marol / Sakinaka,2,845,2,1,7,16,6,0.5,1,1,0,0,0,153.27
+Powai / Hiranandani,2,818,2,1,12,22,25,4.0,0,0,1,1,1,160.19
+Thane (Majiwada / Teen Hath Naka),1,384,1,1,25,39,1,6.2,1,0,0,1,1,63.2
+Thane (Majiwada / Teen Hath Naka),1,464,1,0,3,6,6,4.8,1,0,1,0,1,65.98
+Navi Mumbai (Vashi / Palm Beach Road),3,1287,3,3,26,29,0,5.5,1,0,1,1,1,275.42
+Navi Mumbai (Kharghar / Belapur / Nerul),2,833,2,2,4,15,1,3.1,0,1,0,0,1,107.13
+Borivali / Kandivali West,2,871,2,1,36,52,3,1.9,0,0,1,1,0,153.27
+Borivali / Kandivali West,2,691,2,2,15,25,1,7.3,0,0,0,0,0,124.03
+Thane (Majiwada / Teen Hath Naka),1,391,1,0,32,47,3,8.2,1,0,1,1,1,67.17
+Chembur / Wadala,1,453,1,1,29,34,10,4.7,0,1,0,1,1,102.66
+Thane West (Ghodbunder Road),2,893,2,2,10,16,15,3.0,1,0,1,1,1,94.86
+Thane (Majiwada / Teen Hath Naka),1,456,1,1,21,35,0,4.7,0,0,1,1,1,75.68
+Navi Mumbai (Kharghar / Belapur / Nerul),1,403,1,1,16,28,1,7.9,0,1,0,0,1,47.89
+Andheri East / Marol / Sakinaka,3,1219,3,3,19,29,25,6.3,1,1,1,1,0,192.27
+Andheri East / Marol / Sakinaka,5,3086,5,3,29,36,1,7.8,1,0,1,0,1,592.35
+Bandra West / Khar / Santacruz West,3,1065,2,1,18,29,6,3.2,1,0,1,0,0,515.85
+Ghatkopar / Mulund West,3,1205,3,2,16,29,1,6.5,1,0,1,1,1,231.19
+Worli / Lower Parel / Prabhadevi,1,398,1,1,1,11,1,6.0,1,1,0,1,1,194.05
+Goregaon / Malad West,4,1791,4,2,2,12,0,5.3,0,1,1,1,0,348.16
+Borivali / Kandivali West,1,384,1,1,15,23,10,4.9,1,0,0,1,1,70.81
+Powai / Hiranandani,4,1888,4,2,39,54,10,5.1,1,0,1,1,1,477.9
+Ghatkopar / Mulund West,5,3922,5,4,28,41,1,7.7,0,1,1,1,1,790.21
+Worli / Lower Parel / Prabhadevi,2,747,2,2,1,12,10,8.3,0,1,0,1,1,326.38
+Worli / Lower Parel / Prabhadevi,5,4582,5,3,5,15,1,1.3,1,0,1,1,1,2432.99
+Thane (Majiwada / Teen Hath Naka),2,806,2,2,22,28,0,5.2,1,1,0,1,1,142.25
+Andheri East / Marol / Sakinaka,1,392,1,1,36,53,6,8.3,1,0,1,0,1,72.23
+Juhu / Vile Parle West,2,773,2,2,13,19,3,1.5,1,1,1,1,1,372.26
+Borivali / Kandivali West,2,766,2,2,1,14,1,3.9,1,0,0,0,1,123.62
+Thane West (Ghodbunder Road),1,432,1,1,16,25,1,1.1,1,0,1,1,1,55.26
+Andheri West / Lokhandwala,2,798,2,2,41,52,25,1.3,1,1,0,1,1,187.5
+Chembur / Wadala,5,4015,5,4,22,27,10,8.2,1,0,1,0,1,791.46
+Bandra West / Khar / Santacruz West,1,368,1,1,32,42,10,4.2,1,0,0,1,1,197.51
+Worli / Lower Parel / Prabhadevi,3,1146,3,1,16,24,0,6.3,1,0,1,1,1,582.33
+Borivali / Kandivali West,3,1530,3,3,15,23,6,1.5,1,0,0,1,1,277.39
+Borivali / Kandivali West,4,1745,4,3,12,26,1,0.5,1,0,0,1,1,345.34
+Chembur / Wadala,4,2302,4,3,1,17,25,8.0,1,1,1,1,1,432.14
+Thane West (Ghodbunder Road),2,730,2,2,17,21,0,5.3,0,1,1,1,1,90.51
+Kalyan / Dombivli / Beyond Thane,4,2404,4,2,41,46,1,0.5,1,0,0,1,1,164.84
+Borivali / Kandivali West,3,1148,3,2,28,36,3,8.9,0,1,1,0,1,206.22
+Andheri East / Marol / Sakinaka,1,468,1,1,7,19,10,4.6,1,0,0,0,0,80.55
+Thane (Majiwada / Teen Hath Naka),2,703,2,1,9,21,6,4.4,1,0,0,1,0,106.22
+Powai / Hiranandani,2,670,2,1,22,37,1,5.7,1,0,0,1,1,171.58
+Goregaon / Malad West,1,465,1,1,26,32,3,0.4,1,0,1,1,1,107.5
+Bandra West / Khar / Santacruz West,2,688,2,2,12,25,10,5.3,0,1,1,0,0,357.79
+South Mumbai (Colaba / Marine Drive / Malabar Hill),2,807,2,2,7,11,0,5.8,1,0,1,1,1,628.77
+Kalyan / Dombivli / Beyond Thane,1,498,1,1,15,17,10,2.9,1,0,1,1,1,31.56
+Navi Mumbai (Vashi / Palm Beach Road),2,695,2,2,38,46,15,6.6,1,1,1,1,1,138.12
+Thane West (Ghodbunder Road),3,1134,2,3,21,28,0,3.6,0,1,0,1,0,144.7
+Goregaon / Malad West,2,796,2,2,14,25,0,6.5,0,0,1,1,1,163.28
+Andheri West / Lokhandwala,1,472,1,0,2,18,1,1.6,0,1,0,1,1,140.69
+Andheri West / Lokhandwala,1,429,1,1,8,16,0,8.2,1,0,0,1,1,120.67
+Powai / Hiranandani,2,855,2,1,6,22,3,8.0,0,0,0,1,0,206.05
+Borivali / Kandivali West,4,1960,4,3,37,52,6,1.6,0,0,1,1,1,354.49
+Thane West (Ghodbunder Road),1,354,1,1,37,40,3,8.5,1,0,0,1,1,40.37
+Chembur / Wadala,2,876,2,1,33,47,0,5.2,1,1,1,0,1,223.87
+Powai / Hiranandani,1,342,1,1,41,54,6,6.4,1,0,1,1,1,87.89
+Mira Road / Bhayandar,2,632,2,2,6,11,6,7.6,1,0,0,1,1,52.92
+Thane West (Ghodbunder Road),3,1360,3,3,26,29,15,1.0,1,1,0,1,1,165.55
+Borivali / Kandivali West,3,1204,3,2,39,48,0,1.8,1,0,1,1,1,239.56
+Ghatkopar / Mulund West,1,441,1,1,41,49,6,2.8,0,0,1,1,1,94.92
+Goregaon / Malad West,2,883,2,2,37,39,15,4.5,1,1,1,1,1,183.0
+Powai / Hiranandani,1,403,1,0,14,17,3,3.3,0,0,0,1,1,101.03
+Andheri East / Marol / Sakinaka,2,819,2,2,37,40,1,4.7,1,1,0,1,1,179.56
+Thane West (Ghodbunder Road),2,867,2,1,8,13,0,1.9,0,0,1,1,1,107.08
+South Mumbai (Colaba / Marine Drive / Malabar Hill),1,397,1,1,39,43,10,6.2,1,1,1,1,1,304.26
+Juhu / Vile Parle West,2,868,2,2,13,15,1,0.8,1,0,0,0,1,391.15
+Worli / Lower Parel / Prabhadevi,2,884,2,1,13,26,15,3.4,1,0,1,1,1,409.92
+Worli / Lower Parel / Prabhadevi,3,1203,3,3,40,55,10,1.9,1,0,0,1,1,596.27
+Navi Mumbai (Vashi / Palm Beach Road),5,3548,5,4,28,31,1,6.7,0,0,1,1,1,719.7
+Thane West (Ghodbunder Road),1,410,1,1,18,35,3,8.0,1,0,1,1,1,52.74
+Borivali / Kandivali West,3,1281,2,2,19,31,0,1.0,1,1,1,1,1,270.44
+Bandra West / Khar / Santacruz West,2,785,2,1,38,48,1,7.1,1,0,0,0,0,400.37
+Borivali / Kandivali West,2,844,2,2,32,46,6,8.1,0,1,1,1,1,177.61
+Borivali / Kandivali West,3,1298,3,2,22,24,6,8.8,1,1,1,1,1,257.01
+Andheri West / Lokhandwala,3,1139,3,2,2,12,1,5.3,1,1,1,1,1,315.81
+Goregaon / Malad West,4,2687,4,3,13,21,10,3.1,1,0,0,1,1,547.45
+Goregaon / Malad West,2,947,2,2,23,26,1,3.1,1,0,0,0,1,207.18
+Ghatkopar / Mulund West,2,661,2,1,25,28,3,3.6,0,1,0,1,1,131.12
+Chembur / Wadala,3,1213,3,2,28,34,3,5.6,1,1,1,1,1,290.96
+Worli / Lower Parel / Prabhadevi,1,405,1,1,11,25,1,4.6,0,1,0,1,1,193.61
+Andheri East / Marol / Sakinaka,2,748,2,1,33,39,15,6.0,1,0,1,1,1,133.4
+Chembur / Wadala,2,772,2,1,24,29,6,0.6,1,0,1,1,1,171.58
+Borivali / Kandivali West,2,686,2,2,2,15,3,1.2,1,0,0,1,1,123.3
+Navi Mumbai (Vashi / Palm Beach Road),1,397,1,1,30,41,3,8.8,1,0,1,1,1,76.15
+Chembur / Wadala,1,405,1,0,17,28,0,9.0,1,0,1,1,1,96.24
+Andheri West / Lokhandwala,3,1131,3,1,40,54,1,6.8,1,1,1,1,1,342.03
+Bandra West / Khar / Santacruz West,1,376,1,1,34,47,6,2.5,1,1,0,1,1,209.89
+Chembur / Wadala,2,643,2,1,38,42,15,8.6,1,1,1,1,1,128.72
+South Mumbai (Colaba / Marine Drive / Malabar Hill),1,404,1,0,22,27,10,2.2,1,0,1,1,1,281.45
+Ghatkopar / Mulund West,1,468,1,0,5,16,1,6.7,0,0,0,1,0,90.97
+Mira Road / Bhayandar,1,444,1,0,40,45,3,1.3,0,1,0,0,1,38.64
+Ghatkopar / Mulund West,1,385,1,1,16,19,0,5.9,1,1,0,1,1,84.69
+Goregaon / Malad West,3,1265,3,2,13,19,0,6.9,1,0,1,1,1,270.43
+Chembur / Wadala,2,643,2,1,26,42,3,7.8,1,1,1,0,1,144.32
+Goregaon / Malad West,4,2246,4,3,31,37,3,6.7,0,1,1,1,1,473.23
+Borivali / Kandivali West,2,647,2,1,39,45,1,8.3,0,0,0,0,1,113.39
+Mira Road / Bhayandar,2,635,2,2,23,35,3,4.8,1,0,0,1,1,66.04
+Andheri East / Marol / Sakinaka,2,862,2,1,12,28,6,6.2,1,0,0,0,1,168.51
+Mira Road / Bhayandar,2,890,2,2,14,26,1,3.5,1,0,1,1,1,79.92
+Navi Mumbai (Kharghar / Belapur / Nerul),3,1316,3,2,18,29,6,0.4,1,0,1,1,1,178.1
+Andheri West / Lokhandwala,2,687,2,2,27,29,1,6.9,0,1,1,1,1,219.8
+Bandra West / Khar / Santacruz West,2,694,2,1,28,35,3,7.9,1,0,1,0,1,334.16
+Bandra West / Khar / Santacruz West,3,1152,3,1,18,30,10,1.8,0,0,1,1,0,546.32
+South Mumbai (Colaba / Marine Drive / Malabar Hill),4,2666,4,2,16,19,3,0.5,1,0,0,1,1,2080.76
+Bandra West / Khar / Santacruz West,3,1088,3,2,16,24,15,1.7,1,0,0,1,1,513.27
+Thane West (Ghodbunder Road),2,645,2,1,13,18,0,8.1,1,1,1,0,1,73.61
+Bandra West / Khar / Santacruz West,3,1225,3,3,29,45,3,2.9,1,0,0,1,1,680.27
+Andheri East / Marol / Sakinaka,2,751,2,2,9,15,3,2.3,0,1,1,1,1,149.43
+Navi Mumbai (Vashi / Palm Beach Road),2,736,2,2,26,32,6,0.4,1,1,0,1,1,167.8
+South Mumbai (Colaba / Marine Drive / Malabar Hill),1,367,1,1,28,34,10,2.9,1,0,0,1,1,268.83
+Thane (Majiwada / Teen Hath Naka),2,807,2,1,41,44,6,6.5,0,0,1,1,1,125.79
+Powai / Hiranandani,1,451,1,1,13,19,6,8.6,1,0,0,1,1,108.61
+Juhu / Vile Parle West,2,655,2,1,36,40,1,3.0,1,0,0,0,1,319.03
+Thane West (Ghodbunder Road),3,1266,3,2,9,14,1,2.4,0,0,1,1,1,140.49
+Chembur / Wadala,1,408,1,0,14,28,3,8.0,1,0,1,0,1,84.32
+Navi Mumbai (Kharghar / Belapur / Nerul),1,361,1,1,12,15,3,7.7,1,0,1,1,1,47.12
+Thane West (Ghodbunder Road),1,448,1,0,32,37,25,3.2,0,1,1,1,1,46.14
+Thane (Majiwada / Teen Hath Naka),4,1880,4,3,38,52,0,0.9,1,0,1,1,0,318.43
+Powai / Hiranandani,2,783,2,1,3,13,1,8.9,1,0,0,1,1,200.49
+Andheri West / Lokhandwala,2,799,2,2,16,25,3,6.2,1,1,1,1,1,243.39
+Thane West (Ghodbunder Road),3,1483,2,2,20,34,10,8.4,1,1,0,1,1,154.07
+Thane (Majiwada / Teen Hath Naka),3,1115,3,2,32,47,15,3.3,0,0,0,0,1,155.95
+Kalyan / Dombivli / Beyond Thane,2,722,2,1,23,39,1,5.9,1,0,0,1,1,44.08
+Goregaon / Malad West,2,904,2,1,17,29,0,6.2,1,0,0,0,1,188.39
+Andheri East / Marol / Sakinaka,3,1134,3,2,16,29,3,7.9,1,1,0,1,0,218.24
+Thane (Majiwada / Teen Hath Naka),2,862,2,2,38,42,1,8.9,1,0,0,1,1,141.91
+Andheri East / Marol / Sakinaka,1,388,1,0,8,10,25,1.2,1,0,1,1,1,63.68
+Mira Road / Bhayandar,3,1293,2,2,19,21,3,5.8,1,1,1,1,1,117.47
+Navi Mumbai (Vashi / Palm Beach Road),2,718,2,1,30,37,1,3.2,0,0,0,1,1,133.57
+Goregaon / Malad West,2,621,2,1,34,38,1,7.4,1,1,0,0,1,125.57
+Thane West (Ghodbunder Road),2,830,2,2,14,19,1,6.9,0,0,0,0,0,85.29
+Thane West (Ghodbunder Road),1,421,1,0,22,24,10,8.1,1,0,0,1,1,47.62
+Bandra West / Khar / Santacruz West,1,479,1,1,17,26,0,3.3,1,0,0,0,1,259.12
+Navi Mumbai (Kharghar / Belapur / Nerul),3,1319,3,2,15,17,1,1.9,1,0,1,1,1,169.36
+Borivali / Kandivali West,1,420,1,0,32,38,25,0.5,1,0,0,1,0,64.96
+Thane (Majiwada / Teen Hath Naka),2,651,2,2,13,20,0,2.5,1,1,0,1,1,109.61
+Andheri East / Marol / Sakinaka,2,688,2,2,21,37,6,3.5,1,0,1,1,0,119.49
+Navi Mumbai (Kharghar / Belapur / Nerul),1,476,1,1,40,43,1,8.5,1,1,1,1,1,66.77
+Goregaon / Malad West,4,2695,4,3,33,41,3,4.6,0,1,1,1,1,606.75
+South Mumbai (Colaba / Marine Drive / Malabar Hill),1,485,1,0,27,44,0,5.1,1,0,0,1,1,365.5
+Navi Mumbai (Kharghar / Belapur / Nerul),2,804,2,1,35,43,1,8.0,0,0,1,1,1,98.2
+Bandra West / Khar / Santacruz West,2,733,2,2,16,33,3,8.0,1,1,0,1,1,376.32
+Andheri East / Marol / Sakinaka,1,482,1,0,28,30,1,4.9,0,1,1,1,1,90.8
+Mira Road / Bhayandar,1,509,1,0,34,39,3,1.3,1,0,1,1,1,51.84
+Mira Road / Bhayandar,3,1398,3,2,1,14,1,2.7,0,1,0,1,0,120.63
+Ghatkopar / Mulund West,4,2644,4,3,41,55,6,4.3,1,1,1,0,1,532.91
+Chembur / Wadala,1,414,1,1,31,48,15,6.8,1,1,1,1,0,86.93
+Goregaon / Malad West,2,733,2,2,36,41,0,6.5,0,1,1,1,1,171.46
+Powai / Hiranandani,3,1369,2,2,33,39,1,5.9,1,0,0,1,1,344.04
+Andheri East / Marol / Sakinaka,3,1491,3,3,33,35,10,8.0,1,0,1,1,0,287.17
+Chembur / Wadala,2,932,2,1,39,41,3,7.3,0,0,1,1,1,216.28
+Thane West (Ghodbunder Road),2,815,2,2,18,26,0,8.8,1,1,0,1,1,97.0
+Thane (Majiwada / Teen Hath Naka),2,711,2,1,23,33,3,8.0,1,1,1,1,1,117.83
+Thane (Majiwada / Teen Hath Naka),2,627,2,2,23,25,1,2.0,1,1,1,1,1,100.15
+Bandra West / Khar / Santacruz West,3,1285,3,3,15,32,0,0.8,0,1,1,1,1,754.78
+Borivali / Kandivali West,1,384,1,1,26,29,15,3.9,1,1,1,0,1,65.47
+Worli / Lower Parel / Prabhadevi,2,651,2,2,30,37,6,5.7,0,1,1,1,1,310.96
+Borivali / Kandivali West,3,1116,2,2,25,41,6,5.9,0,1,0,0,1,190.51
+Goregaon / Malad West,3,1180,3,2,16,32,1,2.6,0,0,0,1,1,239.3
+Navi Mumbai (Kharghar / Belapur / Nerul),5,3904,5,4,39,46,0,7.8,1,1,1,0,1,524.32
+Andheri East / Marol / Sakinaka,3,1435,3,2,14,17,10,3.2,0,1,0,1,1,283.47
+Juhu / Vile Parle West,2,644,2,2,17,27,0,8.3,1,1,1,1,1,335.5
+Juhu / Vile Parle West,2,850,2,2,12,17,1,4.4,0,1,0,1,1,371.69
+Thane West (Ghodbunder Road),2,930,2,1,29,43,1,0.4,1,0,1,1,1,133.46
+Ghatkopar / Mulund West,1,469,1,0,32,40,3,1.7,0,1,1,0,1,97.17
+Bandra West / Khar / Santacruz West,2,916,2,2,24,31,1,1.2,1,1,1,1,1,481.32
+Bandra West / Khar / Santacruz West,2,650,2,2,13,25,1,0.7,1,1,1,1,1,378.74
+Thane West (Ghodbunder Road),1,469,1,0,20,34,10,6.5,1,1,0,1,1,49.89
+Bandra West / Khar / Santacruz West,3,1382,3,2,15,27,3,2.0,1,0,0,1,1,704.44
+Thane (Majiwada / Teen Hath Naka),2,919,2,2,4,8,0,7.6,1,0,1,1,1,158.42
+Thane West (Ghodbunder Road),4,2523,4,2,34,43,6,2.6,1,1,0,0,1,285.26
+Bandra West / Khar / Santacruz West,1,466,1,0,28,36,1,0.6,1,0,1,1,1,252.37
+Bandra West / Khar / Santacruz West,1,369,1,0,2,12,3,7.4,1,1,0,0,1,182.6
+Kalyan / Dombivli / Beyond Thane,2,674,2,1,30,47,3,4.4,1,1,1,0,0,43.44
+Andheri East / Marol / Sakinaka,2,622,2,2,26,30,1,5.5,1,1,1,0,1,121.83
+Andheri East / Marol / Sakinaka,2,745,2,2,26,28,1,3.2,0,0,1,1,1,146.37
+Thane (Majiwada / Teen Hath Naka),3,1247,3,2,20,23,6,0.7,0,1,1,1,1,193.09
+Mira Road / Bhayandar,1,381,1,1,28,41,15,3.5,1,0,1,1,1,33.79
+Kalyan / Dombivli / Beyond Thane,2,630,2,2,20,32,3,4.8,1,0,0,0,1,37.11
+Thane West (Ghodbunder Road),2,765,2,1,11,27,0,0.4,1,1,0,0,1,102.72
+Andheri East / Marol / Sakinaka,2,723,2,1,10,23,1,5.3,0,0,0,1,1,123.51
+Bandra West / Khar / Santacruz West,4,2255,4,3,23,25,1,8.1,0,0,0,1,1,1092.72
+Thane (Majiwada / Teen Hath Naka),3,1230,3,2,37,49,1,2.2,1,0,0,0,1,185.96
+Ghatkopar / Mulund West,2,874,2,1,41,47,3,8.4,1,0,0,1,1,171.61
+Goregaon / Malad West,2,649,2,2,19,36,3,1.1,0,1,0,1,1,134.87
+Navi Mumbai (Kharghar / Belapur / Nerul),2,932,2,2,18,34,0,7.5,1,1,1,0,1,123.78
+Bandra West / Khar / Santacruz West,4,1814,4,3,27,38,1,7.6,1,1,0,0,1,937.19
+Borivali / Kandivali West,2,900,2,2,6,21,3,2.5,1,0,0,0,1,163.54
+South Mumbai (Colaba / Marine Drive / Malabar Hill),3,1380,3,1,10,13,1,8.6,1,0,1,1,1,1025.33
+Goregaon / Malad West,3,1264,3,2,2,19,25,3.9,1,0,1,1,1,238.56
+Worli / Lower Parel / Prabhadevi,1,366,1,1,24,28,3,1.5,0,0,0,1,1,176.78
+Juhu / Vile Parle West,3,1433,3,3,38,47,10,5.4,0,1,1,1,1,626.24
+Juhu / Vile Parle West,1,508,1,0,28,44,10,9.0,1,0,1,1,0,229.75
+Chembur / Wadala,2,848,2,2,28,39,10,8.1,0,0,1,0,1,154.91
+Thane West (Ghodbunder Road),2,635,2,2,39,54,0,2.7,0,0,1,0,1,74.43
+Ghatkopar / Mulund West,4,2237,4,3,2,8,15,5.3,1,0,1,1,0,391.97
+Mira Road / Bhayandar,3,1061,3,2,5,10,0,1.3,0,0,1,1,1,100.99
+Andheri East / Marol / Sakinaka,2,796,2,2,11,28,0,4.3,0,0,1,1,1,159.42
+Powai / Hiranandani,3,1071,3,1,10,16,3,4.9,1,0,0,1,1,285.74
+Navi Mumbai (Vashi / Palm Beach Road),2,726,2,2,2,13,0,3.0,0,0,1,1,1,142.16
+Andheri West / Lokhandwala,4,2446,4,3,15,22,0,4.5,0,1,1,1,0,706.62
+Kalyan / Dombivli / Beyond Thane,2,861,2,1,39,52,1,8.3,0,0,1,1,1,54.66
+South Mumbai (Colaba / Marine Drive / Malabar Hill),2,901,2,2,41,49,1,4.7,0,1,1,0,1,686.53
+Kalyan / Dombivli / Beyond Thane,1,378,1,1,37,52,6,7.5,1,0,0,1,1,21.24
+Worli / Lower Parel / Prabhadevi,3,1225,3,2,7,21,0,3.1,0,1,0,1,1,627.92
+Navi Mumbai (Kharghar / Belapur / Nerul),3,1418,3,3,20,30,3,8.8,0,0,1,1,1,163.94
+Borivali / Kandivali West,2,725,2,2,34,36,25,1.1,1,0,1,1,1,119.28
+Kalyan / Dombivli / Beyond Thane,1,494,1,1,35,40,3,5.4,1,1,0,0,1,30.89
+Bandra West / Khar / Santacruz West,3,1525,3,2,34,51,3,7.2,0,1,1,1,1,910.82
+Borivali / Kandivali West,1,496,1,0,22,35,25,7.4,1,0,1,0,1,76.38
+Kalyan / Dombivli / Beyond Thane,2,769,2,2,31,44,0,2.0,0,0,1,1,1,52.21
+Borivali / Kandivali West,4,2237,4,2,23,33,3,3.8,0,1,0,1,1,443.74
+Chembur / Wadala,2,759,2,2,19,25,10,5.7,1,1,1,1,1,168.3
+Thane West (Ghodbunder Road),1,361,1,1,4,13,15,3.0,1,0,1,0,1,35.35
+Goregaon / Malad West,2,723,2,1,24,37,3,6.0,1,0,1,1,1,138.49
+Chembur / Wadala,3,1190,3,1,20,22,0,3.6,1,1,1,1,1,309.63
+Ghatkopar / Mulund West,2,802,2,1,39,44,15,3.4,0,0,0,1,1,147.92
+Navi Mumbai (Kharghar / Belapur / Nerul),4,1778,4,3,28,41,0,1.2,1,0,1,1,1,239.79
+Worli / Lower Parel / Prabhadevi,1,469,1,1,39,56,1,0.6,1,1,0,1,1,258.11
+Powai / Hiranandani,2,845,2,2,17,34,1,7.6,1,0,1,0,1,202.94
+Mira Road / Bhayandar,2,653,2,1,19,34,3,4.6,0,1,1,0,1,58.3
+Navi Mumbai (Kharghar / Belapur / Nerul),3,1180,2,3,35,48,6,5.2,1,1,1,1,1,150.2
+Goregaon / Malad West,1,409,1,0,32,42,10,3.5,0,1,0,1,1,86.2
+Ghatkopar / Mulund West,3,1241,3,1,39,53,6,1.5,1,1,1,1,1,283.02
+Powai / Hiranandani,2,722,2,2,35,37,0,4.2,0,0,1,1,1,192.21
+Andheri West / Lokhandwala,2,752,2,2,30,32,3,2.3,1,0,0,1,0,232.29
+Goregaon / Malad West,1,460,1,1,17,22,6,7.6,1,1,1,1,1,111.13
+Andheri East / Marol / Sakinaka,3,1502,3,1,29,44,3,8.9,0,1,0,1,1,292.7
+Ghatkopar / Mulund West,1,368,1,1,6,10,15,8.0,1,0,1,1,0,65.08
+Bandra West / Khar / Santacruz West,2,916,2,2,17,25,10,4.9,1,1,1,0,1,413.96
+Kalyan / Dombivli / Beyond Thane,2,792,2,2,17,29,3,5.8,0,1,0,1,1,50.49
+Kalyan / Dombivli / Beyond Thane,3,1073,3,3,14,18,0,8.5,0,0,1,1,1,66.61
+Thane West (Ghodbunder Road),2,933,2,1,24,26,6,5.0,1,0,0,0,1,106.96
+Borivali / Kandivali West,3,1468,3,1,37,50,15,5.9,1,1,1,1,1,259.02
+Powai / Hiranandani,1,434,1,0,40,57,1,5.8,0,0,1,1,1,108.89
+Thane (Majiwada / Teen Hath Naka),2,918,2,2,39,55,10,6.5,0,1,0,1,1,130.39
+Thane West (Ghodbunder Road),2,811,2,2,32,44,1,5.9,1,0,0,1,1,102.24
+Andheri West / Lokhandwala,3,1292,3,1,36,47,3,6.1,1,0,1,1,1,323.5
+Navi Mumbai (Kharghar / Belapur / Nerul),3,1215,3,2,37,40,3,6.6,1,0,1,1,1,159.09
+Thane (Majiwada / Teen Hath Naka),1,368,1,0,14,25,6,7.3,0,0,1,1,1,50.09
+Mira Road / Bhayandar,2,875,2,2,27,41,10,3.8,1,1,0,1,1,86.71
+Thane West (Ghodbunder Road),1,404,1,0,19,24,1,6.8,0,1,0,0,1,45.83
+Ghatkopar / Mulund West,2,913,2,2,31,33,1,1.2,1,1,1,1,1,220.26
+Goregaon / Malad West,2,868,2,1,9,11,6,7.9,0,0,1,0,1,165.46
+Mira Road / Bhayandar,2,902,2,2,38,51,0,2.8,0,0,1,0,1,88.71
+Navi Mumbai (Vashi / Palm Beach Road),2,817,2,2,17,32,3,3.8,1,0,1,0,1,178.27
+Worli / Lower Parel / Prabhadevi,2,663,2,2,19,28,0,7.3,1,0,0,1,1,350.86
+South Mumbai (Colaba / Marine Drive / Malabar Hill),2,636,2,2,4,12,0,5.8,1,1,1,1,1,505.69
+Andheri East / Marol / Sakinaka,3,1217,3,2,11,26,6,3.0,0,0,1,1,1,218.57
+Thane (Majiwada / Teen Hath Naka),2,850,2,2,22,31,6,2.3,1,1,1,1,1,145.54
+Kalyan / Dombivli / Beyond Thane,1,385,1,1,4,18,0,8.6,0,1,1,1,1,25.71
+Juhu / Vile Parle West,3,1207,2,3,17,22,1,1.1,0,1,1,1,1,593.99
+Ghatkopar / Mulund West,2,688,2,1,8,15,0,0.3,0,0,0,1,1,140.35
+Andheri East / Marol / Sakinaka,2,835,2,2,34,50,3,6.2,0,1,0,1,0,153.74
+Kalyan / Dombivli / Beyond Thane,2,713,2,2,11,25,0,5.6,1,0,1,1,1,47.48
+Navi Mumbai (Vashi / Palm Beach Road),2,734,2,2,31,35,3,6.7,0,0,0,1,1,145.27
+Navi Mumbai (Vashi / Palm Beach Road),1,370,1,1,11,23,6,6.7,1,1,0,1,0,68.36
+Goregaon / Malad West,2,749,2,2,38,52,6,7.8,1,0,1,0,1,155.56
+Goregaon / Malad West,4,2238,4,2,21,30,1,8.3,1,1,1,1,1,502.62
+Powai / Hiranandani,2,621,2,2,30,35,6,7.0,0,1,1,1,1,161.01
+Worli / Lower Parel / Prabhadevi,2,640,2,2,10,14,15,2.3,0,1,1,1,1,285.6
+Navi Mumbai (Vashi / Palm Beach Road),2,799,2,2,26,31,1,4.3,1,1,0,1,1,185.79
+Thane (Majiwada / Teen Hath Naka),1,432,1,1,27,34,1,5.9,0,0,1,1,1,65.75
+Kalyan / Dombivli / Beyond Thane,2,936,2,1,8,20,3,5.0,0,0,0,1,1,61.94
+Kalyan / Dombivli / Beyond Thane,3,1547,2,3,39,47,1,1.7,1,1,0,0,0,103.61
+Borivali / Kandivali West,1,365,1,1,8,16,6,5.4,0,1,1,0,0,61.95
+Thane West (Ghodbunder Road),1,406,1,1,8,23,10,8.0,1,1,0,1,1,46.78
+Mira Road / Bhayandar,1,390,1,1,34,50,3,3.9,1,0,1,1,1,38.66
+Navi Mumbai (Vashi / Palm Beach Road),2,667,2,1,16,29,6,6.1,0,1,1,0,1,139.57
+Powai / Hiranandani,5,4314,5,4,41,58,6,5.7,1,0,0,1,1,1096.63
+Goregaon / Malad West,1,433,1,0,13,18,0,3.6,1,0,1,1,1,87.24
+Juhu / Vile Parle West,2,897,2,1,23,32,0,5.2,0,1,1,0,1,399.73
+Mira Road / Bhayandar,1,514,1,0,12,20,10,2.1,0,0,0,0,1,42.83
+Ghatkopar / Mulund West,4,2591,4,2,27,30,15,5.1,1,1,0,1,0,483.08
+Andheri West / Lokhandwala,1,498,1,0,22,36,6,7.2,1,0,1,1,1,135.08
+Chembur / Wadala,2,723,2,2,32,41,15,6.9,1,1,1,1,1,154.02
+Ghatkopar / Mulund West,3,1249,3,2,27,37,1,3.4,0,1,1,1,1,258.14
+Andheri East / Marol / Sakinaka,2,635,2,1,2,8,1,1.3,1,0,0,1,1,121.05
+Juhu / Vile Parle West,2,824,2,2,33,49,1,7.3,1,0,1,1,1,378.79
+Chembur / Wadala,2,658,2,2,26,31,0,2.6,1,0,0,1,1,167.55
+Borivali / Kandivali West,2,875,2,1,28,45,10,0.8,1,1,0,1,0,162.79
+Thane West (Ghodbunder Road),1,451,1,1,19,24,25,4.2,1,0,0,0,1,40.05
+Borivali / Kandivali West,1,476,1,0,5,19,10,6.7,1,1,0,1,0,82.34
+Navi Mumbai (Vashi / Palm Beach Road),2,797,2,2,33,50,3,7.3,1,1,0,1,1,150.18
+Borivali / Kandivali West,1,354,1,0,20,25,1,8.8,1,1,1,1,1,61.46
+Ghatkopar / Mulund West,2,938,2,1,30,37,0,1.9,1,0,1,1,1,210.55
+Navi Mumbai (Vashi / Palm Beach Road),2,827,2,2,8,20,1,2.9,1,0,0,1,1,166.99
+Goregaon / Malad West,4,1979,4,3,38,43,6,5.6,1,0,0,0,1,351.87
+Juhu / Vile Parle West,2,924,2,2,17,34,3,7.4,1,1,0,1,1,431.23
+Worli / Lower Parel / Prabhadevi,1,343,1,1,1,9,15,2.3,1,1,1,1,1,159.03
+Thane West (Ghodbunder Road),1,399,1,0,3,11,10,3.9,1,1,0,1,1,42.41
+Ghatkopar / Mulund West,4,1926,4,3,26,32,0,3.9,1,0,1,1,1,431.28
+Thane West (Ghodbunder Road),2,648,2,2,31,45,0,7.0,1,0,0,1,1,85.16
+Andheri West / Lokhandwala,1,353,1,1,8,14,6,2.4,1,0,1,1,1,108.02
+Juhu / Vile Parle West,2,908,2,2,8,24,1,8.7,1,0,0,1,1,409.24
+South Mumbai (Colaba / Marine Drive / Malabar Hill),2,898,2,2,35,46,6,4.7,0,1,1,1,1,690.93
+Andheri East / Marol / Sakinaka,2,805,2,2,39,48,3,2.8,1,1,0,1,1,179.3
+Ghatkopar / Mulund West,1,359,1,1,28,36,1,2.8,0,0,1,1,0,75.38
+Goregaon / Malad West,1,442,1,0,4,19,3,0.5,1,0,0,1,1,93.62
+Goregaon / Malad West,4,2165,4,2,16,24,3,6.3,1,0,0,0,0,414.9
+Navi Mumbai (Kharghar / Belapur / Nerul),1,372,1,1,13,20,10,7.1,0,0,0,1,1,41.86
+Andheri East / Marol / Sakinaka,2,637,2,2,20,28,0,0.6,1,0,0,0,1,115.13
+Borivali / Kandivali West,2,808,2,2,5,13,10,5.4,1,1,1,1,1,151.94
+Thane (Majiwada / Teen Hath Naka),2,638,2,1,37,48,6,7.1,0,1,1,1,1,94.37
+Goregaon / Malad West,2,739,2,2,20,35,6,3.6,1,0,0,1,1,147.56
+Ghatkopar / Mulund West,1,423,1,1,24,27,0,4.1,1,0,1,1,0,92.44
+Navi Mumbai (Vashi / Palm Beach Road),2,949,2,1,36,51,3,3.4,1,1,0,1,1,223.16
+Mira Road / Bhayandar,3,1390,2,3,34,45,3,3.0,0,1,0,1,1,131.44
+Juhu / Vile Parle West,4,2144,4,2,34,37,3,4.6,0,0,1,0,1,909.13
+Mira Road / Bhayandar,1,466,1,0,19,34,6,1.7,1,0,1,1,1,45.77
+Borivali / Kandivali West,1,346,1,0,17,28,3,4.1,1,1,1,1,0,67.34
+Powai / Hiranandani,4,1715,4,3,5,13,10,8.5,0,0,1,1,1,356.05
+Goregaon / Malad West,3,1061,3,2,25,40,1,0.5,1,1,0,1,1,260.93
+Kalyan / Dombivli / Beyond Thane,3,1476,3,2,18,29,10,1.7,1,0,0,0,1,83.92
+Borivali / Kandivali West,1,380,1,1,8,16,0,7.1,0,1,1,0,1,67.92
+Andheri East / Marol / Sakinaka,2,902,2,2,27,35,10,1.4,1,0,1,1,1,176.16
+Chembur / Wadala,2,685,2,1,15,21,15,2.7,1,0,0,1,0,146.64
+Powai / Hiranandani,2,936,2,1,13,15,1,4.3,0,1,1,0,0,232.7
+Bandra West / Khar / Santacruz West,2,722,2,2,16,31,3,8.5,0,0,1,1,1,364.51
+Juhu / Vile Parle West,1,340,1,1,22,25,6,1.9,1,1,1,1,1,151.81
+Juhu / Vile Parle West,2,920,2,2,20,34,0,8.3,1,0,0,0,1,400.18
+Andheri West / Lokhandwala,1,365,1,1,13,23,3,6.6,1,0,1,1,1,97.83
+Juhu / Vile Parle West,2,801,2,1,20,29,1,6.1,1,1,1,1,1,386.43
+Chembur / Wadala,4,2466,4,3,2,11,10,6.6,1,1,0,0,1,495.39
+Andheri West / Lokhandwala,2,650,2,2,35,46,10,0.6,1,0,1,0,1,181.73
+Andheri East / Marol / Sakinaka,3,1528,3,2,19,36,6,1.2,1,1,0,1,1,284.58
+Navi Mumbai (Kharghar / Belapur / Nerul),1,481,1,1,37,39,6,3.2,1,0,1,1,1,57.88
+Borivali / Kandivali West,2,875,2,1,6,13,6,0.9,1,1,1,0,1,165.12
+Chembur / Wadala,4,1723,4,2,14,30,1,8.9,1,0,1,0,1,411.59
+Andheri West / Lokhandwala,1,430,1,0,4,20,3,5.3,1,0,1,0,1,118.34
+Andheri West / Lokhandwala,1,371,1,0,22,32,3,4.5,1,0,1,1,1,111.47
+Worli / Lower Parel / Prabhadevi,2,656,2,2,39,56,15,7.1,0,1,1,0,1,286.1
+Andheri West / Lokhandwala,1,403,1,0,36,52,6,8.8,0,1,1,1,1,109.45
+Powai / Hiranandani,3,1231,3,1,34,43,3,8.6,1,1,1,1,1,347.27
+Andheri West / Lokhandwala,3,1102,2,2,27,31,6,7.2,1,1,0,1,1,296.77
+Bandra West / Khar / Santacruz West,2,886,2,2,7,12,1,3.6,1,0,0,1,1,499.7
+Juhu / Vile Parle West,1,439,1,1,3,19,6,0.9,1,0,0,0,1,190.58
+Goregaon / Malad West,2,634,2,1,33,37,3,1.2,1,1,1,0,0,163.99
+Andheri West / Lokhandwala,3,1150,3,3,2,9,1,0.3,0,0,0,1,1,349.53
+Andheri East / Marol / Sakinaka,1,446,1,0,16,31,3,0.3,1,1,1,1,1,96.84
+Borivali / Kandivali West,2,749,2,2,25,35,6,8.4,1,1,1,1,1,145.95
+Thane West (Ghodbunder Road),2,863,2,2,15,31,3,8.4,1,0,1,0,1,95.85
+Worli / Lower Parel / Prabhadevi,2,925,2,1,24,33,3,6.1,1,0,0,1,1,486.08
+Thane (Majiwada / Teen Hath Naka),1,398,1,1,15,31,6,6.6,1,0,0,1,1,58.15
+Chembur / Wadala,2,813,2,1,31,48,6,4.8,1,1,0,1,1,178.25
+Bandra West / Khar / Santacruz West,1,496,1,0,14,31,10,2.4,1,1,1,0,1,266.74
+Navi Mumbai (Vashi / Palm Beach Road),1,357,1,0,14,30,1,8.3,1,1,0,1,1,75.84
+Navi Mumbai (Kharghar / Belapur / Nerul),3,1099,2,2,6,23,15,2.7,0,0,1,1,1,117.33
+Worli / Lower Parel / Prabhadevi,3,1442,3,2,14,28,3,6.7,1,0,1,0,1,699.9
+Powai / Hiranandani,1,406,1,0,17,28,6,2.4,1,1,1,1,1,109.12
+Thane (Majiwada / Teen Hath Naka),1,417,1,1,18,23,6,7.9,1,0,1,1,1,68.95
+Thane West (Ghodbunder Road),1,414,1,0,20,36,1,6.0,1,0,1,1,1,48.04
+Andheri West / Lokhandwala,1,360,1,1,17,20,0,5.9,1,0,0,0,0,104.91
+Andheri West / Lokhandwala,1,354,1,0,16,30,6,1.1,1,1,1,1,1,116.35
+Andheri East / Marol / Sakinaka,1,425,1,1,40,49,3,3.9,1,1,1,1,1,86.4
+Borivali / Kandivali West,2,925,2,2,39,48,6,4.9,1,1,1,1,1,187.94
+Ghatkopar / Mulund West,3,1118,3,2,32,47,3,2.9,1,1,0,0,1,239.62
+Andheri East / Marol / Sakinaka,2,628,2,1,9,22,1,8.0,1,0,1,1,1,137.29
+Goregaon / Malad West,2,720,2,2,27,39,1,7.6,1,0,1,1,1,151.89
+Thane West (Ghodbunder Road),1,485,1,0,33,40,6,4.6,1,0,1,1,1,54.01
+Worli / Lower Parel / Prabhadevi,4,1942,4,2,10,25,1,3.3,1,0,0,1,1,878.09
+Powai / Hiranandani,3,1386,3,2,17,26,6,7.3,1,1,1,1,1,364.57
+Thane West (Ghodbunder Road),3,1263,2,3,36,46,1,2.0,1,0,1,0,1,164.32
+Navi Mumbai (Kharghar / Belapur / Nerul),3,1061,3,2,17,31,6,0.9,1,0,1,0,1,127.71
+Borivali / Kandivali West,4,2106,4,2,18,20,0,0.7,0,0,1,1,1,408.8
+Borivali / Kandivali West,2,754,2,1,23,33,1,0.6,1,1,1,1,1,156.9
+Bandra West / Khar / Santacruz West,1,481,1,0,34,37,6,4.6,0,0,0,1,1,228.46
+Goregaon / Malad West,2,945,2,1,8,23,3,2.5,1,1,0,1,1,212.71
+Borivali / Kandivali West,3,1311,3,1,13,30,1,6.3,1,0,0,1,1,216.88
+Powai / Hiranandani,3,1425,3,3,23,37,15,6.0,1,1,0,0,1,336.31
+Powai / Hiranandani,2,666,2,1,20,22,1,5.0,1,0,1,0,1,169.05
+Andheri East / Marol / Sakinaka,1,363,1,0,22,39,3,3.4,1,0,0,1,0,73.35
+South Mumbai (Colaba / Marine Drive / Malabar Hill),2,663,2,1,23,32,1,7.7,1,1,0,1,1,517.19
+Andheri East / Marol / Sakinaka,4,2062,4,3,41,50,1,6.5,0,1,0,1,0,370.09
+Andheri West / Lokhandwala,2,818,2,2,35,47,3,2.7,1,1,1,0,1,250.29
+Andheri East / Marol / Sakinaka,2,781,2,2,3,8,1,4.7,1,0,1,1,1,148.5
+Juhu / Vile Parle West,1,502,1,1,34,43,6,1.7,0,0,0,1,1,233.37
+Navi Mumbai (Kharghar / Belapur / Nerul),2,661,2,1,33,41,1,3.2,0,1,0,1,1,90.29
+Ghatkopar / Mulund West,3,1259,3,3,17,31,6,9.0,0,0,0,0,0,235.11
+Chembur / Wadala,2,755,2,2,19,22,1,2.2,1,1,0,0,1,174.88
+Thane (Majiwada / Teen Hath Naka),3,1286,3,2,30,36,1,6.4,1,0,0,1,1,196.0
+Borivali / Kandivali West,2,719,2,2,23,38,0,2.4,1,0,1,1,1,141.81
+Bandra West / Khar / Santacruz West,2,924,2,1,15,26,6,8.5,1,1,1,1,1,507.28
+Borivali / Kandivali West,1,411,1,0,14,19,3,3.0,1,0,0,0,1,69.41
+Ghatkopar / Mulund West,2,794,2,1,2,19,10,3.3,1,0,1,0,0,147.42
+Thane West (Ghodbunder Road),2,912,2,2,39,43,3,5.5,0,1,0,1,1,111.8
+Goregaon / Malad West,2,746,2,2,18,20,6,5.4,0,0,1,1,1,159.15
+Juhu / Vile Parle West,2,809,2,2,6,12,3,5.3,1,1,0,1,1,348.69
+Powai / Hiranandani,4,2210,4,3,32,43,0,5.3,1,1,0,1,1,618.27
+Andheri East / Marol / Sakinaka,1,392,1,0,21,30,1,3.0,1,0,1,1,1,76.77
+Chembur / Wadala,3,1181,2,2,40,53,3,4.1,1,0,1,1,1,274.05
+Ghatkopar / Mulund West,2,626,2,2,28,38,3,5.5,1,0,0,1,1,137.19
+Andheri East / Marol / Sakinaka,2,816,2,2,27,35,0,6.1,0,1,1,1,1,167.16
+Kalyan / Dombivli / Beyond Thane,1,450,1,0,2,15,6,2.5,1,0,0,1,0,29.01
+Ghatkopar / Mulund West,2,702,2,2,33,45,3,6.4,1,0,1,0,1,134.24
+Powai / Hiranandani,2,942,2,2,16,18,3,8.3,1,0,1,1,1,260.2
+Bandra West / Khar / Santacruz West,1,490,1,1,39,41,1,6.9,0,1,1,1,1,263.21
+Andheri West / Lokhandwala,2,909,2,2,22,38,3,1.0,0,0,1,1,1,278.63
+Powai / Hiranandani,4,1757,4,2,13,30,0,4.4,0,0,1,1,1,431.86
+Andheri West / Lokhandwala,1,387,1,1,2,4,0,4.1,1,1,0,0,1,104.21
+Andheri West / Lokhandwala,3,1090,3,3,14,17,6,3.2,1,0,1,1,1,307.45
+Powai / Hiranandani,2,697,2,1,38,40,1,4.6,1,1,0,1,1,209.7
+Andheri West / Lokhandwala,2,658,2,1,41,46,1,4.1,1,1,0,1,1,216.13
+Navi Mumbai (Kharghar / Belapur / Nerul),1,419,1,0,28,39,1,0.4,0,0,0,1,1,54.98
+Bandra West / Khar / Santacruz West,1,413,1,1,7,17,3,2.4,1,0,1,1,0,214.25
+Borivali / Kandivali West,1,486,1,1,18,31,0,2.2,1,1,0,1,1,98.26
+Goregaon / Malad West,1,462,1,1,41,46,1,3.3,1,1,1,1,1,104.11
+Kalyan / Dombivli / Beyond Thane,1,500,1,1,36,50,3,1.8,1,0,1,0,0,32.33
+Bandra West / Khar / Santacruz West,2,905,2,2,41,46,3,0.9,1,0,0,1,0,505.97
+Goregaon / Malad West,3,1406,3,3,36,44,25,2.0,1,0,1,1,1,258.74
+Kalyan / Dombivli / Beyond Thane,3,1307,2,3,4,19,1,7.7,1,0,0,0,1,78.24
+Navi Mumbai (Vashi / Palm Beach Road),2,870,2,2,30,42,1,7.2,1,0,0,1,1,184.32
+Thane (Majiwada / Teen Hath Naka),1,462,1,0,24,34,3,4.1,0,1,1,0,1,65.16
+Powai / Hiranandani,2,820,2,2,20,28,0,7.9,1,0,1,0,1,199.36
+Andheri West / Lokhandwala,2,844,2,2,31,33,10,2.3,1,1,0,1,1,233.89
+Chembur / Wadala,1,440,1,1,24,26,3,5.4,1,0,0,1,1,98.23
+Mira Road / Bhayandar,2,730,2,2,7,12,0,1.5,1,0,0,1,1,67.71
+Ghatkopar / Mulund West,2,746,2,2,26,31,6,7.6,0,0,1,0,1,142.47
+Ghatkopar / Mulund West,2,774,2,1,13,15,0,1.4,1,0,1,1,1,165.7
+Powai / Hiranandani,2,908,2,2,8,15,25,0.6,1,0,1,0,1,204.56
+Thane West (Ghodbunder Road),3,1337,3,2,5,16,10,2.7,0,0,1,0,1,138.64
+Andheri West / Lokhandwala,3,1106,2,2,13,16,3,8.1,0,0,1,0,1,277.93
+Andheri East / Marol / Sakinaka,2,706,2,2,29,41,0,1.4,1,1,1,0,0,145.38
+Goregaon / Malad West,3,1248,3,3,20,26,1,3.2,1,0,1,1,0,279.1
+Borivali / Kandivali West,4,2453,4,2,14,23,1,3.1,1,1,0,0,1,465.83
+Powai / Hiranandani,2,942,2,2,32,48,1,7.3,0,1,0,1,1,242.96
+Juhu / Vile Parle West,2,771,2,2,27,31,3,4.0,1,1,1,1,1,407.39
+Ghatkopar / Mulund West,2,897,2,2,25,42,15,5.6,1,0,0,1,1,168.55
+Powai / Hiranandani,4,1707,4,2,4,14,3,3.8,1,0,0,1,1,449.4
+Ghatkopar / Mulund West,3,1284,3,1,21,29,6,5.1,1,0,1,1,1,241.19
+Andheri West / Lokhandwala,1,475,1,1,18,28,6,0.8,0,1,1,1,1,147.02
+Borivali / Kandivali West,2,838,2,1,39,41,10,3.6,0,1,1,1,1,168.09
+Borivali / Kandivali West,2,653,2,2,15,21,0,7.7,1,0,1,1,0,130.0
+Worli / Lower Parel / Prabhadevi,2,855,2,2,38,51,3,6.3,1,1,1,1,1,446.08
+Andheri East / Marol / Sakinaka,1,500,1,1,24,38,6,8.8,1,1,1,0,1,93.27
+Juhu / Vile Parle West,3,1357,3,2,8,12,10,7.2,0,0,0,1,1,495.24
+Worli / Lower Parel / Prabhadevi,2,908,2,2,28,33,15,4.2,0,0,0,0,1,413.1
+Kalyan / Dombivli / Beyond Thane,3,1526,3,2,21,26,6,6.2,0,0,1,1,1,86.68
+Andheri East / Marol / Sakinaka,3,1246,2,2,16,28,1,7.1,0,1,0,1,0,230.36
+Thane (Majiwada / Teen Hath Naka),3,1170,3,1,16,29,3,2.6,1,0,0,1,1,189.7
+Powai / Hiranandani,2,858,2,1,35,43,0,0.8,0,0,1,1,1,239.55
+Thane West (Ghodbunder Road),2,629,2,2,17,28,3,3.8,1,0,0,0,1,73.94
+Thane West (Ghodbunder Road),1,478,1,1,9,21,3,1.6,1,1,1,0,1,56.82
+Ghatkopar / Mulund West,2,796,2,1,35,44,6,2.7,1,1,0,0,1,151.78
+Goregaon / Malad West,1,350,1,0,29,41,15,8.5,1,0,1,1,1,69.16
+Goregaon / Malad West,2,783,2,2,39,50,6,7.7,0,1,1,1,1,160.02
+Andheri East / Marol / Sakinaka,1,395,1,0,18,24,1,5.5,1,0,0,1,1,76.36
+Mira Road / Bhayandar,1,395,1,1,12,26,0,3.8,0,1,0,1,1,35.8
+Navi Mumbai (Vashi / Palm Beach Road),1,369,1,1,19,33,10,2.6,1,0,1,0,1,69.23
+Kalyan / Dombivli / Beyond Thane,1,374,1,1,22,35,0,5.3,0,0,0,0,1,23.85
+Juhu / Vile Parle West,2,854,2,2,15,26,0,4.9,1,0,0,1,1,403.35
+Thane West (Ghodbunder Road),3,1357,2,2,1,9,1,7.1,1,0,1,0,1,147.84
+Mira Road / Bhayandar,2,844,2,1,2,6,3,8.4,1,0,1,0,0,74.78
+Andheri West / Lokhandwala,1,442,1,1,8,12,0,3.2,1,0,1,1,1,128.68
+Bandra West / Khar / Santacruz West,1,467,1,0,22,26,15,2.1,0,0,1,1,1,211.67
+Thane West (Ghodbunder Road),1,445,1,1,25,38,25,3.8,1,1,0,0,1,44.87
+Ghatkopar / Mulund West,1,429,1,1,2,7,25,4.1,1,1,0,1,1,76.5
+Navi Mumbai (Vashi / Palm Beach Road),3,1282,3,2,9,16,0,0.6,0,0,0,1,0,269.03
+Juhu / Vile Parle West,1,458,1,0,9,25,15,7.8,1,0,0,1,1,178.88
+Thane (Majiwada / Teen Hath Naka),2,771,2,2,13,19,25,9.0,1,0,1,1,1,92.81
+Andheri West / Lokhandwala,1,469,1,1,6,15,15,8.3,1,0,1,1,1,121.22
+Andheri West / Lokhandwala,1,432,1,0,30,45,6,7.8,1,0,0,1,1,121.58
+Andheri West / Lokhandwala,2,762,2,1,15,30,6,8.9,0,0,0,1,1,180.04
+Thane (Majiwada / Teen Hath Naka),2,652,2,2,15,28,0,8.2,0,0,1,1,1,93.58
+Chembur / Wadala,1,479,1,1,7,21,10,6.3,0,0,1,0,1,101.13
+Borivali / Kandivali West,1,362,1,1,11,17,0,1.8,1,0,0,0,1,66.46
+Andheri East / Marol / Sakinaka,2,889,2,1,40,52,1,1.7,1,1,1,1,0,176.55
+Navi Mumbai (Vashi / Palm Beach Road),1,416,1,1,38,51,25,0.7,1,1,1,0,1,80.34
+Goregaon / Malad West,1,448,1,1,40,46,3,3.9,0,0,0,0,1,95.88
+Thane (Majiwada / Teen Hath Naka),4,1939,4,3,2,19,0,7.3,1,1,0,1,1,298.43
+Goregaon / Malad West,2,929,2,2,39,54,25,4.6,1,1,0,0,1,159.72
+Andheri East / Marol / Sakinaka,2,775,2,2,10,21,25,3.5,0,0,0,1,1,115.55
+Goregaon / Malad West,2,718,2,2,17,20,0,1.3,0,1,1,1,1,163.44
+Powai / Hiranandani,2,946,2,2,7,20,10,0.8,0,0,0,1,1,222.54
+Thane West (Ghodbunder Road),2,686,2,2,40,52,1,3.8,0,0,1,1,1,80.35
+Borivali / Kandivali West,2,786,2,1,39,51,1,1.2,1,0,0,1,1,155.04
+Andheri West / Lokhandwala,2,705,2,1,4,10,1,1.2,1,1,1,0,1,208.96
+Navi Mumbai (Kharghar / Belapur / Nerul),1,391,1,1,35,52,0,3.7,1,1,0,1,1,49.85
+Andheri East / Marol / Sakinaka,2,917,2,2,36,52,1,4.7,1,0,0,0,1,184.19
+Borivali / Kandivali West,2,857,2,2,31,44,0,1.9,1,1,1,1,0,169.63
+Navi Mumbai (Kharghar / Belapur / Nerul),3,1289,3,3,25,33,15,6.3,1,0,0,0,1,147.2
+Chembur / Wadala,2,683,2,2,41,44,6,3.9,0,0,1,1,1,156.06
+Juhu / Vile Parle West,2,733,2,2,13,28,10,1.1,1,1,1,1,1,339.32
+Mira Road / Bhayandar,1,484,1,1,18,32,6,5.8,1,0,1,1,1,44.53
+Chembur / Wadala,2,785,2,2,21,28,0,3.4,0,0,0,1,1,177.46
+Andheri East / Marol / Sakinaka,1,432,1,1,1,9,15,0.8,1,1,0,1,1,83.53
+Juhu / Vile Parle West,2,709,2,1,36,42,10,8.5,0,1,1,1,0,348.94
+Thane (Majiwada / Teen Hath Naka),1,415,1,0,8,18,1,5.3,0,1,1,1,0,67.18
+Ghatkopar / Mulund West,2,698,2,1,21,36,0,4.5,0,1,0,1,1,145.35
+Borivali / Kandivali West,1,509,1,1,21,26,6,7.8,1,0,1,0,1,96.23
+Navi Mumbai (Kharghar / Belapur / Nerul),2,715,2,2,27,42,6,8.4,0,1,0,1,1,86.34
+Thane (Majiwada / Teen Hath Naka),3,1451,3,2,19,34,10,2.2,1,1,0,1,1,221.06
+Andheri West / Lokhandwala,1,510,1,0,23,37,0,7.3,0,0,0,0,1,142.82
+Andheri East / Marol / Sakinaka,2,845,2,1,35,46,0,7.5,1,0,0,1,1,171.1
+Powai / Hiranandani,2,801,2,1,40,56,3,0.8,1,1,1,1,1,228.9
+Thane West (Ghodbunder Road),1,483,1,1,5,7,3,6.5,0,0,0,1,1,53.67
+Worli / Lower Parel / Prabhadevi,3,1145,3,1,41,56,0,0.8,1,1,1,1,0,661.95
+Ghatkopar / Mulund West,1,498,1,1,8,17,1,5.5,0,0,1,1,1,99.29
+Thane West (Ghodbunder Road),2,803,2,2,11,27,3,6.1,1,0,1,1,1,97.26
+Navi Mumbai (Vashi / Palm Beach Road),2,711,2,2,16,25,6,3.5,0,0,0,1,1,125.81
+Andheri East / Marol / Sakinaka,2,752,2,2,39,47,1,8.0,0,0,0,0,1,134.51
+Thane (Majiwada / Teen Hath Naka),2,933,2,1,24,33,3,7.3,1,0,1,0,1,132.97
+Bandra West / Khar / Santacruz West,1,385,1,1,21,24,10,8.4,1,0,0,0,1,166.0
+Navi Mumbai (Vashi / Palm Beach Road),1,347,1,1,23,27,15,3.0,1,0,1,1,1,63.97
+Juhu / Vile Parle West,3,1228,3,1,38,48,1,0.5,0,1,0,1,1,596.44
+Goregaon / Malad West,2,781,2,2,8,10,1,7.4,1,1,1,1,1,157.95
+Thane (Majiwada / Teen Hath Naka),3,1153,3,2,7,24,15,2.2,1,0,0,1,1,151.56
+Juhu / Vile Parle West,3,1477,3,3,2,11,1,4.4,1,0,0,1,1,615.84
+Andheri West / Lokhandwala,3,1162,2,2,30,39,6,7.4,1,0,1,0,1,304.7
+Thane West (Ghodbunder Road),2,931,2,1,13,21,3,2.2,1,0,0,1,1,113.67
+Thane West (Ghodbunder Road),2,808,2,2,23,37,1,3.0,1,0,1,1,1,109.93
+Chembur / Wadala,3,1471,3,3,29,44,6,4.1,0,1,0,1,0,357.08
+Thane West (Ghodbunder Road),2,747,2,2,38,50,6,2.7,1,1,0,0,0,92.34
+Borivali / Kandivali West,1,356,1,1,37,54,3,4.3,1,0,0,1,1,68.9
+Powai / Hiranandani,3,1404,3,1,20,26,0,0.4,1,0,1,1,1,394.02
+Andheri East / Marol / Sakinaka,3,1157,3,2,33,38,25,2.1,1,0,0,0,1,177.67
+Andheri West / Lokhandwala,2,796,2,2,29,40,3,7.5,0,0,1,1,1,237.16
+Navi Mumbai (Kharghar / Belapur / Nerul),1,499,1,1,15,26,3,3.9,1,0,0,1,1,64.23
+Ghatkopar / Mulund West,2,945,2,2,23,37,10,5.8,1,0,0,0,1,171.41
+Goregaon / Malad West,3,1239,3,3,3,19,3,2.3,1,1,0,0,1,235.88
+Goregaon / Malad West,3,1194,2,2,37,48,6,6.0,0,0,0,1,1,245.65
+Mira Road / Bhayandar,1,379,1,1,29,44,25,9.0,0,1,1,1,1,30.72
+Andheri West / Lokhandwala,1,421,1,0,8,19,1,5.5,1,0,0,1,1,111.99
+Ghatkopar / Mulund West,3,1369,2,1,22,29,3,5.8,1,1,1,1,1,293.66
+Borivali / Kandivali West,2,819,2,1,29,42,15,1.3,1,1,1,1,0,149.36
+Ghatkopar / Mulund West,2,799,2,2,2,19,0,3.8,0,1,0,0,1,151.63
+South Mumbai (Colaba / Marine Drive / Malabar Hill),4,1994,4,3,41,53,0,7.8,1,1,0,1,1,1607.71
+Navi Mumbai (Vashi / Palm Beach Road),1,516,1,0,1,3,15,7.6,0,0,1,1,1,82.64
+Mira Road / Bhayandar,2,856,2,1,20,34,10,4.8,0,0,0,1,1,79.78
+Ghatkopar / Mulund West,1,449,1,0,21,27,25,8.2,0,1,1,1,1,77.22
+Thane West (Ghodbunder Road),2,668,2,2,37,52,0,1.5,1,0,1,1,1,85.98
+Navi Mumbai (Kharghar / Belapur / Nerul),3,1342,3,2,8,13,0,6.0,1,0,1,1,1,176.92
+Thane West (Ghodbunder Road),2,746,2,2,27,32,0,2.5,0,1,0,0,1,94.37
+Andheri West / Lokhandwala,5,5141,5,3,35,43,6,5.9,1,1,0,1,1,1423.42
+Ghatkopar / Mulund West,2,844,2,2,6,16,3,1.1,1,1,0,1,1,176.66
+Ghatkopar / Mulund West,2,899,2,1,19,28,1,8.5,1,0,1,1,1,163.3
+Goregaon / Malad West,1,351,1,1,18,30,0,7.1,1,1,0,1,1,73.56
+Thane West (Ghodbunder Road),2,847,2,2,1,15,3,2.0,1,1,1,1,1,109.22
+Mira Road / Bhayandar,2,760,2,2,25,40,3,5.8,1,1,1,0,1,72.58
+Mira Road / Bhayandar,1,506,1,0,27,40,0,6.9,1,0,0,0,1,44.6
+Goregaon / Malad West,2,909,2,2,7,16,15,2.1,1,0,1,1,1,178.61
+Juhu / Vile Parle West,2,778,2,2,29,35,0,1.1,1,1,0,0,1,381.48
+Kalyan / Dombivli / Beyond Thane,3,1239,3,3,31,38,6,3.4,0,0,0,1,1,69.95
+Navi Mumbai (Vashi / Palm Beach Road),2,634,2,2,36,39,10,1.5,1,0,1,1,1,120.95
+Juhu / Vile Parle West,2,653,2,1,19,36,3,5.2,0,1,0,1,1,327.48
+Navi Mumbai (Kharghar / Belapur / Nerul),1,414,1,1,6,20,1,4.0,0,1,0,1,1,51.7
+Navi Mumbai (Vashi / Palm Beach Road),1,355,1,1,25,37,1,4.3,0,0,1,1,1,72.85
+Borivali / Kandivali West,2,912,2,2,31,48,10,5.0,0,0,0,1,0,161.36
+Ghatkopar / Mulund West,2,743,2,2,9,24,1,8.8,1,0,0,1,1,152.53
+Goregaon / Malad West,1,441,1,0,20,24,6,7.2,1,0,1,1,1,90.64
+Worli / Lower Parel / Prabhadevi,3,1278,3,3,10,16,25,5.8,0,1,1,1,1,550.07
+Andheri East / Marol / Sakinaka,3,1521,3,2,37,40,25,3.5,1,1,0,1,1,252.25
+Thane (Majiwada / Teen Hath Naka),2,722,2,2,27,31,3,0.5,1,0,0,1,1,120.9
+South Mumbai (Colaba / Marine Drive / Malabar Hill),1,446,1,1,13,18,10,1.3,1,0,1,1,1,310.1
+Andheri East / Marol / Sakinaka,3,1408,3,2,41,48,25,6.7,0,1,1,1,0,235.73
+Goregaon / Malad West,2,945,2,2,2,8,1,3.5,1,0,0,1,1,184.52
+Borivali / Kandivali West,3,1214,3,2,21,32,1,3.2,1,0,1,0,1,230.87
+Navi Mumbai (Kharghar / Belapur / Nerul),3,1506,2,2,33,38,0,8.0,0,1,1,1,1,205.35
+Andheri East / Marol / Sakinaka,3,1164,3,3,24,38,0,4.5,0,0,0,0,0,224.42
+Andheri East / Marol / Sakinaka,2,758,2,2,34,51,10,8.1,1,1,0,1,1,145.66
+Thane West (Ghodbunder Road),1,416,1,1,9,25,3,8.0,0,0,1,0,1,43.34
+Goregaon / Malad West,2,671,2,1,2,5,10,1.0,1,0,1,1,1,143.55
+Andheri West / Lokhandwala,2,825,2,1,30,43,6,8.5,0,1,1,1,1,243.86
+Goregaon / Malad West,3,1450,2,3,22,34,6,1.0,1,0,1,1,0,334.94
+Juhu / Vile Parle West,1,493,1,0,11,17,3,8.7,1,0,1,1,1,219.72
+Andheri West / Lokhandwala,1,425,1,1,17,23,0,4.2,0,1,1,1,0,126.99
+Borivali / Kandivali West,3,1051,3,1,36,48,10,6.9,1,1,1,1,1,205.82
+Goregaon / Malad West,3,1213,3,1,13,21,3,6.4,1,1,1,1,1,266.54
+Navi Mumbai (Kharghar / Belapur / Nerul),3,1167,3,2,7,9,3,4.8,0,0,0,1,1,131.54
+Andheri East / Marol / Sakinaka,3,1488,3,2,16,21,0,5.7,1,1,1,0,1,285.97
+Ghatkopar / Mulund West,2,675,2,2,33,45,15,8.6,0,0,1,0,1,125.06
+Chembur / Wadala,2,768,2,2,1,18,15,8.4,1,1,1,1,1,149.26
+South Mumbai (Colaba / Marine Drive / Malabar Hill),3,1287,3,2,11,17,3,6.0,1,1,1,1,1,1046.1
+Chembur / Wadala,2,839,2,2,6,15,3,6.0,0,0,0,1,1,175.77
+Andheri West / Lokhandwala,2,894,2,2,20,33,6,2.4,1,0,1,0,1,229.92
+Mira Road / Bhayandar,1,418,1,1,35,51,1,7.5,1,0,0,0,1,39.18
+Juhu / Vile Parle West,2,821,2,2,37,50,1,5.8,1,0,1,0,1,362.94
+Goregaon / Malad West,2,665,2,2,41,58,6,7.5,0,0,0,1,1,132.63
+Bandra West / Khar / Santacruz West,1,480,1,0,26,35,0,6.0,1,1,1,0,1,239.13
+Kalyan / Dombivli / Beyond Thane,1,416,1,1,12,14,3,2.9,1,1,1,0,1,28.82
+Borivali / Kandivali West,2,771,2,2,30,36,3,1.9,1,1,1,1,1,154.98
+Ghatkopar / Mulund West,1,454,1,1,28,39,1,1.0,1,0,1,0,1,94.91
+Bandra West / Khar / Santacruz West,1,433,1,0,27,29,0,5.4,1,0,1,1,0,238.12
+Thane West (Ghodbunder Road),2,810,2,1,19,21,1,2.8,0,1,1,1,1,107.3
+Andheri West / Lokhandwala,3,1205,3,3,5,8,1,5.8,0,1,0,0,1,316.69
+Navi Mumbai (Kharghar / Belapur / Nerul),2,915,2,2,5,8,3,0.8,1,1,1,1,1,130.48
+Andheri West / Lokhandwala,1,396,1,1,41,57,6,3.6,1,0,1,1,1,115.18
+Andheri West / Lokhandwala,1,460,1,1,27,43,25,2.6,0,0,1,1,1,108.38
+Worli / Lower Parel / Prabhadevi,2,949,2,1,28,38,0,3.5,1,1,0,0,1,482.36
+Borivali / Kandivali West,2,835,2,2,26,31,10,0.8,1,0,1,1,1,166.98
+Ghatkopar / Mulund West,3,1424,3,3,27,31,1,6.6,0,0,1,0,1,284.42
+Worli / Lower Parel / Prabhadevi,2,856,2,1,21,33,3,1.3,0,1,1,1,1,460.82
+Thane (Majiwada / Teen Hath Naka),3,1370,2,3,1,3,3,0.4,1,0,0,1,1,229.84
+Goregaon / Malad West,1,427,1,1,28,41,3,8.5,1,0,0,1,1,85.19
+Borivali / Kandivali West,2,698,2,2,15,18,6,2.0,1,1,1,0,1,130.78
+Goregaon / Malad West,1,390,1,0,17,24,1,7.5,1,1,1,1,1,92.64
+Goregaon / Malad West,4,2569,4,2,26,36,1,8.7,0,1,1,1,1,566.96
+Ghatkopar / Mulund West,2,865,2,2,20,26,10,4.9,1,0,1,1,1,171.21
+Andheri West / Lokhandwala,2,812,2,2,25,30,1,4.9,1,0,0,0,1,230.06
+Andheri West / Lokhandwala,1,375,1,0,13,27,0,3.5,1,0,1,1,1,113.66
+Navi Mumbai (Vashi / Palm Beach Road),1,505,1,1,33,39,0,4.0,1,1,1,0,1,100.25
+Mira Road / Bhayandar,2,789,2,2,25,35,1,4.5,1,1,0,1,0,79.41
+Andheri East / Marol / Sakinaka,1,478,1,1,8,21,3,1.6,0,0,1,1,1,90.52
+Powai / Hiranandani,2,906,2,2,5,19,3,3.5,1,1,1,1,1,248.24
+Chembur / Wadala,1,485,1,1,6,14,1,7.4,1,0,1,0,0,114.61
+Goregaon / Malad West,2,803,2,2,23,32,0,1.9,1,1,1,0,1,178.08
+South Mumbai (Colaba / Marine Drive / Malabar Hill),3,1177,3,2,30,46,6,6.6,0,0,0,1,1,881.9
+Andheri West / Lokhandwala,3,1315,3,3,14,19,6,6.0,1,0,0,0,1,331.42
+Thane West (Ghodbunder Road),3,1308,3,2,23,35,25,0.8,1,0,1,1,1,129.61
+Chembur / Wadala,1,395,1,0,11,20,15,0.5,1,1,1,1,0,96.77
+South Mumbai (Colaba / Marine Drive / Malabar Hill),1,354,1,0,31,38,15,3.4,1,0,1,1,1,262.36
+Andheri West / Lokhandwala,2,711,2,2,6,12,6,6.3,0,1,1,1,1,194.8
+Andheri West / Lokhandwala,2,922,2,2,11,25,3,3.2,1,0,0,1,0,250.68
+Chembur / Wadala,2,690,2,1,13,26,0,6.1,0,1,1,1,1,159.83
+South Mumbai (Colaba / Marine Drive / Malabar Hill),1,421,1,0,12,20,3,6.1,0,0,0,1,1,292.32
+Bandra West / Khar / Santacruz West,1,427,1,1,2,9,0,7.3,0,0,1,1,1,228.4
+Thane (Majiwada / Teen Hath Naka),1,423,1,1,35,39,10,1.2,1,0,0,1,1,62.76
+Andheri West / Lokhandwala,3,1203,2,1,36,42,3,5.3,1,0,0,1,1,335.43
+Chembur / Wadala,1,472,1,0,17,27,6,0.8,1,1,0,1,0,113.16
+Powai / Hiranandani,2,909,2,2,28,36,0,1.8,1,0,1,0,1,235.52
+Bandra West / Khar / Santacruz West,1,469,1,0,28,41,3,3.1,0,1,0,1,0,244.71
+Powai / Hiranandani,2,680,2,2,22,27,1,6.5,0,0,1,0,1,178.64
+Thane West (Ghodbunder Road),2,707,2,1,38,46,1,8.8,0,0,0,0,0,76.14
+Navi Mumbai (Vashi / Palm Beach Road),3,1445,3,1,7,13,1,3.3,1,0,0,1,0,292.37
+Navi Mumbai (Vashi / Palm Beach Road),3,1335,3,2,15,27,0,4.8,1,1,1,1,1,277.68
+Goregaon / Malad West,2,911,2,1,32,46,3,2.6,1,1,0,1,1,216.69
+Chembur / Wadala,3,1073,3,2,11,27,3,6.2,0,0,0,1,1,221.15
+Andheri West / Lokhandwala,5,4231,5,4,24,41,10,3.5,1,0,0,1,1,1019.27
+Powai / Hiranandani,3,1254,3,2,3,6,3,4.5,1,1,1,1,1,351.97
+Navi Mumbai (Kharghar / Belapur / Nerul),3,1385,3,3,30,44,1,5.2,1,1,0,1,1,178.49
+South Mumbai (Colaba / Marine Drive / Malabar Hill),1,414,1,1,6,13,25,6.3,0,1,0,1,1,256.77
+Bandra West / Khar / Santacruz West,2,918,2,2,2,19,3,0.8,0,0,0,0,1,473.51
+Andheri West / Lokhandwala,1,420,1,0,14,22,3,5.1,0,0,0,1,1,109.91
+South Mumbai (Colaba / Marine Drive / Malabar Hill),1,378,1,0,41,50,3,4.1,0,1,1,0,1,292.89
+Andheri West / Lokhandwala,5,4308,5,3,18,25,10,1.5,1,1,1,1,1,1244.24
+Ghatkopar / Mulund West,2,757,2,2,31,40,1,2.1,1,0,0,1,1,147.9
+Goregaon / Malad West,3,1447,3,2,13,30,1,8.0,1,1,1,1,1,346.14
+Navi Mumbai (Kharghar / Belapur / Nerul),3,1465,3,3,26,34,6,7.9,1,0,0,1,1,174.5
+Thane (Majiwada / Teen Hath Naka),3,1420,3,2,12,15,0,0.6,0,0,1,0,1,226.12
+Andheri East / Marol / Sakinaka,5,3105,5,4,18,33,10,6.3,1,0,1,1,0,558.68
+Powai / Hiranandani,1,420,1,1,9,16,3,5.1,1,0,1,1,1,104.39
+Andheri East / Marol / Sakinaka,1,391,1,0,21,31,3,8.5,1,0,1,1,1,77.32
+Ghatkopar / Mulund West,2,641,2,2,40,53,6,8.2,1,1,1,1,1,133.99
+Powai / Hiranandani,1,388,1,1,24,31,1,5.3,1,0,1,0,1,95.86
+Chembur / Wadala,1,423,1,1,34,39,10,1.5,1,1,1,1,1,98.4
+Goregaon / Malad West,2,787,2,2,8,16,25,4.3,1,0,0,1,1,145.91
+Borivali / Kandivali West,3,1442,3,3,33,37,3,6.6,1,1,0,1,1,278.81
+Goregaon / Malad West,2,823,2,1,23,29,15,8.6,1,0,1,1,0,171.98
+Powai / Hiranandani,2,786,2,2,13,15,0,3.5,1,1,1,1,1,209.32
+Mira Road / Bhayandar,2,830,2,2,14,30,10,7.1,1,1,1,0,1,70.15
+Thane West (Ghodbunder Road),1,346,1,1,14,25,1,6.2,0,1,1,1,1,41.15
+Juhu / Vile Parle West,1,355,1,1,16,20,1,1.0,1,0,0,0,1,164.42
+Navi Mumbai (Vashi / Palm Beach Road),3,1086,3,3,38,47,1,5.2,1,0,1,0,1,211.43
+Borivali / Kandivali West,2,744,2,2,39,49,1,1.9,1,1,1,1,1,153.29
+Navi Mumbai (Kharghar / Belapur / Nerul),3,1267,3,1,26,36,1,6.2,1,1,1,1,1,172.81
+Thane (Majiwada / Teen Hath Naka),1,464,1,1,26,42,15,5.6,1,1,0,1,1,71.7
+Goregaon / Malad West,3,1335,3,1,1,12,10,8.8,0,1,1,1,1,243.21
+South Mumbai (Colaba / Marine Drive / Malabar Hill),2,821,2,2,32,35,0,8.4,0,0,0,1,1,624.71
+Powai / Hiranandani,2,751,2,2,15,20,0,0.4,1,0,1,1,1,217.6
+Borivali / Kandivali West,2,696,2,2,21,27,10,1.0,1,0,1,1,1,124.56
+Chembur / Wadala,3,1451,3,2,18,34,1,7.0,1,0,0,1,1,315.13
+Powai / Hiranandani,2,795,2,1,30,34,0,6.3,1,0,1,1,1,217.05
+Juhu / Vile Parle West,2,820,2,2,13,27,3,7.3,1,0,0,1,1,349.91
+Navi Mumbai (Vashi / Palm Beach Road),5,5022,5,3,24,36,3,2.6,0,1,0,1,1,1106.83
+Kalyan / Dombivli / Beyond Thane,3,1443,3,2,30,32,1,7.7,1,1,1,1,1,98.99
+Borivali / Kandivali West,2,807,2,2,2,9,6,4.1,1,0,1,1,1,136.75
+Andheri West / Lokhandwala,2,944,2,1,19,34,3,2.6,0,1,0,0,1,246.5
+Powai / Hiranandani,2,939,2,2,25,41,0,0.4,0,1,1,1,1,249.78
+South Mumbai (Colaba / Marine Drive / Malabar Hill),1,410,1,0,14,25,15,7.9,0,0,1,0,1,250.67
+Navi Mumbai (Kharghar / Belapur / Nerul),2,855,2,2,6,9,3,5.0,1,0,1,1,1,107.49
+Juhu / Vile Parle West,4,2316,4,3,12,29,1,8.8,1,0,0,1,1,1061.67
+Ghatkopar / Mulund West,4,2586,4,3,20,30,1,6.5,0,0,0,1,1,529.35
+Powai / Hiranandani,2,810,2,2,23,25,0,1.0,1,1,0,1,1,234.13
+Borivali / Kandivali West,2,924,2,2,30,42,3,5.4,1,0,1,1,1,186.06
+Chembur / Wadala,1,409,1,0,30,40,0,0.4,0,1,1,0,1,98.53
+Thane (Majiwada / Teen Hath Naka),5,3168,5,4,38,55,3,5.2,1,0,1,0,1,456.94
+Andheri West / Lokhandwala,5,4465,5,4,30,38,0,3.3,0,0,1,0,1,1317.74
+South Mumbai (Colaba / Marine Drive / Malabar Hill),2,783,2,1,41,53,6,5.9,0,0,0,1,1,561.66
+Juhu / Vile Parle West,3,1384,3,2,30,44,6,5.0,0,0,0,1,0,617.77
+Navi Mumbai (Kharghar / Belapur / Nerul),2,704,2,2,36,47,3,2.6,1,0,0,1,1,93.54
+Navi Mumbai (Vashi / Palm Beach Road),2,827,2,1,34,37,6,1.7,0,0,1,1,1,146.13
+Ghatkopar / Mulund West,1,390,1,0,16,31,15,3.8,0,1,0,0,1,67.19
+Ghatkopar / Mulund West,2,720,2,2,24,31,3,8.9,0,0,0,1,0,145.13
+Chembur / Wadala,2,629,2,1,14,23,1,4.1,1,0,1,0,1,142.27
+Andheri West / Lokhandwala,2,876,2,2,26,42,3,6.8,1,0,1,1,1,259.98
+Navi Mumbai (Kharghar / Belapur / Nerul),2,684,2,2,8,11,10,0.8,0,0,1,1,1,92.47
+Goregaon / Malad West,4,1887,4,2,14,31,0,3.6,1,0,1,0,1,425.43
+Andheri East / Marol / Sakinaka,1,487,1,1,31,47,1,5.3,1,1,0,0,1,93.04
+Borivali / Kandivali West,2,724,2,2,2,8,3,6.8,1,1,1,1,1,123.72
+Worli / Lower Parel / Prabhadevi,2,729,2,2,4,18,6,4.9,1,0,0,1,1,359.98
+Andheri West / Lokhandwala,2,850,2,2,1,14,6,4.8,0,0,0,1,1,197.06
+Thane West (Ghodbunder Road),2,801,2,1,20,32,1,6.9,1,1,1,1,1,98.24
+Bandra West / Khar / Santacruz West,1,416,1,0,14,21,0,3.0,0,0,1,1,0,211.51
+Ghatkopar / Mulund West,1,419,1,0,40,44,15,1.1,1,0,0,1,1,80.72
+Powai / Hiranandani,2,647,2,2,25,40,0,3.3,1,0,1,1,1,179.65
+Goregaon / Malad West,2,728,2,1,25,38,0,1.7,1,1,0,1,1,161.17
+Powai / Hiranandani,1,452,1,0,3,6,3,8.7,0,0,0,1,1,110.75
+Andheri East / Marol / Sakinaka,2,758,2,2,5,22,10,5.3,1,0,1,1,1,142.12
+Thane West (Ghodbunder Road),2,718,2,2,38,54,6,4.2,1,0,0,0,1,81.88
+Powai / Hiranandani,2,939,2,2,26,38,15,8.2,0,1,1,1,1,233.83
+Ghatkopar / Mulund West,3,1544,3,3,40,47,0,8.1,0,1,0,0,1,297.74
+Borivali / Kandivali West,1,398,1,0,38,42,1,3.9,1,1,0,1,1,76.23
+Chembur / Wadala,1,369,1,0,38,41,1,7.9,1,0,1,1,1,92.47
+Mira Road / Bhayandar,3,1508,3,2,4,20,10,0.9,1,1,1,0,1,140.3
+Thane West (Ghodbunder Road),2,912,2,1,7,9,3,8.0,1,0,0,1,1,106.05
+Andheri West / Lokhandwala,2,673,2,2,30,45,0,3.0,1,1,0,1,0,228.88
+Worli / Lower Parel / Prabhadevi,3,1436,3,2,30,39,6,5.2,0,1,1,1,1,748.31
+Powai / Hiranandani,3,1507,3,3,19,21,1,2.6,0,1,0,1,1,445.22
+Ghatkopar / Mulund West,4,1977,4,3,39,52,3,8.9,1,0,0,1,1,398.24
+Worli / Lower Parel / Prabhadevi,2,861,2,2,35,51,10,0.9,1,0,1,1,1,479.57
+Borivali / Kandivali West,2,813,2,2,40,46,1,4.2,0,0,1,1,1,155.11
+Ghatkopar / Mulund West,2,823,2,2,33,45,1,5.7,1,0,1,1,1,162.43
+Andheri East / Marol / Sakinaka,1,411,1,1,33,40,1,5.7,0,1,1,1,1,85.58
+Thane West (Ghodbunder Road),2,634,2,2,14,31,1,6.7,1,0,1,1,0,76.43
+Bandra West / Khar / Santacruz West,1,347,1,1,38,50,0,6.6,1,0,0,1,1,204.14
+Bandra West / Khar / Santacruz West,4,2024,4,3,10,23,6,7.2,0,0,1,1,1,1006.74
+Thane West (Ghodbunder Road),2,766,2,2,28,41,1,2.3,1,1,1,1,1,107.26
+Borivali / Kandivali West,2,758,2,1,14,18,15,3.5,1,0,0,1,1,116.02
+Thane West (Ghodbunder Road),2,895,2,2,36,51,1,3.6,0,1,1,0,1,115.86
+Goregaon / Malad West,1,421,1,0,38,55,1,8.6,0,1,1,1,1,93.45
+Powai / Hiranandani,1,413,1,1,16,24,1,3.9,0,1,0,0,1,100.28
+Thane (Majiwada / Teen Hath Naka),2,820,2,2,21,24,6,2.2,1,1,0,0,1,137.59
+Thane (Majiwada / Teen Hath Naka),1,498,1,1,28,36,3,5.8,1,0,0,0,1,70.23
+Thane West (Ghodbunder Road),2,687,2,2,33,36,10,4.0,0,0,0,1,1,78.0
+Powai / Hiranandani,3,1375,2,2,6,23,6,2.5,0,0,1,1,1,322.87
+Ghatkopar / Mulund West,3,1417,3,2,41,47,15,6.5,0,1,0,0,1,252.46
+Andheri East / Marol / Sakinaka,2,798,2,1,15,23,6,2.0,0,1,1,1,1,151.22
+Bandra West / Khar / Santacruz West,1,402,1,1,3,20,0,5.8,1,1,1,1,1,216.45
+Navi Mumbai (Kharghar / Belapur / Nerul),3,1513,3,3,35,47,10,4.0,0,0,1,1,1,182.08
+Juhu / Vile Parle West,3,1177,3,2,14,26,15,3.1,0,1,1,1,1,476.84
+Mira Road / Bhayandar,1,428,1,1,2,17,25,8.5,0,0,1,1,1,31.89
+Goregaon / Malad West,3,1075,3,2,29,33,0,3.1,1,1,0,1,1,258.96
+Andheri West / Lokhandwala,2,666,2,2,4,19,3,3.3,0,0,1,1,1,173.28
+Borivali / Kandivali West,3,1371,3,1,26,43,0,7.9,1,1,1,0,1,285.17
+Navi Mumbai (Vashi / Palm Beach Road),5,4612,5,3,12,24,1,1.4,1,1,0,0,1,980.66
+Thane West (Ghodbunder Road),1,508,1,0,2,7,6,1.2,0,1,0,0,1,58.62
+Thane (Majiwada / Teen Hath Naka),3,1134,3,2,17,19,25,2.8,0,1,1,0,1,136.46
+Chembur / Wadala,2,934,2,2,35,52,3,5.4,1,1,1,0,1,213.34
+Thane West (Ghodbunder Road),4,2661,4,3,10,14,10,3.6,0,0,1,0,1,256.22
+Navi Mumbai (Vashi / Palm Beach Road),2,715,2,2,22,32,0,5.6,1,1,1,1,1,156.78
+Powai / Hiranandani,3,1427,3,3,41,52,0,1.7,1,1,0,1,1,418.68
+Borivali / Kandivali West,1,413,1,0,21,27,3,2.6,1,1,1,1,1,79.83
+Andheri West / Lokhandwala,2,757,2,1,15,31,1,5.2,0,0,1,1,0,208.79
+Kalyan / Dombivli / Beyond Thane,1,353,1,0,35,51,10,2.2,1,0,1,0,1,22.42
+Mira Road / Bhayandar,4,2256,4,2,21,30,1,4.0,1,0,0,1,1,207.4
+Worli / Lower Parel / Prabhadevi,3,1513,3,2,21,24,3,5.3,0,1,1,1,1,790.4
+Thane West (Ghodbunder Road),3,1218,3,3,21,25,3,8.8,1,1,0,1,1,165.07
+Mira Road / Bhayandar,4,1938,4,3,32,40,1,1.0,0,1,1,1,1,209.19
+Andheri West / Lokhandwala,1,501,1,1,5,20,15,4.3,0,0,0,1,1,114.2
+Ghatkopar / Mulund West,2,650,2,2,39,50,3,3.7,0,0,0,1,1,129.22
+Navi Mumbai (Kharghar / Belapur / Nerul),1,509,1,1,9,14,3,7.5,1,0,1,1,0,64.89
+Worli / Lower Parel / Prabhadevi,1,497,1,1,18,28,10,8.1,1,0,0,1,1,233.98
+Thane West (Ghodbunder Road),1,358,1,1,21,36,1,8.2,0,0,0,1,1,38.86
+Powai / Hiranandani,2,755,2,2,8,16,10,3.6,1,0,0,0,1,176.26
+Navi Mumbai (Kharghar / Belapur / Nerul),1,425,1,0,34,49,0,3.0,1,1,0,1,1,57.92
+Kalyan / Dombivli / Beyond Thane,1,484,1,1,10,22,0,4.2,1,1,1,1,1,32.46
+Mira Road / Bhayandar,1,348,1,1,41,54,15,3.3,1,0,1,1,1,31.47
+Borivali / Kandivali West,1,488,1,0,24,26,10,6.6,0,1,0,0,1,88.65
+Navi Mumbai (Vashi / Palm Beach Road),4,2691,4,2,40,45,1,2.2,0,0,1,1,1,539.24
+Navi Mumbai (Vashi / Palm Beach Road),3,1325,3,2,24,35,3,6.0,1,0,0,1,1,268.6
+Andheri East / Marol / Sakinaka,4,2414,4,3,32,44,15,8.4,1,0,0,1,1,411.16
+Thane (Majiwada / Teen Hath Naka),2,755,2,2,33,40,1,2.7,0,1,1,0,1,128.12
+Worli / Lower Parel / Prabhadevi,1,511,1,1,38,45,0,6.2,1,0,0,1,1,262.42
+Ghatkopar / Mulund West,3,1096,3,3,34,45,3,1.5,0,0,0,1,1,211.86
+Andheri West / Lokhandwala,2,832,2,2,11,18,0,1.4,1,1,1,1,1,248.55
+Juhu / Vile Parle West,2,943,2,2,31,37,0,1.3,0,1,1,1,1,481.05
+Bandra West / Khar / Santacruz West,1,464,1,1,18,22,10,1.5,0,1,0,1,1,232.89
+Thane West (Ghodbunder Road),1,415,1,0,23,26,0,2.2,1,0,0,1,0,53.17
+Andheri East / Marol / Sakinaka,1,387,1,1,22,26,10,5.2,1,1,0,1,1,65.61
+Thane West (Ghodbunder Road),2,721,2,2,18,28,3,7.0,1,0,1,0,1,87.78
+Worli / Lower Parel / Prabhadevi,2,658,2,2,40,44,3,1.4,0,0,1,1,1,358.78
+Andheri East / Marol / Sakinaka,1,358,1,0,41,45,6,7.9,1,1,0,1,1,69.82
+Borivali / Kandivali West,1,452,1,1,39,41,3,7.6,1,0,1,1,1,88.42
+Thane (Majiwada / Teen Hath Naka),3,1491,3,2,20,23,0,6.6,1,1,1,1,1,265.34
+Andheri East / Marol / Sakinaka,1,465,1,0,13,25,0,4.0,0,0,1,1,1,88.53
+Chembur / Wadala,2,677,2,2,1,14,6,0.3,0,1,1,1,1,159.8
+Navi Mumbai (Kharghar / Belapur / Nerul),3,1191,3,1,4,8,1,6.7,1,1,1,1,1,157.84
+Ghatkopar / Mulund West,1,435,1,0,24,27,0,7.9,1,1,1,1,1,92.41
+Andheri West / Lokhandwala,1,491,1,0,36,45,25,3.2,1,0,0,1,1,117.72
+South Mumbai (Colaba / Marine Drive / Malabar Hill),2,760,2,2,36,43,25,6.5,1,1,1,0,1,428.04
+Navi Mumbai (Vashi / Palm Beach Road),2,922,2,1,2,10,1,0.8,1,1,1,1,1,198.54
+South Mumbai (Colaba / Marine Drive / Malabar Hill),2,828,2,2,28,30,0,6.5,1,1,1,1,1,718.01
+Navi Mumbai (Vashi / Palm Beach Road),3,1313,2,2,26,33,6,0.9,0,1,0,1,1,281.1
+Borivali / Kandivali West,1,423,1,0,23,26,10,5.4,1,0,0,1,1,69.61
+Mira Road / Bhayandar,2,678,2,2,15,29,0,5.5,0,0,1,1,1,57.81
+Thane (Majiwada / Teen Hath Naka),2,682,2,2,36,52,0,2.9,1,0,1,1,1,131.03
+Kalyan / Dombivli / Beyond Thane,1,388,1,1,27,34,10,1.0,1,1,0,1,1,24.75
+Andheri East / Marol / Sakinaka,2,908,2,2,6,10,15,8.6,1,1,0,1,1,151.25
+Thane West (Ghodbunder Road),1,415,1,1,35,43,6,5.0,0,0,1,1,1,50.77
+Goregaon / Malad West,2,874,2,2,39,43,1,5.3,1,0,1,1,1,184.94
+Borivali / Kandivali West,1,362,1,1,38,48,3,5.7,0,1,0,1,1,68.58
+Chembur / Wadala,2,844,2,2,35,39,3,8.1,1,0,0,1,1,192.37
+Navi Mumbai (Vashi / Palm Beach Road),2,818,2,1,36,44,0,0.8,1,0,0,1,1,169.61
+Kalyan / Dombivli / Beyond Thane,3,1283,3,1,10,23,1,8.1,0,1,1,1,1,82.01
+Thane West (Ghodbunder Road),1,511,1,1,30,35,1,2.4,1,0,1,1,1,66.68
+Goregaon / Malad West,2,842,2,2,41,50,3,1.0,1,1,1,1,1,194.09
+Goregaon / Malad West,2,671,2,2,38,53,3,6.0,1,0,1,1,0,149.55
+Thane West (Ghodbunder Road),3,1362,3,2,29,32,10,8.8,0,0,0,1,1,152.24
+Powai / Hiranandani,2,652,2,2,39,48,6,0.8,0,1,1,0,1,164.79
+Bandra West / Khar / Santacruz West,2,665,2,2,4,14,15,4.0,1,1,0,0,1,316.12
+Andheri East / Marol / Sakinaka,3,1362,3,2,5,19,10,4.9,1,0,1,1,1,248.66
+Powai / Hiranandani,3,1394,3,2,4,13,1,2.5,0,0,1,1,1,344.48
+Powai / Hiranandani,2,735,2,2,36,43,1,8.9,0,1,0,0,1,182.59
+Andheri West / Lokhandwala,2,812,2,1,16,27,3,5.9,1,0,0,1,1,227.16
+Worli / Lower Parel / Prabhadevi,3,1151,3,3,25,27,0,7.6,0,0,0,1,1,544.26
+South Mumbai (Colaba / Marine Drive / Malabar Hill),5,3337,5,3,14,22,15,3.9,1,1,1,0,1,2365.59
+Kalyan / Dombivli / Beyond Thane,3,1059,3,2,11,13,0,3.4,1,1,1,1,1,69.9
+Goregaon / Malad West,2,838,2,2,29,37,1,5.1,1,0,1,1,1,177.93
+Andheri East / Marol / Sakinaka,1,452,1,0,34,49,3,4.1,1,1,1,1,1,88.82
+Thane West (Ghodbunder Road),2,702,2,2,22,25,3,6.5,1,1,1,1,1,80.92
+Andheri West / Lokhandwala,3,1398,3,3,14,23,6,2.6,0,0,0,1,1,372.75
+Mira Road / Bhayandar,2,695,2,2,24,27,3,4.2,1,0,1,1,1,60.51
+Thane (Majiwada / Teen Hath Naka),2,750,2,1,39,43,1,8.1,1,1,0,1,1,127.39
+Bandra West / Khar / Santacruz West,3,1090,3,1,26,40,1,6.9,1,1,1,1,1,611.76
+Goregaon / Malad West,2,898,2,1,36,49,15,1.8,0,0,0,1,1,185.9
+Navi Mumbai (Kharghar / Belapur / Nerul),3,1449,3,1,39,43,1,8.0,0,0,1,1,1,187.38
+Mira Road / Bhayandar,2,926,2,2,16,18,1,5.4,1,0,1,1,1,88.97
+Goregaon / Malad West,2,828,2,2,38,44,3,6.2,1,1,0,1,1,176.93
+Ghatkopar / Mulund West,2,812,2,2,32,38,0,2.9,1,0,1,1,1,171.76
+Andheri West / Lokhandwala,3,1100,3,2,6,17,3,4.1,1,0,0,1,1,298.67
+Kalyan / Dombivli / Beyond Thane,1,448,1,0,34,40,6,7.3,1,1,0,1,1,28.69
+Andheri West / Lokhandwala,1,383,1,1,8,23,6,3.2,1,1,0,1,1,105.66
+Mira Road / Bhayandar,4,2116,4,3,30,44,6,1.7,0,0,0,1,1,194.15
+Chembur / Wadala,1,503,1,0,27,37,0,3.6,1,1,1,1,1,126.63
+Ghatkopar / Mulund West,2,724,2,1,7,14,3,0.9,1,1,0,1,1,164.47
+Borivali / Kandivali West,2,767,2,2,27,34,0,6.5,1,1,1,1,1,148.28
+Andheri West / Lokhandwala,2,759,2,2,25,29,0,1.6,1,1,1,1,1,249.33
+Andheri West / Lokhandwala,2,713,2,2,41,47,3,2.8,1,1,1,1,1,243.95
+Andheri West / Lokhandwala,1,402,1,1,15,26,1,8.0,1,1,1,1,1,130.79
+Andheri West / Lokhandwala,2,887,2,2,25,33,6,5.0,0,0,1,0,1,227.24
+Thane (Majiwada / Teen Hath Naka),2,630,2,2,22,26,6,3.1,1,0,0,1,1,103.71
+Andheri East / Marol / Sakinaka,2,745,2,2,18,21,10,5.1,1,0,1,0,1,114.65
+Worli / Lower Parel / Prabhadevi,1,428,1,1,12,18,6,2.2,1,1,0,0,1,192.92
+Kalyan / Dombivli / Beyond Thane,2,796,2,2,23,27,0,0.5,0,0,1,1,1,55.35
+Navi Mumbai (Kharghar / Belapur / Nerul),1,364,1,1,39,45,1,5.6,1,0,0,0,1,45.38
+Mira Road / Bhayandar,1,408,1,1,25,35,1,6.5,0,0,1,0,1,37.18
+Kalyan / Dombivli / Beyond Thane,1,486,1,1,10,22,1,8.0,1,0,1,0,1,28.88
+Andheri West / Lokhandwala,1,457,1,1,30,41,0,7.0,1,0,0,1,0,124.58
+Goregaon / Malad West,3,1193,3,2,10,12,0,8.4,0,0,0,1,1,217.74
+Thane West (Ghodbunder Road),2,876,2,2,34,39,3,8.9,1,0,1,1,1,102.71
+Thane West (Ghodbunder Road),4,2044,4,3,13,24,6,6.8,1,0,0,1,1,237.55
+Andheri West / Lokhandwala,4,1906,4,3,29,45,6,7.9,1,1,0,1,1,570.64
+Thane (Majiwada / Teen Hath Naka),2,791,2,2,38,55,3,6.2,0,1,0,1,1,127.32
+Andheri West / Lokhandwala,1,491,1,1,41,47,3,1.8,1,0,0,0,1,138.7
+Andheri West / Lokhandwala,2,691,2,2,9,12,3,1.9,1,1,0,1,1,218.79
+Borivali / Kandivali West,3,1332,3,2,13,26,6,1.3,1,0,0,1,1,255.67
+Ghatkopar / Mulund West,2,947,2,2,37,40,0,8.5,1,1,1,1,1,218.82
+Ghatkopar / Mulund West,1,407,1,1,14,16,6,6.2,1,0,1,1,1,83.93
+Bandra West / Khar / Santacruz West,2,712,2,1,37,52,3,7.2,1,0,1,1,0,387.34
+Navi Mumbai (Kharghar / Belapur / Nerul),3,1433,3,3,9,18,0,3.2,1,1,0,1,1,194.1
+Powai / Hiranandani,3,1395,3,2,8,11,0,4.3,1,0,0,0,1,333.01
+Juhu / Vile Parle West,1,499,1,1,39,43,0,0.6,1,0,0,1,1,254.26
+Navi Mumbai (Kharghar / Belapur / Nerul),2,888,2,2,40,56,3,8.0,1,0,0,1,1,107.1
+Mira Road / Bhayandar,1,463,1,0,3,16,6,7.7,0,0,1,1,1,41.55
+Navi Mumbai (Vashi / Palm Beach Road),1,427,1,1,40,43,1,7.1,0,1,1,1,1,93.06
+Thane (Majiwada / Teen Hath Naka),3,1263,3,1,33,38,1,0.8,0,0,1,1,1,209.71
+Chembur / Wadala,1,412,1,1,32,47,15,1.8,1,1,0,1,1,94.4
+Borivali / Kandivali West,1,367,1,1,7,9,1,3.2,0,1,1,1,1,74.23
+Bandra West / Khar / Santacruz West,1,434,1,0,19,23,0,2.6,0,0,1,1,1,221.29
+Goregaon / Malad West,3,1368,3,3,34,40,1,7.6,1,0,1,1,1,298.14
+Andheri East / Marol / Sakinaka,3,1480,3,3,14,25,6,2.0,1,0,1,0,1,258.03
+Powai / Hiranandani,2,723,2,2,19,21,3,4.9,1,0,1,1,1,190.68
+Thane West (Ghodbunder Road),3,1511,3,2,26,43,3,5.3,0,1,1,1,1,197.77
+Borivali / Kandivali West,1,359,1,0,17,22,25,4.0,1,0,0,1,1,54.52
+Bandra West / Khar / Santacruz West,2,754,2,1,28,35,6,2.4,1,0,1,1,1,415.59
+Andheri West / Lokhandwala,2,885,2,2,19,35,0,8.7,1,1,0,0,1,245.64
+Thane West (Ghodbunder Road),1,378,1,1,27,32,6,3.9,0,0,1,0,1,44.8
+Bandra West / Khar / Santacruz West,2,656,2,2,19,27,0,6.6,1,0,0,1,0,341.32
+Navi Mumbai (Vashi / Palm Beach Road),4,2453,4,2,33,48,6,1.9,0,1,0,1,1,518.19
+Borivali / Kandivali West,1,391,1,1,7,15,1,7.5,0,0,0,1,1,70.38
+Borivali / Kandivali West,2,943,2,2,29,36,6,2.2,1,1,0,0,1,166.72
+Ghatkopar / Mulund West,1,445,1,1,5,15,1,6.2,1,1,0,1,0,87.32
+Thane (Majiwada / Teen Hath Naka),1,362,1,1,30,33,10,4.7,1,0,0,1,1,54.14
+Andheri East / Marol / Sakinaka,3,1366,3,3,8,22,1,1.6,0,0,0,1,1,272.81
+Chembur / Wadala,2,837,2,2,12,23,3,0.5,0,0,0,1,1,202.9
+Ghatkopar / Mulund West,2,635,2,1,13,22,1,8.4,0,0,1,1,1,124.72
+Powai / Hiranandani,3,1106,3,3,26,35,15,1.4,1,0,0,1,1,295.46
+Navi Mumbai (Kharghar / Belapur / Nerul),1,410,1,1,18,30,6,6.4,1,0,0,1,1,45.52
+Thane (Majiwada / Teen Hath Naka),2,691,2,2,20,31,1,6.0,1,1,1,1,1,114.94
+Chembur / Wadala,2,907,2,1,16,31,15,3.3,1,0,0,1,0,197.79
+Navi Mumbai (Vashi / Palm Beach Road),2,854,2,2,37,52,1,1.9,0,1,0,1,1,181.48
+Navi Mumbai (Vashi / Palm Beach Road),5,4800,5,3,3,15,6,1.9,1,0,0,0,1,846.94
+Thane West (Ghodbunder Road),3,1376,3,3,27,32,6,5.4,1,0,0,1,1,162.27
+Navi Mumbai (Vashi / Palm Beach Road),2,910,2,1,15,22,0,5.1,1,1,1,1,1,221.22
+Thane West (Ghodbunder Road),3,1369,3,1,34,46,15,7.9,1,0,1,1,1,144.92
+Thane West (Ghodbunder Road),1,460,1,1,22,29,1,5.9,1,0,1,1,1,54.36
+Ghatkopar / Mulund West,1,459,1,1,40,46,0,7.4,1,1,1,1,1,95.83
+Thane West (Ghodbunder Road),1,448,1,0,23,38,10,0.6,0,1,1,1,1,54.08
+Andheri West / Lokhandwala,2,907,2,2,4,6,6,6.1,1,0,1,0,1,247.59
+Navi Mumbai (Kharghar / Belapur / Nerul),2,844,2,1,41,45,0,2.3,1,1,1,0,1,124.26
+Navi Mumbai (Vashi / Palm Beach Road),2,737,2,2,23,31,0,2.5,1,0,1,1,1,148.29
+Worli / Lower Parel / Prabhadevi,3,1128,3,2,9,18,6,6.6,0,0,1,1,1,537.81
+Thane (Majiwada / Teen Hath Naka),2,890,2,2,24,27,0,7.2,1,0,0,1,1,147.16
+Juhu / Vile Parle West,2,692,2,2,21,25,15,3.5,0,1,1,1,0,288.3
+Andheri East / Marol / Sakinaka,1,437,1,0,41,46,6,7.2,1,0,1,1,1,86.17
+Thane West (Ghodbunder Road),1,431,1,1,16,31,1,4.2,1,1,1,1,1,57.36
+Andheri West / Lokhandwala,2,692,2,2,25,37,1,7.8,1,0,1,0,1,205.13
+Thane (Majiwada / Teen Hath Naka),2,928,2,2,26,32,3,0.5,1,1,0,1,1,144.29
+Navi Mumbai (Vashi / Palm Beach Road),3,1247,3,2,9,13,1,1.0,0,0,1,1,1,263.02
+Borivali / Kandivali West,1,352,1,1,15,21,6,7.1,1,0,0,0,1,61.6
+South Mumbai (Colaba / Marine Drive / Malabar Hill),1,390,1,0,39,48,25,5.7,1,0,1,1,1,254.81
+Powai / Hiranandani,2,838,2,2,33,42,3,5.2,1,1,0,1,1,232.32
+Ghatkopar / Mulund West,1,363,1,1,1,16,3,5.6,0,1,1,1,0,67.04
+Kalyan / Dombivli / Beyond Thane,1,495,1,1,5,8,1,8.4,0,1,1,0,1,32.28
+Chembur / Wadala,3,1131,3,2,9,16,6,6.0,1,1,0,1,1,261.71
+Powai / Hiranandani,1,356,1,1,6,11,6,5.9,1,0,1,1,1,86.86
+Chembur / Wadala,2,680,2,2,28,38,6,6.9,0,1,0,1,1,152.06
+Borivali / Kandivali West,2,815,2,1,26,37,0,7.8,0,0,1,0,1,158.47
+Thane (Majiwada / Teen Hath Naka),1,406,1,1,28,31,10,2.6,1,0,0,1,1,63.97
+Bandra West / Khar / Santacruz West,2,708,2,2,40,49,1,5.7,1,1,0,1,1,394.74
+Thane West (Ghodbunder Road),3,1331,3,1,15,17,6,5.4,0,0,0,0,1,133.34
+Borivali / Kandivali West,2,765,2,2,6,18,6,1.5,1,1,1,0,1,138.74
+Kalyan / Dombivli / Beyond Thane,3,1238,3,3,27,34,6,4.8,1,1,1,0,1,77.25
+Andheri East / Marol / Sakinaka,1,380,1,0,38,50,1,0.9,0,1,0,1,1,72.33
+Chembur / Wadala,3,1320,3,3,4,16,3,1.9,1,0,0,1,1,297.82
+Mira Road / Bhayandar,1,395,1,1,11,26,0,8.2,0,0,1,1,1,32.49
+Bandra West / Khar / Santacruz West,2,757,2,1,21,34,6,1.3,1,0,0,1,1,377.04
+Mira Road / Bhayandar,2,796,2,2,30,41,0,5.3,0,1,1,0,0,73.97
+Thane West (Ghodbunder Road),4,2497,4,2,18,32,1,3.1,1,0,0,0,1,272.15
+Bandra West / Khar / Santacruz West,2,842,2,2,35,37,0,5.1,0,1,1,1,1,489.13
+Powai / Hiranandani,1,370,1,1,3,6,10,2.3,1,1,0,1,1,90.42
+Thane West (Ghodbunder Road),1,362,1,0,12,16,3,4.2,1,1,0,1,1,39.81
+Bandra West / Khar / Santacruz West,3,1345,3,3,27,37,6,7.8,1,1,0,1,1,739.87
+Ghatkopar / Mulund West,2,902,2,2,30,36,6,3.6,0,0,0,1,1,190.62
+Andheri East / Marol / Sakinaka,3,1362,2,1,21,32,10,3.4,1,1,1,1,1,267.44
+Ghatkopar / Mulund West,1,386,1,1,38,49,0,4.2,1,0,0,1,1,84.28
+Worli / Lower Parel / Prabhadevi,2,729,2,2,21,34,6,1.2,1,1,0,0,1,383.2
+Navi Mumbai (Vashi / Palm Beach Road),1,463,1,0,38,41,3,3.7,1,0,0,1,0,98.44
+Kalyan / Dombivli / Beyond Thane,4,2041,4,3,40,51,0,0.4,1,1,0,1,1,143.49
+Kalyan / Dombivli / Beyond Thane,2,899,2,2,15,21,1,4.7,0,1,0,0,1,53.85
+Thane West (Ghodbunder Road),4,2445,4,3,18,24,1,7.7,1,0,1,1,1,281.93
+Juhu / Vile Parle West,1,452,1,1,29,31,0,5.1,1,0,0,1,1,211.68
+Thane West (Ghodbunder Road),2,893,2,2,38,42,1,5.6,0,0,1,1,1,110.66
+South Mumbai (Colaba / Marine Drive / Malabar Hill),2,722,2,1,21,27,0,0.6,0,0,1,0,1,565.33
+South Mumbai (Colaba / Marine Drive / Malabar Hill),2,948,2,2,17,27,3,7.8,0,0,0,1,1,642.52
+Andheri East / Marol / Sakinaka,3,1205,3,2,41,52,1,3.6,1,0,1,0,1,234.96
+Borivali / Kandivali West,4,2650,4,3,18,35,1,8.8,1,0,1,1,1,493.56
+Thane West (Ghodbunder Road),3,1491,3,3,37,39,15,1.3,1,1,1,0,1,167.03
+Thane West (Ghodbunder Road),3,1255,3,1,38,47,3,8.5,1,0,1,1,1,138.96
+Goregaon / Malad West,1,453,1,1,12,14,1,5.8,0,0,0,1,1,89.64
+Powai / Hiranandani,2,784,2,1,11,21,3,0.8,1,1,0,0,1,205.21
+Kalyan / Dombivli / Beyond Thane,4,1790,4,2,20,37,1,8.8,1,0,1,1,1,115.05
+Goregaon / Malad West,1,365,1,0,9,16,0,0.4,0,1,1,0,1,79.22
+Goregaon / Malad West,2,623,2,2,1,3,0,6.7,1,0,1,0,1,128.18
+Andheri West / Lokhandwala,2,876,2,2,3,12,15,8.0,0,1,1,1,1,248.72
+Thane (Majiwada / Teen Hath Naka),2,693,2,2,21,27,6,1.8,1,1,0,1,1,117.05
+Thane West (Ghodbunder Road),5,4591,5,3,23,31,6,3.3,1,1,1,1,0,569.49
+Andheri West / Lokhandwala,2,837,2,2,9,17,25,5.2,1,0,0,1,1,183.6
+Bandra West / Khar / Santacruz West,2,760,2,2,19,35,15,6.2,1,1,1,1,1,372.81
+Thane West (Ghodbunder Road),1,409,1,1,19,27,6,7.9,1,0,1,0,1,46.41
+Chembur / Wadala,2,817,2,1,23,30,6,6.9,1,0,1,1,1,183.91
+Powai / Hiranandani,1,395,1,1,27,39,1,3.5,1,1,1,1,1,110.04
+Mira Road / Bhayandar,2,912,2,1,27,36,0,7.4,1,0,0,1,1,83.44
+Andheri West / Lokhandwala,3,1419,3,2,39,49,3,8.7,1,1,1,1,1,443.34
+Goregaon / Malad West,4,2589,4,2,36,49,3,2.3,1,0,1,0,1,551.53
+Mira Road / Bhayandar,1,375,1,0,12,28,15,0.9,1,0,0,1,1,33.18
+Goregaon / Malad West,2,683,2,1,27,30,3,4.0,1,1,0,1,1,153.13
+Chembur / Wadala,4,2259,4,3,34,42,6,8.0,1,1,1,1,1,490.07
+Goregaon / Malad West,1,420,1,0,33,49,3,1.6,1,0,0,1,1,86.67
+Powai / Hiranandani,1,399,1,1,28,31,0,8.0,1,0,1,1,1,98.08
+Kalyan / Dombivli / Beyond Thane,1,404,1,1,31,38,3,8.9,1,1,0,1,1,26.85
+Goregaon / Malad West,2,657,2,1,32,35,3,0.8,1,1,1,1,1,146.31
+Navi Mumbai (Kharghar / Belapur / Nerul),1,398,1,1,20,31,3,4.6,0,0,0,1,1,47.11
+Andheri West / Lokhandwala,4,2056,4,2,40,47,3,3.2,1,1,1,1,1,629.69
+Andheri West / Lokhandwala,2,916,2,2,35,38,0,3.7,1,0,1,1,1,276.76
+Worli / Lower Parel / Prabhadevi,2,667,2,1,31,33,3,4.2,0,0,0,1,1,344.65
+Chembur / Wadala,1,514,1,1,31,39,3,6.7,0,1,0,1,1,124.29
+Andheri East / Marol / Sakinaka,2,887,2,2,38,42,3,5.4,0,0,0,1,1,155.98
+Navi Mumbai (Vashi / Palm Beach Road),2,708,2,1,22,37,3,8.7,1,0,0,1,1,139.68
+Borivali / Kandivali West,3,1306,3,3,41,54,0,3.2,1,0,1,1,1,255.72
+Kalyan / Dombivli / Beyond Thane,3,1098,3,2,9,24,0,5.0,0,0,1,1,0,70.83
+Andheri West / Lokhandwala,2,621,2,2,9,23,1,7.4,0,0,0,1,1,163.8
+Navi Mumbai (Vashi / Palm Beach Road),3,1194,3,2,15,20,3,3.5,1,0,0,1,1,245.25
+Thane (Majiwada / Teen Hath Naka),3,1322,3,1,13,27,3,4.3,1,1,1,1,0,210.05
+Thane West (Ghodbunder Road),3,1483,3,2,22,39,10,6.3,0,0,1,0,1,158.33
+Navi Mumbai (Vashi / Palm Beach Road),1,517,1,0,16,33,0,7.8,1,1,0,1,1,100.6
+Thane West (Ghodbunder Road),1,509,1,1,32,39,0,3.9,1,1,0,1,1,64.45
+Chembur / Wadala,1,419,1,0,2,8,3,4.9,1,0,0,1,1,93.59
+Juhu / Vile Parle West,2,767,2,1,26,31,3,8.8,1,0,1,0,1,309.8
+Worli / Lower Parel / Prabhadevi,2,744,2,2,14,24,3,0.7,1,0,0,1,1,343.5
+Navi Mumbai (Kharghar / Belapur / Nerul),2,699,2,2,38,45,10,4.2,1,1,0,0,1,80.5
+Ghatkopar / Mulund West,3,1114,3,3,34,41,10,5.8,0,0,0,1,1,193.23
+Thane (Majiwada / Teen Hath Naka),3,1253,3,2,8,11,0,0.4,1,0,0,1,1,198.68
+Borivali / Kandivali West,3,1110,3,3,36,43,15,5.5,1,0,0,1,1,179.56
+Juhu / Vile Parle West,2,833,2,1,21,29,0,0.8,0,0,1,1,1,411.9
+Juhu / Vile Parle West,2,805,2,1,28,37,3,7.8,1,0,1,0,1,397.11
+Thane West (Ghodbunder Road),1,351,1,1,6,22,6,7.3,1,0,0,0,1,36.35
+Goregaon / Malad West,1,371,1,1,20,35,6,0.6,1,1,1,1,1,88.06
+Andheri West / Lokhandwala,1,400,1,0,31,40,1,0.7,1,0,1,1,1,134.1
+Borivali / Kandivali West,2,699,2,1,33,50,1,6.9,1,1,0,0,1,139.16
+Worli / Lower Parel / Prabhadevi,2,927,2,2,7,17,3,3.5,0,0,0,1,0,421.66
+Ghatkopar / Mulund West,3,1208,2,2,8,19,0,5.3,0,0,0,1,1,239.05
+Powai / Hiranandani,1,393,1,0,9,21,0,2.7,0,1,0,1,1,109.09
+Thane (Majiwada / Teen Hath Naka),3,1066,3,2,2,16,3,1.8,1,0,1,1,1,180.99
+Powai / Hiranandani,2,736,2,2,17,30,3,2.9,1,0,0,0,1,195.77
+Goregaon / Malad West,2,734,2,2,37,41,6,2.4,1,1,1,1,1,158.33
+South Mumbai (Colaba / Marine Drive / Malabar Hill),2,921,2,1,17,28,0,4.2,1,1,0,1,0,740.53
+Bandra West / Khar / Santacruz West,2,751,2,1,38,54,10,6.8,1,1,1,0,1,368.73
+Goregaon / Malad West,2,847,2,2,35,43,0,5.1,0,1,1,1,1,177.78
+Borivali / Kandivali West,2,700,2,2,39,47,10,5.6,1,0,0,1,1,124.48
+Ghatkopar / Mulund West,1,489,1,1,30,32,3,4.4,1,0,1,0,1,101.15
+Powai / Hiranandani,1,402,1,1,6,15,3,3.1,1,1,0,1,1,106.34
+Thane West (Ghodbunder Road),2,941,2,2,4,20,10,1.5,1,0,1,1,1,104.02
+Navi Mumbai (Vashi / Palm Beach Road),3,1215,3,3,37,42,1,3.4,0,0,1,1,1,283.87
+Thane (Majiwada / Teen Hath Naka),2,808,2,1,35,41,0,6.1,0,0,1,1,1,138.62
+Worli / Lower Parel / Prabhadevi,3,1428,3,2,9,24,3,6.7,1,1,0,1,1,700.4
+Borivali / Kandivali West,2,745,2,2,6,13,1,4.4,1,0,1,1,1,140.96
+Bandra West / Khar / Santacruz West,4,2524,4,2,13,17,3,5.9,0,1,1,1,1,1350.65
+Powai / Hiranandani,3,1536,3,2,22,28,1,2.1,0,0,0,1,1,408.75
+Kalyan / Dombivli / Beyond Thane,2,760,2,2,28,39,10,7.8,0,0,1,1,1,45.52
+Juhu / Vile Parle West,2,673,2,1,30,36,3,7.8,1,1,1,0,1,319.52
+Borivali / Kandivali West,3,1387,3,2,36,38,0,3.1,1,0,0,1,0,250.8
+Ghatkopar / Mulund West,2,861,2,2,2,6,10,5.1,1,0,1,1,1,173.96
+Thane West (Ghodbunder Road),2,908,2,2,36,40,1,5.6,1,1,1,0,1,110.5
+Ghatkopar / Mulund West,1,350,1,0,8,10,1,4.4,0,0,0,1,1,71.47
+South Mumbai (Colaba / Marine Drive / Malabar Hill),3,1433,3,1,9,23,1,8.2,1,0,0,1,1,1032.5
+Andheri East / Marol / Sakinaka,3,1225,3,2,1,9,3,6.7,1,0,0,1,1,233.36
+Borivali / Kandivali West,1,446,1,1,13,15,3,6.2,1,0,0,1,1,74.36
+Bandra West / Khar / Santacruz West,2,742,2,1,15,23,3,4.8,0,1,1,1,1,388.27
+Andheri East / Marol / Sakinaka,2,726,2,1,32,37,0,1.0,1,0,0,0,1,144.64
+Worli / Lower Parel / Prabhadevi,1,389,1,1,34,44,25,1.2,1,0,0,0,1,156.6
+Bandra West / Khar / Santacruz West,5,4803,5,3,31,39,6,2.9,1,1,0,1,1,2558.36
+Goregaon / Malad West,1,393,1,1,14,20,1,2.1,1,0,1,0,1,89.02
+Juhu / Vile Parle West,1,398,1,1,14,22,6,8.6,1,0,0,1,1,176.11
+Ghatkopar / Mulund West,2,933,2,2,29,39,3,3.9,1,0,1,1,1,212.16
+Thane West (Ghodbunder Road),3,1106,3,2,19,30,0,7.9,0,0,0,1,1,127.81
+Thane (Majiwada / Teen Hath Naka),1,394,1,0,27,34,0,7.4,1,1,1,1,1,67.22
+Andheri West / Lokhandwala,2,876,2,2,9,11,0,7.4,1,1,0,1,1,237.52
+Andheri West / Lokhandwala,2,640,2,2,37,44,10,2.2,0,1,0,0,1,179.31
+Bandra West / Khar / Santacruz West,1,510,1,0,37,39,3,4.2,0,0,1,0,1,258.76
+Chembur / Wadala,1,452,1,0,28,42,1,3.1,0,1,0,1,1,109.44
+Thane West (Ghodbunder Road),2,885,2,2,24,37,0,8.7,1,1,0,1,1,108.7
+Worli / Lower Parel / Prabhadevi,2,944,2,1,28,33,3,7.9,1,1,0,1,1,560.37
+Mira Road / Bhayandar,4,1727,4,2,36,51,3,2.5,1,1,1,0,1,171.14
+Worli / Lower Parel / Prabhadevi,3,1165,3,2,18,27,6,3.0,0,0,0,1,1,530.03
+Borivali / Kandivali West,5,4986,5,4,25,42,25,4.9,0,0,1,1,1,717.68
+Thane West (Ghodbunder Road),1,514,1,1,35,41,3,2.7,1,1,1,0,1,67.24
+Navi Mumbai (Vashi / Palm Beach Road),4,1722,4,3,4,20,3,7.5,1,1,1,1,1,339.37
+Thane West (Ghodbunder Road),2,748,2,2,14,20,1,7.4,1,0,0,1,1,85.92
+Thane (Majiwada / Teen Hath Naka),2,805,2,1,39,56,10,6.6,1,0,0,1,1,110.14
+Andheri East / Marol / Sakinaka,1,340,1,1,26,40,0,6.3,1,0,1,1,1,67.62
+Thane (Majiwada / Teen Hath Naka),1,376,1,1,8,19,1,5.1,1,0,1,1,1,59.33
+Bandra West / Khar / Santacruz West,2,708,2,1,24,36,6,3.3,1,1,0,1,1,418.73
+Navi Mumbai (Kharghar / Belapur / Nerul),2,808,2,2,16,25,0,7.6,1,0,0,1,1,97.77
+Borivali / Kandivali West,1,429,1,0,20,29,1,7.8,1,0,0,1,1,70.16
+Thane (Majiwada / Teen Hath Naka),2,889,2,2,15,17,3,0.7,1,1,1,1,1,154.59
+Goregaon / Malad West,1,500,1,0,7,21,0,3.8,1,1,1,1,1,122.15
+Chembur / Wadala,2,852,2,1,17,31,1,0.5,0,0,1,1,1,210.46
+Borivali / Kandivali West,2,896,2,2,22,28,3,7.6,1,0,0,0,1,165.08
+Thane West (Ghodbunder Road),3,1272,3,2,22,35,3,1.8,1,1,1,1,1,169.12
+Bandra West / Khar / Santacruz West,3,1276,3,2,12,18,0,6.2,1,0,0,1,1,642.62
+Worli / Lower Parel / Prabhadevi,2,648,2,2,18,27,15,3.4,1,0,1,1,1,284.69
+Powai / Hiranandani,2,935,2,2,15,17,0,7.4,1,1,1,1,1,242.14
+Andheri West / Lokhandwala,2,863,2,1,37,45,6,4.7,1,0,1,1,1,243.77
+Navi Mumbai (Vashi / Palm Beach Road),3,1196,3,3,16,24,0,3.1,1,0,0,0,0,245.0
+Andheri West / Lokhandwala,2,761,2,2,5,19,3,3.1,0,0,0,1,1,202.03
+Kalyan / Dombivli / Beyond Thane,1,436,1,0,2,12,0,3.1,0,1,1,0,1,24.95
+Andheri East / Marol / Sakinaka,1,479,1,1,28,31,0,7.2,1,1,1,1,1,101.2
+Andheri West / Lokhandwala,2,780,2,2,41,57,0,6.5,0,0,1,1,1,236.76
+Thane (Majiwada / Teen Hath Naka),2,817,2,2,27,44,3,3.1,1,0,0,0,1,116.74
+Chembur / Wadala,3,1080,3,2,31,35,3,4.6,1,0,0,1,1,260.37
+Borivali / Kandivali West,1,391,1,1,41,46,0,1.0,1,0,1,1,1,72.75
+Borivali / Kandivali West,2,693,2,2,36,38,25,7.5,1,0,1,1,1,102.86
+Thane West (Ghodbunder Road),3,1126,3,2,1,17,1,2.6,1,0,0,1,1,124.43
+Andheri West / Lokhandwala,3,1467,3,1,29,37,3,8.0,1,1,0,1,1,446.49
+Kalyan / Dombivli / Beyond Thane,2,728,2,2,1,16,1,5.5,0,1,1,0,1,47.63
+Kalyan / Dombivli / Beyond Thane,2,844,2,2,8,19,3,5.2,1,0,0,1,1,53.55
+Chembur / Wadala,2,867,2,2,16,20,6,1.7,1,1,0,0,1,205.0
+Andheri West / Lokhandwala,4,1766,4,2,28,32,3,0.9,1,0,0,1,1,506.78
+Thane West (Ghodbunder Road),1,410,1,0,22,26,1,5.1,1,0,1,1,1,51.76
+Bandra West / Khar / Santacruz West,4,2169,4,2,18,27,1,4.4,1,1,0,1,0,1223.55
+Worli / Lower Parel / Prabhadevi,2,808,2,1,22,32,6,1.3,0,0,0,1,1,361.6
+Powai / Hiranandani,2,715,2,1,41,52,0,7.6,1,0,0,1,1,196.62
+Goregaon / Malad West,1,346,1,1,12,26,1,3.9,0,0,0,1,1,72.82
+Navi Mumbai (Vashi / Palm Beach Road),2,732,2,1,19,34,0,2.6,1,0,1,0,1,148.76
+Thane West (Ghodbunder Road),2,751,2,2,25,28,1,7.2,0,1,0,1,1,94.71
+Thane West (Ghodbunder Road),1,500,1,0,5,16,0,8.2,0,1,1,1,1,60.8
+Goregaon / Malad West,2,913,2,2,34,50,10,3.0,0,0,1,1,1,196.93
+Andheri East / Marol / Sakinaka,4,2493,4,2,39,50,6,7.1,0,0,0,0,1,467.36
+Andheri East / Marol / Sakinaka,2,879,2,1,10,12,3,6.0,1,0,0,1,1,158.19
+Kalyan / Dombivli / Beyond Thane,2,780,2,2,7,22,1,8.9,1,1,1,0,1,48.72
+Worli / Lower Parel / Prabhadevi,1,359,1,0,37,47,3,2.1,1,1,0,1,0,188.32
+Navi Mumbai (Vashi / Palm Beach Road),2,792,2,1,15,22,3,8.7,1,0,1,1,1,158.73
+Ghatkopar / Mulund West,1,466,1,1,24,39,3,3.0,0,0,1,0,1,96.96
+Goregaon / Malad West,2,701,2,2,26,42,0,3.9,1,0,1,1,1,151.15
+Thane West (Ghodbunder Road),4,2199,4,3,26,36,25,3.4,1,0,0,0,1,197.21
+Borivali / Kandivali West,2,631,2,2,26,33,3,2.6,1,0,0,1,0,120.35
+Navi Mumbai (Vashi / Palm Beach Road),1,412,1,0,10,13,15,6.3,0,0,1,1,1,70.88
+Navi Mumbai (Kharghar / Belapur / Nerul),2,734,2,2,17,19,0,5.4,0,1,1,0,1,92.32
+Goregaon / Malad West,2,725,2,2,14,29,1,3.0,1,0,0,1,1,140.47
+Powai / Hiranandani,2,861,2,2,2,11,0,1.5,1,0,0,1,1,236.3
+Ghatkopar / Mulund West,3,1436,3,2,13,17,6,3.1,1,0,1,1,1,290.98
+Navi Mumbai (Kharghar / Belapur / Nerul),3,1506,3,2,27,29,1,3.6,1,0,0,1,1,219.5
+Andheri West / Lokhandwala,2,746,2,2,9,25,10,3.6,1,1,0,1,1,209.51
+Chembur / Wadala,2,708,2,1,7,24,10,3.4,0,0,1,1,1,145.43
+Chembur / Wadala,1,500,1,1,10,19,6,0.7,1,1,1,0,1,120.28
+Thane West (Ghodbunder Road),1,424,1,1,9,22,6,4.3,1,1,0,1,1,54.86
+Juhu / Vile Parle West,2,691,2,2,22,24,6,7.6,1,0,1,1,1,299.38
+Thane West (Ghodbunder Road),2,628,2,1,23,32,6,1.9,0,1,0,0,1,74.34
+Navi Mumbai (Kharghar / Belapur / Nerul),2,877,2,2,7,9,1,1.6,0,0,1,1,1,110.93
+Andheri West / Lokhandwala,2,639,2,2,9,19,6,4.4,1,1,0,0,1,180.72
+Powai / Hiranandani,1,409,1,1,27,42,10,3.5,0,1,1,0,1,96.08
+Kalyan / Dombivli / Beyond Thane,2,708,2,1,24,34,1,5.2,1,1,0,1,1,48.29
+Andheri West / Lokhandwala,1,433,1,1,29,42,15,8.5,1,1,0,1,0,118.12
+Navi Mumbai (Vashi / Palm Beach Road),1,426,1,1,17,31,0,6.9,1,0,0,1,1,92.06
+Borivali / Kandivali West,3,1203,3,3,20,30,1,6.3,0,0,1,0,1,229.49
+Powai / Hiranandani,1,504,1,1,7,11,0,3.9,1,0,0,1,1,132.12
+Navi Mumbai (Vashi / Palm Beach Road),2,792,2,1,40,45,0,2.8,0,1,1,1,1,175.94
+Goregaon / Malad West,1,467,1,1,7,13,10,5.0,1,0,0,1,1,87.34
+Borivali / Kandivali West,3,1521,2,2,28,35,15,8.0,0,0,1,0,0,237.71
+Andheri East / Marol / Sakinaka,2,690,2,2,19,29,6,7.9,0,1,0,0,1,118.76
+Ghatkopar / Mulund West,1,464,1,1,20,34,25,4.2,1,0,0,0,1,77.9
+Andheri West / Lokhandwala,2,947,2,1,39,51,1,2.4,0,0,1,1,1,281.29
+Goregaon / Malad West,3,1215,3,1,40,53,0,2.3,1,0,1,1,1,265.08
+Kalyan / Dombivli / Beyond Thane,4,2327,4,3,7,12,3,0.6,0,0,1,1,1,142.38
+Powai / Hiranandani,1,353,1,1,6,21,10,7.6,0,0,1,1,1,90.39
+Chembur / Wadala,3,1129,2,1,25,40,0,2.6,1,1,1,1,1,282.59
+Andheri East / Marol / Sakinaka,4,2174,4,3,41,48,25,3.4,0,0,0,0,1,333.54
+Thane West (Ghodbunder Road),3,1174,3,2,13,27,3,7.3,1,0,1,0,1,134.37
+Juhu / Vile Parle West,2,716,2,2,39,41,25,1.3,0,1,0,1,1,274.5
+Kalyan / Dombivli / Beyond Thane,2,768,2,2,40,43,1,4.3,0,1,1,0,1,53.55
+Goregaon / Malad West,2,628,2,1,22,31,3,1.4,1,0,1,1,0,135.36
+Powai / Hiranandani,3,1322,3,2,17,22,6,4.1,1,0,1,1,1,334.33
+Bandra West / Khar / Santacruz West,2,827,2,2,22,33,6,0.7,1,0,1,0,1,469.22
+Andheri West / Lokhandwala,2,742,2,2,34,42,1,4.8,0,1,0,0,0,208.91
+Borivali / Kandivali West,2,823,2,1,8,13,15,7.2,0,0,1,1,1,120.7
+Andheri East / Marol / Sakinaka,3,1488,2,3,18,35,10,6.2,1,0,0,0,1,236.26
+Thane (Majiwada / Teen Hath Naka),3,1226,2,3,24,39,0,4.7,0,0,1,0,1,196.83
+Goregaon / Malad West,1,475,1,0,2,19,0,7.5,1,0,0,1,1,94.01
+Powai / Hiranandani,3,1074,3,2,2,12,3,2.3,1,0,0,1,1,282.19
+Ghatkopar / Mulund West,2,797,2,2,27,37,3,7.5,1,0,1,1,1,163.48
+Thane West (Ghodbunder Road),3,1082,3,3,14,19,6,2.7,1,0,1,0,1,129.38
+Andheri West / Lokhandwala,2,850,2,1,39,53,0,3.5,1,0,1,1,1,264.63
+Andheri West / Lokhandwala,2,657,2,2,12,28,3,1.4,1,1,0,1,1,203.14
+Worli / Lower Parel / Prabhadevi,3,1383,3,1,32,41,3,1.2,1,1,1,1,1,868.8
+Thane West (Ghodbunder Road),1,428,1,1,28,35,1,8.4,0,0,0,1,1,51.16
+Chembur / Wadala,3,1199,3,2,28,30,3,2.0,1,0,1,1,1,295.49
+Borivali / Kandivali West,2,763,2,1,25,41,1,3.2,1,0,1,1,1,158.31
+Navi Mumbai (Vashi / Palm Beach Road),2,848,2,2,4,12,0,4.9,1,0,1,0,1,164.43
+Thane (Majiwada / Teen Hath Naka),2,888,2,2,26,28,3,3.3,1,1,1,1,1,157.51
+Ghatkopar / Mulund West,2,880,2,1,36,40,25,7.9,1,0,0,0,1,132.85
+Navi Mumbai (Vashi / Palm Beach Road),2,878,2,2,3,12,1,8.1,1,0,1,0,0,161.86
+Andheri West / Lokhandwala,1,460,1,1,1,17,1,3.1,1,0,0,0,1,120.69
+Bandra West / Khar / Santacruz West,1,476,1,1,17,27,1,1.1,0,1,0,0,1,272.15
+Powai / Hiranandani,1,517,1,0,7,11,1,2.1,1,0,1,0,1,129.85
+Worli / Lower Parel / Prabhadevi,4,2558,4,3,5,7,3,4.4,1,1,1,1,0,1292.99
+Borivali / Kandivali West,4,1872,4,2,19,21,6,2.8,1,0,1,1,1,362.32
+Mira Road / Bhayandar,2,675,2,2,39,47,0,4.2,1,0,0,1,1,60.27
+Worli / Lower Parel / Prabhadevi,3,1116,3,3,34,40,15,6.9,0,1,1,1,1,471.57
+Juhu / Vile Parle West,2,713,2,1,35,49,0,4.0,0,0,1,1,1,335.35
+Goregaon / Malad West,2,673,2,2,16,31,10,2.0,1,0,1,1,1,136.45
+Mira Road / Bhayandar,3,1382,3,2,40,57,10,3.4,1,0,1,1,1,133.79
+Andheri East / Marol / Sakinaka,4,2339,4,2,39,41,3,6.8,0,0,0,1,1,452.84
+Borivali / Kandivali West,2,936,2,2,27,44,0,4.0,1,1,0,1,1,188.55
+Worli / Lower Parel / Prabhadevi,3,1258,3,2,41,48,3,2.5,1,1,1,0,1,663.55
+Juhu / Vile Parle West,1,519,1,1,38,53,3,4.0,1,0,0,1,1,234.1
+Kalyan / Dombivli / Beyond Thane,5,3122,5,4,25,32,10,4.3,0,0,0,1,1,180.92
+Kalyan / Dombivli / Beyond Thane,1,510,1,1,26,41,3,2.9,0,1,1,1,1,29.67
+South Mumbai (Colaba / Marine Drive / Malabar Hill),2,678,2,2,14,19,3,9.0,1,1,0,1,1,495.58
+Mira Road / Bhayandar,2,887,2,2,14,22,10,7.0,1,1,1,0,1,77.15
+Chembur / Wadala,2,714,2,2,14,22,25,6.3,1,0,0,1,1,124.11
+Navi Mumbai (Vashi / Palm Beach Road),1,462,1,1,25,38,3,7.7,0,0,0,1,1,85.52
+Goregaon / Malad West,4,2170,4,3,36,46,10,6.1,1,1,0,0,1,429.78
+Borivali / Kandivali West,1,408,1,0,4,17,3,7.2,0,1,1,1,1,74.11
+Borivali / Kandivali West,2,649,2,2,15,17,6,3.9,1,1,0,0,1,123.01
+Chembur / Wadala,1,428,1,0,32,38,6,4.7,0,0,1,1,1,99.12
+Juhu / Vile Parle West,2,832,2,2,18,34,6,0.7,1,0,1,1,1,415.38
+Worli / Lower Parel / Prabhadevi,2,912,2,2,14,25,1,2.7,1,0,0,1,0,475.27
+Powai / Hiranandani,2,696,2,1,1,5,3,3.5,0,0,0,1,1,167.31
+Thane West (Ghodbunder Road),1,386,1,1,20,28,3,5.7,0,0,1,1,1,49.72
+Andheri West / Lokhandwala,1,510,1,1,10,15,1,4.3,1,0,0,1,1,139.72
+Chembur / Wadala,2,773,2,2,10,15,1,5.6,1,1,1,0,1,170.3
+Kalyan / Dombivli / Beyond Thane,3,1402,3,1,24,38,6,6.5,1,0,1,1,1,86.68
+Bandra West / Khar / Santacruz West,3,1520,3,1,34,47,3,0.7,1,0,0,1,1,845.26
+Chembur / Wadala,1,502,1,1,28,30,0,2.5,0,1,0,1,1,122.18
+Goregaon / Malad West,2,814,2,1,27,29,10,1.8,1,0,1,0,0,156.83
+Navi Mumbai (Vashi / Palm Beach Road),1,442,1,0,40,51,10,1.9,0,0,0,1,1,91.05
+Andheri West / Lokhandwala,1,510,1,0,1,4,3,4.7,1,0,1,1,1,141.46
+Thane West (Ghodbunder Road),2,915,2,2,33,49,1,6.7,0,1,1,1,0,109.44
+Navi Mumbai (Vashi / Palm Beach Road),2,949,2,2,4,7,15,2.7,1,0,1,1,1,175.15
+Mira Road / Bhayandar,1,486,1,1,7,9,10,7.5,1,1,0,1,1,44.55
+Thane West (Ghodbunder Road),1,382,1,1,9,18,1,8.1,1,0,0,0,1,46.26
+Borivali / Kandivali West,1,508,1,1,16,23,0,3.3,0,0,1,1,1,83.93
+Ghatkopar / Mulund West,3,1414,3,2,5,12,3,6.2,1,0,1,1,1,288.29
+Navi Mumbai (Vashi / Palm Beach Road),4,1783,4,2,34,45,6,1.3,1,0,0,1,1,391.07
+Ghatkopar / Mulund West,1,500,1,0,23,34,0,6.8,0,0,0,1,1,94.7
+Worli / Lower Parel / Prabhadevi,1,417,1,1,25,35,3,1.7,0,1,1,1,1,217.62
+Mira Road / Bhayandar,3,1319,3,3,13,19,3,6.3,0,0,1,0,1,106.85
+Thane West (Ghodbunder Road),4,2038,4,2,24,40,10,4.0,1,0,0,1,0,226.91
+Chembur / Wadala,2,673,2,2,11,16,3,8.4,1,1,0,0,1,141.11
+Andheri West / Lokhandwala,1,434,1,1,17,33,3,4.3,0,1,1,1,1,133.5
+Chembur / Wadala,1,392,1,0,37,49,15,0.6,1,0,0,1,1,85.79
+Goregaon / Malad West,2,935,2,1,13,20,1,4.5,1,0,1,1,1,175.05
+Chembur / Wadala,2,949,2,1,27,36,1,7.2,1,0,1,1,1,217.59
+Bandra West / Khar / Santacruz West,1,504,1,0,20,35,6,5.9,0,1,0,1,1,244.5
+Chembur / Wadala,2,689,2,2,33,35,1,8.7,1,1,1,0,1,172.36
+Kalyan / Dombivli / Beyond Thane,1,448,1,1,32,40,10,7.6,0,0,1,1,1,26.21
+Worli / Lower Parel / Prabhadevi,3,1484,3,3,8,17,0,4.9,1,0,1,1,0,766.22
+Kalyan / Dombivli / Beyond Thane,2,915,2,1,29,39,0,2.1,0,0,0,1,1,60.27
+Goregaon / Malad West,1,451,1,1,40,52,15,0.3,0,0,0,0,1,89.83
+Navi Mumbai (Vashi / Palm Beach Road),2,659,2,1,19,28,3,8.8,1,0,1,0,1,129.91
+Thane (Majiwada / Teen Hath Naka),2,802,2,2,6,14,6,8.5,1,0,0,1,1,113.53
+Ghatkopar / Mulund West,4,1882,4,2,39,56,1,2.7,0,1,1,1,1,379.18
+Thane West (Ghodbunder Road),2,726,2,2,41,45,0,5.9,1,1,1,1,1,102.16
+Navi Mumbai (Kharghar / Belapur / Nerul),1,425,1,0,21,24,10,6.6,0,1,0,0,1,55.81
+Goregaon / Malad West,2,756,2,2,22,38,1,5.3,0,1,1,1,1,166.9
+Andheri East / Marol / Sakinaka,1,419,1,1,10,14,3,7.6,1,1,0,1,0,81.28
+Chembur / Wadala,3,1294,3,2,10,15,0,1.0,1,1,0,0,1,337.84
+Thane (Majiwada / Teen Hath Naka),2,647,2,2,29,34,1,8.1,1,0,1,1,0,96.94
+Thane West (Ghodbunder Road),2,643,2,2,16,23,6,3.7,0,1,0,1,1,79.36
+Thane (Majiwada / Teen Hath Naka),1,395,1,1,1,14,10,4.5,1,1,1,1,1,62.4
+Goregaon / Malad West,2,739,2,2,17,25,6,4.2,0,0,0,1,1,141.85
+Thane (Majiwada / Teen Hath Naka),3,1483,3,1,30,43,6,4.9,0,1,1,0,1,228.26
+Juhu / Vile Parle West,3,1541,2,3,26,31,3,5.5,1,0,1,1,1,668.44
+Borivali / Kandivali West,1,503,1,0,19,36,3,6.5,1,0,0,0,1,92.31
+South Mumbai (Colaba / Marine Drive / Malabar Hill),1,476,1,1,21,32,6,4.9,1,1,0,1,1,343.96
+Andheri East / Marol / Sakinaka,3,1304,3,2,17,24,1,6.3,0,1,1,0,1,250.26
+Andheri East / Marol / Sakinaka,4,2016,4,3,40,50,1,3.2,1,1,1,1,1,395.34
+Goregaon / Malad West,1,428,1,1,21,36,15,8.4,1,0,1,1,1,88.14
+Thane West (Ghodbunder Road),2,689,2,2,41,48,0,0.9,0,1,1,0,1,89.31
+Goregaon / Malad West,2,699,2,2,40,55,0,5.0,1,1,1,1,1,176.59
+Goregaon / Malad West,3,1505,3,3,19,23,3,1.1,1,0,0,1,1,330.41
+Powai / Hiranandani,1,396,1,1,7,9,6,4.2,1,1,1,1,1,101.04
+Andheri East / Marol / Sakinaka,1,517,1,0,17,29,3,2.5,1,0,0,1,1,92.0
+Andheri West / Lokhandwala,3,1104,3,2,1,12,1,8.5,1,0,1,1,1,323.38
+Bandra West / Khar / Santacruz West,1,426,1,1,37,48,25,0.4,1,0,0,0,1,184.14
+Ghatkopar / Mulund West,2,648,2,2,6,20,6,3.7,0,0,1,1,1,125.41
+Chembur / Wadala,2,904,2,2,26,32,10,7.1,1,1,0,1,1,194.26
+Ghatkopar / Mulund West,2,869,2,1,2,19,0,1.9,0,0,1,1,1,172.56
+Goregaon / Malad West,2,821,2,2,32,43,1,7.4,1,1,0,1,1,186.42
+Andheri East / Marol / Sakinaka,2,690,2,2,5,16,1,7.8,1,1,1,0,1,119.9
+Navi Mumbai (Vashi / Palm Beach Road),1,512,1,1,37,41,0,6.5,1,0,1,0,1,100.65
+Borivali / Kandivali West,2,685,2,2,31,40,0,2.1,1,0,1,1,1,147.81
+Borivali / Kandivali West,3,1277,3,1,12,23,1,2.7,1,1,1,1,1,245.35
+South Mumbai (Colaba / Marine Drive / Malabar Hill),3,1089,3,2,35,51,3,1.8,1,0,0,1,1,864.73
+Andheri East / Marol / Sakinaka,1,385,1,1,30,32,6,1.9,1,0,0,1,1,74.63
+Andheri East / Marol / Sakinaka,1,360,1,1,6,18,6,0.6,1,1,0,1,1,73.15
+Goregaon / Malad West,1,486,1,0,15,18,0,7.8,1,0,1,1,1,108.43
+Ghatkopar / Mulund West,2,652,2,2,15,19,3,4.9,1,1,1,1,1,140.8
+Borivali / Kandivali West,2,622,2,2,16,20,0,3.2,1,1,0,1,1,119.8
+Ghatkopar / Mulund West,2,846,2,1,20,33,3,2.8,0,1,0,1,1,166.71
+Thane West (Ghodbunder Road),1,396,1,0,13,22,3,5.0,1,0,1,1,1,47.62
+Thane (Majiwada / Teen Hath Naka),1,483,1,1,31,37,3,3.1,1,1,0,0,1,83.91
+Thane West (Ghodbunder Road),2,853,2,2,34,43,10,7.8,0,0,0,1,0,86.05
+Mira Road / Bhayandar,2,944,2,1,29,41,10,2.1,1,0,0,1,1,83.04
+South Mumbai (Colaba / Marine Drive / Malabar Hill),1,431,1,0,3,20,3,8.0,1,0,1,1,1,286.37
+Andheri West / Lokhandwala,2,637,2,1,9,24,10,6.1,1,1,0,0,1,159.23
+South Mumbai (Colaba / Marine Drive / Malabar Hill),1,438,1,0,11,27,6,8.6,0,1,1,1,1,312.86
+Chembur / Wadala,3,1280,2,1,11,27,10,0.4,1,0,0,1,1,303.67
+Navi Mumbai (Kharghar / Belapur / Nerul),3,1274,3,2,25,37,3,0.8,0,0,1,1,1,179.64
+Powai / Hiranandani,2,678,2,1,22,29,3,4.7,0,0,0,0,1,147.76
+Mira Road / Bhayandar,1,436,1,1,9,25,6,8.2,1,0,0,0,1,33.49
+Worli / Lower Parel / Prabhadevi,2,854,2,2,20,33,0,6.7,1,0,1,1,1,436.24
+Mira Road / Bhayandar,1,357,1,0,21,24,6,5.7,1,1,1,0,1,33.95
+Andheri East / Marol / Sakinaka,2,786,2,2,10,22,15,0.6,1,0,0,1,1,127.56
+Bandra West / Khar / Santacruz West,3,1103,3,3,22,27,6,3.4,1,1,1,0,1,578.43
+Borivali / Kandivali West,2,654,2,1,29,46,0,3.3,0,1,1,0,1,133.62
+Powai / Hiranandani,3,1349,3,1,9,19,1,5.0,1,0,1,1,1,375.91
+Powai / Hiranandani,2,779,2,1,5,22,10,2.5,1,0,0,1,1,180.92
+Powai / Hiranandani,1,471,1,0,40,45,15,2.6,0,1,0,1,1,101.28
+Thane (Majiwada / Teen Hath Naka),3,1240,3,2,11,17,1,5.7,0,1,0,1,1,202.84
+Borivali / Kandivali West,2,705,2,2,1,7,10,8.5,0,1,1,1,1,114.5
+Powai / Hiranandani,2,825,2,2,1,12,10,6.0,1,0,1,1,1,197.6
+Ghatkopar / Mulund West,1,374,1,1,39,48,0,6.1,1,1,1,1,1,78.81
+Thane West (Ghodbunder Road),1,502,1,0,5,12,10,8.9,1,0,0,0,0,52.02
+Powai / Hiranandani,5,3716,5,4,22,33,1,1.6,0,1,1,1,1,1028.62
+Goregaon / Malad West,1,390,1,1,26,34,3,0.6,1,0,1,1,1,95.93
+Juhu / Vile Parle West,5,3390,5,3,6,13,3,6.8,0,1,0,1,1,1382.23
+Andheri West / Lokhandwala,4,2375,4,2,32,47,6,4.1,1,1,0,1,1,673.1
+Thane West (Ghodbunder Road),3,1527,3,2,11,26,6,4.0,0,0,1,0,1,181.91
+Andheri West / Lokhandwala,2,679,2,1,10,25,3,2.3,0,0,1,1,0,190.23
+Borivali / Kandivali West,2,854,2,1,39,45,10,4.7,0,1,0,1,1,147.69
+Thane West (Ghodbunder Road),3,1283,3,2,34,51,10,4.1,1,0,0,0,0,148.31
+Bandra West / Khar / Santacruz West,2,726,2,2,31,47,6,3.3,1,0,1,1,1,370.84
+Ghatkopar / Mulund West,2,842,2,1,12,18,3,4.2,1,1,0,0,1,171.35
+Powai / Hiranandani,2,803,2,2,16,20,0,3.6,1,1,1,1,0,218.17
+Kalyan / Dombivli / Beyond Thane,2,753,2,2,38,46,3,8.5,1,0,0,0,0,48.41
+Borivali / Kandivali West,2,821,2,2,3,17,10,8.8,0,0,1,1,1,128.33
+Thane (Majiwada / Teen Hath Naka),2,943,2,2,2,13,0,7.6,1,1,1,0,0,129.35
+Borivali / Kandivali West,2,754,2,2,5,11,25,8.9,0,1,0,1,1,107.05
+Worli / Lower Parel / Prabhadevi,3,1113,2,3,11,19,10,2.6,1,0,0,1,0,502.55
+Chembur / Wadala,1,342,1,1,25,41,6,7.6,1,0,0,0,0,71.54
+Mira Road / Bhayandar,4,2674,4,3,35,38,6,3.8,1,1,0,1,1,266.4
+Ghatkopar / Mulund West,2,840,2,2,35,45,3,6.8,0,1,1,0,1,158.47
+Thane (Majiwada / Teen Hath Naka),3,1485,3,2,22,31,6,2.1,1,0,1,1,1,228.32
+Navi Mumbai (Kharghar / Belapur / Nerul),2,785,2,2,37,53,3,7.4,0,1,1,1,1,101.43
+Andheri West / Lokhandwala,3,1523,3,3,22,28,10,1.0,1,1,0,1,1,432.23
+Andheri West / Lokhandwala,1,370,1,1,11,14,6,2.7,0,0,1,0,1,96.72
+Ghatkopar / Mulund West,3,1468,3,2,32,39,6,7.5,1,0,1,0,1,292.09
+Goregaon / Malad West,1,450,1,1,35,44,6,6.8,1,0,1,1,1,95.41
+Navi Mumbai (Vashi / Palm Beach Road),3,1367,3,2,31,39,0,4.7,0,1,0,1,1,308.27
+Navi Mumbai (Kharghar / Belapur / Nerul),5,3758,5,3,8,25,0,6.2,0,0,0,1,1,421.95
+Andheri East / Marol / Sakinaka,2,792,2,2,20,29,10,1.9,1,1,0,1,1,145.52
+Powai / Hiranandani,1,367,1,1,34,39,1,6.1,0,1,1,1,1,105.88
+Thane (Majiwada / Teen Hath Naka),3,1407,3,2,4,21,3,0.4,1,0,0,0,1,209.12
+Powai / Hiranandani,1,391,1,1,18,33,3,7.5,0,0,1,0,1,104.2
+Thane (Majiwada / Teen Hath Naka),3,1146,3,2,4,8,0,4.8,1,1,1,0,1,196.66
+Goregaon / Malad West,1,416,1,1,20,37,0,8.5,1,1,1,1,1,91.03
+Chembur / Wadala,1,432,1,0,9,17,10,4.5,1,1,1,1,1,101.44
+Bandra West / Khar / Santacruz West,4,2108,4,2,16,19,3,4.1,0,0,0,0,1,1034.26
+Chembur / Wadala,2,834,2,1,26,41,3,4.2,0,0,0,0,1,166.75
+Goregaon / Malad West,3,1513,3,2,38,44,15,3.4,1,1,1,1,1,343.89
+Ghatkopar / Mulund West,2,814,2,2,25,39,0,1.8,0,1,0,1,1,179.43
+Andheri West / Lokhandwala,2,754,2,1,4,12,1,7.6,1,1,1,1,1,236.86
+Thane West (Ghodbunder Road),2,715,2,2,41,43,6,3.7,0,1,1,1,1,93.54
+Navi Mumbai (Vashi / Palm Beach Road),2,645,2,1,41,46,6,4.9,1,0,1,1,1,135.99
+Andheri West / Lokhandwala,2,854,2,2,38,54,3,0.5,1,0,1,1,1,279.5
+Bandra West / Khar / Santacruz West,2,946,2,2,19,22,15,0.8,1,1,1,1,1,466.96
+South Mumbai (Colaba / Marine Drive / Malabar Hill),2,670,2,2,14,21,15,5.5,1,1,0,0,1,478.99
+Chembur / Wadala,1,406,1,1,21,34,0,7.9,1,1,0,1,1,101.01
+Ghatkopar / Mulund West,3,1204,3,1,15,17,0,4.6,0,0,0,1,1,215.3
+Borivali / Kandivali West,1,481,1,1,3,11,10,1.7,1,1,1,0,1,78.43
+Andheri West / Lokhandwala,2,728,2,2,37,41,1,1.3,0,0,0,1,1,209.97
+Goregaon / Malad West,1,418,1,0,16,29,0,8.1,0,1,0,0,1,81.86
+Ghatkopar / Mulund West,2,638,2,2,14,16,6,6.4,1,1,0,1,1,129.9
+Borivali / Kandivali West,3,1078,3,3,9,25,3,8.7,1,0,1,0,1,179.67
+Kalyan / Dombivli / Beyond Thane,1,363,1,0,7,16,3,1.0,0,1,0,1,1,22.12
+Juhu / Vile Parle West,1,349,1,1,14,22,0,8.2,0,0,0,1,1,147.9
+Thane West (Ghodbunder Road),1,508,1,0,6,9,6,7.7,0,0,0,1,1,63.19
+Goregaon / Malad West,2,855,2,2,21,29,3,8.1,0,0,1,0,1,160.13
+Goregaon / Malad West,3,1221,3,3,15,19,1,0.4,1,1,1,1,1,311.93
+Thane West (Ghodbunder Road),1,496,1,0,8,24,1,6.8,0,0,1,1,1,54.91
+Thane West (Ghodbunder Road),3,1196,2,2,34,48,3,5.1,1,1,1,1,1,152.47
+Kalyan / Dombivli / Beyond Thane,2,657,2,2,40,50,15,5.3,1,0,1,1,1,38.51
+Juhu / Vile Parle West,2,874,2,2,1,10,15,4.4,0,0,0,1,1,335.58
+Bandra West / Khar / Santacruz West,4,1794,4,3,32,38,1,6.8,0,1,1,1,1,986.5
+Thane West (Ghodbunder Road),2,946,2,1,5,13,6,9.0,0,1,1,1,1,110.54
+Ghatkopar / Mulund West,2,869,2,2,30,34,6,6.5,1,0,1,1,1,161.63
+Powai / Hiranandani,1,363,1,0,22,24,10,6.2,0,0,1,1,0,84.48
+Bandra West / Khar / Santacruz West,1,407,1,1,20,22,3,6.0,0,0,1,0,1,197.57
+Bandra West / Khar / Santacruz West,1,383,1,0,16,32,0,6.3,1,0,0,1,0,204.27
+Navi Mumbai (Kharghar / Belapur / Nerul),1,497,1,1,7,19,6,3.3,1,0,1,1,1,60.38
+Andheri West / Lokhandwala,2,830,2,2,7,10,0,3.1,1,0,0,1,1,242.57
+Andheri East / Marol / Sakinaka,2,841,2,2,2,11,0,7.1,1,1,1,1,1,160.84
+Andheri West / Lokhandwala,2,777,2,1,14,16,3,0.8,1,1,0,1,1,231.63
+Andheri East / Marol / Sakinaka,1,461,1,1,31,48,25,6.9,1,0,0,1,1,72.79
+Bandra West / Khar / Santacruz West,2,668,2,2,41,53,1,7.4,0,1,1,0,1,335.04
+Borivali / Kandivali West,2,916,2,2,14,27,3,4.8,1,0,0,0,1,157.9
+Bandra West / Khar / Santacruz West,4,2162,4,3,5,11,1,8.2,1,1,1,1,1,1140.99
+Thane (Majiwada / Teen Hath Naka),1,466,1,1,11,21,10,4.4,1,0,1,1,1,68.96
+Andheri West / Lokhandwala,3,1532,3,2,40,53,3,1.8,1,1,1,1,1,479.39
+Borivali / Kandivali West,2,939,2,2,5,15,1,3.4,0,0,1,1,1,163.51
+Navi Mumbai (Kharghar / Belapur / Nerul),2,810,2,2,29,32,1,8.2,1,0,0,1,1,105.62
+Chembur / Wadala,2,680,2,2,11,19,3,8.9,1,1,1,0,1,152.64
+Borivali / Kandivali West,1,368,1,0,5,17,0,4.0,0,0,1,1,1,68.97
+Andheri East / Marol / Sakinaka,1,497,1,0,32,34,0,1.8,1,0,1,0,1,92.59
+Andheri East / Marol / Sakinaka,2,823,2,2,36,40,6,2.8,0,0,0,1,1,129.55
+Chembur / Wadala,2,797,2,1,15,22,3,5.1,1,1,0,0,1,186.28
+Kalyan / Dombivli / Beyond Thane,3,1531,3,2,19,29,6,5.3,1,1,0,1,1,97.18
+Chembur / Wadala,2,868,2,2,22,33,0,5.8,0,1,1,1,1,212.39
+Ghatkopar / Mulund West,1,492,1,1,34,37,3,7.6,1,1,1,1,1,112.94
+Thane West (Ghodbunder Road),2,758,2,1,17,25,3,6.5,1,1,1,0,1,87.12
+Goregaon / Malad West,2,773,2,1,12,28,0,2.6,1,1,1,1,1,162.86
+Worli / Lower Parel / Prabhadevi,2,898,2,2,25,30,3,3.7,1,0,1,1,1,492.87
+Ghatkopar / Mulund West,2,923,2,2,17,20,0,7.6,0,0,1,1,1,189.23
+Mira Road / Bhayandar,3,1051,3,1,10,14,10,5.8,0,0,0,1,1,89.25
+Andheri West / Lokhandwala,3,1127,3,2,28,35,3,1.7,1,0,1,1,1,363.02
+Thane West (Ghodbunder Road),2,782,2,2,18,35,3,3.1,1,0,0,1,1,88.42
+Andheri West / Lokhandwala,2,747,2,2,18,29,0,7.2,0,0,0,1,1,212.49
+Borivali / Kandivali West,4,2661,4,3,32,42,1,1.8,0,1,0,0,0,493.13
+Bandra West / Khar / Santacruz West,2,650,2,1,14,31,3,6.3,1,1,1,1,1,369.25
+Goregaon / Malad West,1,360,1,0,16,25,3,5.2,0,0,0,0,1,74.88
+Thane West (Ghodbunder Road),1,362,1,1,18,29,0,1.6,1,0,0,1,1,44.61
+Andheri East / Marol / Sakinaka,1,487,1,1,16,31,0,6.3,0,0,0,1,1,85.42
+Chembur / Wadala,2,927,2,2,17,29,1,1.5,0,0,1,1,1,199.17
+Thane (Majiwada / Teen Hath Naka),2,781,2,2,7,17,3,3.8,1,1,1,1,1,115.36
+Mira Road / Bhayandar,2,680,2,2,12,17,0,3.0,1,0,0,1,1,68.56
+Andheri West / Lokhandwala,1,410,1,1,34,47,3,6.3,1,0,1,1,1,127.74
+Goregaon / Malad West,3,1413,3,2,10,15,1,7.1,1,0,1,1,1,315.36
+Andheri West / Lokhandwala,2,840,2,2,5,21,3,1.8,1,0,1,0,1,226.9
+Kalyan / Dombivli / Beyond Thane,2,640,2,1,21,31,1,7.4,0,0,0,1,1,40.23
+Mira Road / Bhayandar,2,701,2,1,3,12,3,0.4,1,1,1,0,1,69.19
+Borivali / Kandivali West,2,629,2,2,19,32,0,4.9,1,1,0,0,0,113.96
+Navi Mumbai (Vashi / Palm Beach Road),1,346,1,1,35,51,0,4.8,1,1,1,1,1,83.23
+Borivali / Kandivali West,1,453,1,1,6,9,3,5.7,1,0,1,0,1,80.96
+Chembur / Wadala,3,1548,3,1,14,23,1,2.4,1,1,1,1,1,398.71
+Bandra West / Khar / Santacruz West,3,1352,3,2,4,6,1,0.4,1,1,0,0,1,747.62
+Thane West (Ghodbunder Road),2,695,2,1,18,28,10,4.3,1,1,1,1,1,85.09
+Juhu / Vile Parle West,1,422,1,0,29,39,10,0.9,0,0,1,1,1,195.37
+Thane (Majiwada / Teen Hath Naka),2,651,2,2,35,49,1,8.1,1,0,1,1,1,105.35
+Thane (Majiwada / Teen Hath Naka),3,1368,3,2,38,54,10,1.8,0,0,1,0,1,205.29
+Thane West (Ghodbunder Road),3,1375,3,2,16,25,3,4.0,1,1,0,0,1,182.26
+Worli / Lower Parel / Prabhadevi,1,425,1,1,20,32,1,4.1,0,1,1,1,1,231.13
+Powai / Hiranandani,1,362,1,0,24,30,25,5.1,1,1,1,1,1,84.73
+Powai / Hiranandani,2,623,2,2,35,41,10,7.1,0,0,1,0,1,134.22
+Andheri East / Marol / Sakinaka,2,870,2,2,19,33,25,4.4,1,0,1,1,1,146.04
+Bandra West / Khar / Santacruz West,1,444,1,0,4,8,0,0.5,0,0,0,1,1,238.28
+Mira Road / Bhayandar,1,346,1,0,33,39,0,7.0,1,1,1,1,1,36.96
+Borivali / Kandivali West,2,764,2,1,2,7,3,1.0,0,0,1,0,0,133.44
+Powai / Hiranandani,3,1392,3,2,13,15,3,5.9,0,0,1,1,0,356.73
+Goregaon / Malad West,4,2493,4,3,30,47,0,7.3,0,1,0,1,1,525.24
+Goregaon / Malad West,2,744,2,2,34,51,10,2.8,1,1,0,1,1,168.98
+Ghatkopar / Mulund West,2,660,2,1,30,40,3,4.2,1,0,1,1,1,148.68
+Borivali / Kandivali West,1,437,1,1,24,40,3,0.4,0,0,0,0,1,74.66
+Navi Mumbai (Kharghar / Belapur / Nerul),2,885,2,2,33,44,3,7.3,1,0,0,1,1,112.31
+Borivali / Kandivali West,2,712,2,2,41,56,3,6.4,1,0,1,1,1,133.34
+Kalyan / Dombivli / Beyond Thane,2,636,2,2,10,15,0,2.3,1,1,1,0,1,43.17
+Navi Mumbai (Vashi / Palm Beach Road),2,733,2,1,18,22,25,3.7,1,0,1,1,1,125.0
+Andheri West / Lokhandwala,1,375,1,1,19,26,1,6.3,0,1,0,0,1,101.11
+Mira Road / Bhayandar,1,436,1,1,7,9,0,3.4,1,0,0,1,1,39.4
+Juhu / Vile Parle West,2,945,2,1,19,25,10,1.7,1,0,1,0,1,434.79
+Thane (Majiwada / Teen Hath Naka),1,407,1,0,24,41,25,4.8,1,0,0,1,1,51.45
+Andheri East / Marol / Sakinaka,1,416,1,1,15,31,10,6.6,1,0,1,1,1,72.25
+Navi Mumbai (Kharghar / Belapur / Nerul),5,4244,5,4,41,49,10,3.1,0,0,0,0,1,446.07
+Navi Mumbai (Vashi / Palm Beach Road),2,878,2,1,23,26,3,1.4,1,0,0,1,1,186.76
+Thane (Majiwada / Teen Hath Naka),2,744,2,2,4,15,15,7.5,1,1,0,1,1,110.33
+Thane (Majiwada / Teen Hath Naka),3,1496,3,3,38,48,0,2.5,1,1,1,1,1,271.96
+Powai / Hiranandani,5,3331,5,4,4,17,6,4.8,0,0,1,1,1,772.81
+Bandra West / Khar / Santacruz West,2,691,2,2,5,21,6,6.3,1,0,0,1,1,305.63
+Goregaon / Malad West,3,1205,3,1,41,48,0,3.1,1,1,1,1,1,297.01
+Andheri West / Lokhandwala,2,847,2,2,23,26,3,5.9,1,1,1,1,1,264.34
+Thane West (Ghodbunder Road),2,864,2,2,40,49,3,4.3,1,0,1,0,0,102.53
+Andheri East / Marol / Sakinaka,2,635,2,2,37,46,6,5.3,1,0,1,1,1,121.19
+Kalyan / Dombivli / Beyond Thane,2,661,2,2,11,13,0,5.4,0,0,0,1,1,36.42
+Chembur / Wadala,2,897,2,2,11,24,10,7.5,1,0,1,1,1,183.16
+Thane (Majiwada / Teen Hath Naka),2,685,2,2,13,15,0,6.0,1,0,1,1,1,111.85
+Juhu / Vile Parle West,1,486,1,0,14,16,3,2.6,1,0,1,1,1,226.14
+Navi Mumbai (Vashi / Palm Beach Road),2,731,2,1,8,21,10,0.8,0,1,0,1,1,144.65
+Navi Mumbai (Kharghar / Belapur / Nerul),1,456,1,1,25,30,3,0.3,1,0,0,0,1,61.44
+Borivali / Kandivali West,2,658,2,2,18,23,1,8.2,1,0,1,1,0,116.09
+Ghatkopar / Mulund West,2,900,2,2,18,35,0,8.5,1,0,0,0,1,175.8
+Thane West (Ghodbunder Road),2,742,2,2,10,19,6,1.1,1,1,1,0,0,89.18
+Andheri West / Lokhandwala,3,1110,2,2,7,9,25,4.5,0,1,1,1,1,259.91
+Borivali / Kandivali West,3,1253,3,3,14,25,15,1.6,1,1,0,0,1,213.09
+Goregaon / Malad West,2,816,2,2,15,19,6,8.6,1,0,1,1,1,157.36
+Juhu / Vile Parle West,3,1391,2,2,16,28,0,2.4,1,1,1,1,1,676.55
+Andheri East / Marol / Sakinaka,2,884,2,2,2,4,1,4.7,1,0,0,1,1,162.96
+Bandra West / Khar / Santacruz West,1,494,1,0,30,40,0,1.7,1,0,0,0,1,266.59
+South Mumbai (Colaba / Marine Drive / Malabar Hill),1,464,1,1,30,41,1,3.2,0,0,0,0,1,350.04
+Juhu / Vile Parle West,2,926,2,1,18,31,1,2.6,1,0,0,1,0,395.6
+Kalyan / Dombivli / Beyond Thane,2,937,2,2,31,41,1,4.4,1,0,1,1,1,61.31
+Borivali / Kandivali West,2,810,2,2,13,21,3,4.0,1,0,1,1,1,151.94
+Kalyan / Dombivli / Beyond Thane,3,1236,3,2,20,37,1,3.2,0,1,0,1,1,80.01
+Goregaon / Malad West,1,390,1,1,35,49,6,1.2,0,1,1,1,1,91.25
+Andheri East / Marol / Sakinaka,1,471,1,0,23,36,15,4.5,0,0,0,0,1,71.17
+Borivali / Kandivali West,4,2259,4,3,33,49,3,7.7,1,1,1,1,0,442.51
+Goregaon / Malad West,1,459,1,1,38,47,6,6.7,1,0,1,1,1,95.25
+Bandra West / Khar / Santacruz West,2,718,2,2,35,37,6,6.6,1,0,1,1,1,387.97
+Chembur / Wadala,2,689,2,2,36,42,1,3.5,1,0,0,1,1,164.92
+Andheri West / Lokhandwala,2,891,2,2,20,36,0,6.5,1,1,1,1,1,265.07
+Ghatkopar / Mulund West,1,358,1,0,3,18,0,4.4,1,1,0,1,1,79.87
+Chembur / Wadala,1,434,1,1,8,11,1,1.6,1,0,0,0,1,93.0
+Andheri West / Lokhandwala,1,420,1,0,40,57,6,3.9,1,0,0,1,1,114.26
+Worli / Lower Parel / Prabhadevi,2,722,2,1,32,46,15,1.5,0,0,1,1,1,341.25
+Thane (Majiwada / Teen Hath Naka),2,937,2,2,29,31,15,1.3,1,1,1,1,1,143.25
+Goregaon / Malad West,1,404,1,1,7,11,0,0.5,0,0,0,1,1,86.69
+Worli / Lower Parel / Prabhadevi,2,893,2,1,2,10,25,2.8,1,1,1,0,1,401.53
+Kalyan / Dombivli / Beyond Thane,3,1452,3,2,21,23,1,3.2,0,1,1,1,0,95.11
+Worli / Lower Parel / Prabhadevi,1,473,1,1,6,18,10,6.4,1,1,1,0,1,209.45
+Thane West (Ghodbunder Road),2,670,2,1,28,31,0,5.0,1,0,1,0,1,82.38
+Kalyan / Dombivli / Beyond Thane,2,900,2,2,36,39,0,7.8,0,1,1,1,1,59.19
+Powai / Hiranandani,1,422,1,0,32,37,1,1.8,1,1,0,0,1,118.02
+Juhu / Vile Parle West,2,931,2,2,9,25,10,2.6,1,1,0,0,1,371.87
+Juhu / Vile Parle West,2,739,2,1,11,24,1,8.5,0,0,1,1,1,370.49
+Powai / Hiranandani,3,1302,3,2,23,27,0,4.2,1,0,0,1,1,333.2
+Bandra West / Khar / Santacruz West,3,1336,3,2,11,15,15,7.2,0,1,1,0,1,620.07
+Thane West (Ghodbunder Road),2,912,2,1,2,13,15,4.6,0,0,1,1,1,99.27
+Worli / Lower Parel / Prabhadevi,3,1267,3,2,3,9,0,4.4,1,1,0,1,0,668.88
+Borivali / Kandivali West,2,835,2,2,11,15,6,1.6,0,1,1,1,0,159.47
+Kalyan / Dombivli / Beyond Thane,2,835,2,2,35,47,1,7.7,0,1,0,1,1,54.03
+Thane (Majiwada / Teen Hath Naka),2,654,2,2,15,23,1,1.0,1,0,0,0,0,108.11
+Ghatkopar / Mulund West,1,504,1,0,11,17,3,3.0,1,1,0,1,0,102.86
+Powai / Hiranandani,2,848,2,2,31,36,3,6.2,1,1,1,0,1,216.66
+Chembur / Wadala,2,620,2,1,28,41,3,4.7,1,0,1,1,1,135.69
+Borivali / Kandivali West,2,653,2,2,28,32,3,8.0,0,0,1,1,1,121.33
+Goregaon / Malad West,3,1177,3,3,32,48,3,0.6,1,0,1,1,0,269.41
+Juhu / Vile Parle West,1,504,1,1,25,38,6,5.9,1,0,1,1,1,232.09
+Navi Mumbai (Kharghar / Belapur / Nerul),2,631,2,2,20,25,6,4.5,1,0,0,1,1,76.36
+Goregaon / Malad West,1,365,1,1,28,43,3,1.6,0,1,1,0,1,84.14
+Andheri West / Lokhandwala,3,1427,3,3,25,41,0,6.8,1,1,0,1,1,423.5
+Andheri East / Marol / Sakinaka,2,936,2,2,11,24,3,3.9,0,0,1,1,1,169.39
+Goregaon / Malad West,2,653,2,1,19,22,6,4.9,0,0,0,1,1,128.25
+Thane (Majiwada / Teen Hath Naka),2,654,2,2,28,30,3,8.7,1,0,0,1,0,104.96
+Thane West (Ghodbunder Road),2,846,2,2,1,5,3,4.5,1,1,0,0,1,113.68
+Thane West (Ghodbunder Road),3,1108,2,2,5,22,1,7.5,1,1,1,1,1,146.82
+South Mumbai (Colaba / Marine Drive / Malabar Hill),2,799,2,1,10,22,3,7.0,0,1,0,1,1,537.34
+Goregaon / Malad West,2,768,2,2,34,37,1,6.1,0,0,1,1,1,165.37
+Borivali / Kandivali West,4,2464,4,2,36,53,15,8.1,1,1,1,1,1,422.42
+South Mumbai (Colaba / Marine Drive / Malabar Hill),1,435,1,1,2,4,6,2.5,1,0,0,1,0,299.33
+Powai / Hiranandani,1,398,1,1,18,20,1,7.4,1,0,0,1,1,99.16
+Thane West (Ghodbunder Road),2,705,2,1,13,16,3,3.6,0,1,0,1,1,84.28
+Juhu / Vile Parle West,4,2292,4,3,5,19,10,7.4,1,1,1,0,0,1014.43
+Borivali / Kandivali West,2,733,2,2,20,34,1,4.6,0,1,0,1,0,138.29
+Andheri West / Lokhandwala,1,405,1,1,2,12,3,7.8,1,1,0,1,1,114.05
+South Mumbai (Colaba / Marine Drive / Malabar Hill),2,673,2,2,11,25,6,8.1,1,1,1,0,1,483.53
+Powai / Hiranandani,2,912,2,2,30,44,6,5.5,1,1,0,0,1,220.68
+Kalyan / Dombivli / Beyond Thane,1,470,1,1,32,38,0,4.7,1,0,1,1,1,31.21
+Thane (Majiwada / Teen Hath Naka),2,799,2,2,32,42,3,7.1,1,0,1,1,1,125.12
+Mira Road / Bhayandar,5,4757,5,4,38,47,15,2.6,1,1,0,1,1,440.34
+Borivali / Kandivali West,2,863,2,1,28,42,25,0.4,0,0,1,1,1,135.36
+Bandra West / Khar / Santacruz West,2,773,2,1,10,27,6,3.8,1,0,1,0,1,419.61
+Borivali / Kandivali West,2,892,2,2,22,34,25,4.7,1,0,1,1,1,135.08
+Goregaon / Malad West,1,396,1,0,17,24,3,2.9,1,1,0,1,1,84.6
+Navi Mumbai (Vashi / Palm Beach Road),3,1422,2,1,22,24,3,3.6,1,0,1,0,1,271.51
+Bandra West / Khar / Santacruz West,2,677,2,2,19,30,3,1.5,1,0,1,0,1,350.37
+Borivali / Kandivali West,2,727,2,2,17,23,0,2.7,0,0,0,0,1,124.35
+Juhu / Vile Parle West,2,693,2,2,24,37,3,2.4,1,0,1,1,1,324.64
+Andheri East / Marol / Sakinaka,2,923,2,2,36,38,3,2.9,1,1,0,1,1,198.5
+Thane West (Ghodbunder Road),2,801,2,2,32,40,10,2.9,1,0,1,1,1,94.58
+Borivali / Kandivali West,1,368,1,1,36,47,6,5.2,1,0,1,0,1,64.29
+Andheri East / Marol / Sakinaka,3,1378,3,1,28,43,3,2.5,1,0,1,0,1,269.74
+Goregaon / Malad West,4,1883,4,2,14,26,1,8.5,0,0,1,0,1,377.61
+Goregaon / Malad West,2,892,2,2,36,45,0,4.7,1,1,0,0,1,208.55
+Thane (Majiwada / Teen Hath Naka),4,2052,4,3,6,15,1,1.4,1,1,1,1,0,360.98
+Navi Mumbai (Kharghar / Belapur / Nerul),1,512,1,0,9,17,6,2.7,0,0,0,1,1,60.69
+Mira Road / Bhayandar,2,754,2,2,21,24,1,6.6,1,0,1,1,1,74.67
+Thane (Majiwada / Teen Hath Naka),2,850,2,2,12,18,3,0.4,1,0,0,0,1,128.71
+Andheri East / Marol / Sakinaka,2,758,2,1,30,35,1,8.5,1,0,0,1,1,145.25
+Thane West (Ghodbunder Road),2,680,2,1,31,37,6,4.2,1,1,1,1,1,88.1
+Goregaon / Malad West,2,632,2,2,40,51,10,4.8,1,0,0,1,0,130.37
+Powai / Hiranandani,1,424,1,1,4,14,6,8.9,0,1,0,1,1,116.66
+Navi Mumbai (Vashi / Palm Beach Road),2,669,2,2,31,47,1,4.7,0,0,0,0,1,137.28
+Worli / Lower Parel / Prabhadevi,1,427,1,0,27,32,3,8.5,0,0,1,1,1,220.84
+Navi Mumbai (Kharghar / Belapur / Nerul),3,1302,3,3,25,42,0,8.3,1,1,1,0,1,168.35
+Goregaon / Malad West,1,464,1,1,5,21,0,8.5,0,1,1,1,1,98.95
+Chembur / Wadala,1,469,1,0,6,22,0,7.4,1,1,0,1,1,113.43
+Chembur / Wadala,2,920,2,2,5,18,0,2.9,1,1,0,1,1,237.07
+Navi Mumbai (Kharghar / Belapur / Nerul),2,756,2,2,27,36,0,3.3,1,0,0,0,1,91.23
+Chembur / Wadala,3,1391,3,1,8,17,1,3.5,1,1,1,1,1,333.44
+Ghatkopar / Mulund West,2,919,2,2,9,12,0,8.8,0,1,1,1,1,186.16
+Bandra West / Khar / Santacruz West,2,862,2,2,15,30,3,3.4,1,1,1,1,1,488.76
+Borivali / Kandivali West,3,1464,3,2,36,43,25,1.2,0,0,1,1,1,243.93
+Juhu / Vile Parle West,2,701,2,2,41,47,10,7.1,0,1,1,1,0,323.1
+Thane West (Ghodbunder Road),1,397,1,1,7,10,0,3.5,0,1,1,1,1,50.72
+Borivali / Kandivali West,2,741,2,2,32,45,3,5.7,1,0,0,0,1,126.47
+Thane West (Ghodbunder Road),3,1436,3,3,8,19,10,8.3,1,1,1,0,1,159.03
+Worli / Lower Parel / Prabhadevi,2,682,2,2,15,20,0,5.3,0,1,1,1,1,327.58
+Bandra West / Khar / Santacruz West,2,899,2,1,37,45,10,5.8,1,0,0,1,1,462.42
+Thane West (Ghodbunder Road),1,449,1,1,19,33,3,5.9,0,1,0,0,1,51.05
+Bandra West / Khar / Santacruz West,1,456,1,1,39,41,15,5.6,1,0,1,0,1,199.57
+Bandra West / Khar / Santacruz West,2,771,2,2,6,22,10,1.7,1,0,0,1,1,415.91
+South Mumbai (Colaba / Marine Drive / Malabar Hill),2,659,2,2,19,36,6,4.3,1,0,1,1,1,428.92
+Mira Road / Bhayandar,1,401,1,0,28,38,6,0.4,0,1,1,0,0,38.37
+Thane West (Ghodbunder Road),4,2280,4,3,17,28,1,5.7,1,0,0,0,1,276.57
+Andheri East / Marol / Sakinaka,3,1294,3,3,19,32,0,5.3,1,0,0,1,1,240.27
+Powai / Hiranandani,2,879,2,2,31,33,3,3.1,1,1,0,1,1,243.48
+Andheri East / Marol / Sakinaka,3,1508,3,2,11,27,0,4.9,1,1,0,1,1,312.06
+Thane (Majiwada / Teen Hath Naka),1,446,1,0,15,28,0,4.6,1,0,1,1,1,65.48
+Chembur / Wadala,2,792,2,1,10,16,1,2.5,1,0,0,1,1,171.85
+Andheri West / Lokhandwala,2,866,2,1,23,31,10,2.9,1,0,1,1,0,239.78
+Andheri West / Lokhandwala,3,1466,3,3,3,12,0,6.9,1,0,1,1,0,411.16
+Bandra West / Khar / Santacruz West,3,1157,3,1,3,6,1,6.9,1,0,1,1,1,556.56
+Chembur / Wadala,1,392,1,1,18,23,3,4.4,1,1,1,1,1,96.46
+Thane West (Ghodbunder Road),4,2382,4,3,25,28,3,6.5,1,0,0,1,1,288.83
+Powai / Hiranandani,1,412,1,1,20,25,0,4.2,1,0,0,1,1,115.76
+South Mumbai (Colaba / Marine Drive / Malabar Hill),3,1130,3,2,29,45,25,7.7,1,0,0,1,1,688.43
+Bandra West / Khar / Santacruz West,4,1934,4,2,22,29,3,3.2,1,1,1,1,1,1047.4
+Kalyan / Dombivli / Beyond Thane,1,496,1,0,15,22,3,8.4,1,1,0,1,1,32.61
+Powai / Hiranandani,3,1394,3,3,39,52,0,5.0,1,1,0,1,1,405.91
+Thane West (Ghodbunder Road),1,483,1,0,10,24,3,5.0,1,0,0,1,1,56.66
+Chembur / Wadala,2,753,2,2,21,24,10,6.1,1,0,1,1,1,160.15
+Andheri East / Marol / Sakinaka,2,785,2,2,29,46,1,3.3,1,1,1,1,0,163.42
+Andheri West / Lokhandwala,2,690,2,1,32,44,1,6.6,0,1,0,0,1,198.15
+Juhu / Vile Parle West,4,2276,4,2,10,15,0,3.1,1,0,0,1,1,1045.59
+Ghatkopar / Mulund West,2,927,2,2,13,18,25,3.8,1,0,1,0,1,153.13
+Thane (Majiwada / Teen Hath Naka),2,804,2,2,23,38,0,6.2,1,1,1,1,1,132.09
+Chembur / Wadala,3,1148,3,2,23,25,10,3.6,1,1,0,0,0,253.8
+Borivali / Kandivali West,4,2350,4,2,31,47,1,2.0,1,1,0,1,1,448.55
+Worli / Lower Parel / Prabhadevi,1,491,1,1,4,19,3,7.9,0,0,0,1,1,217.61
+Kalyan / Dombivli / Beyond Thane,5,4068,5,4,3,6,6,8.3,1,0,1,1,1,243.87
+Thane (Majiwada / Teen Hath Naka),1,454,1,0,21,36,0,5.8,0,1,1,0,1,69.19
+Powai / Hiranandani,3,1226,3,2,2,6,3,7.4,1,0,1,1,1,297.94
+Kalyan / Dombivli / Beyond Thane,2,791,2,2,4,18,1,8.9,0,0,0,0,1,46.19
+Ghatkopar / Mulund West,1,416,1,1,1,17,0,5.6,0,0,1,1,0,78.85
+Ghatkopar / Mulund West,2,798,2,2,15,27,10,8.2,1,1,1,1,1,154.54
+Thane West (Ghodbunder Road),2,899,2,2,33,39,0,3.4,1,0,1,0,1,107.18
+Thane (Majiwada / Teen Hath Naka),2,847,2,1,6,18,6,6.4,1,0,1,0,1,119.61
+Chembur / Wadala,1,451,1,1,7,16,1,0.8,0,0,1,1,1,105.98
+Juhu / Vile Parle West,2,787,2,2,19,35,0,7.2,1,0,1,1,1,381.11
+Andheri East / Marol / Sakinaka,3,1457,3,2,1,8,6,7.5,1,0,0,1,1,235.24
+Mira Road / Bhayandar,2,789,2,2,39,43,3,3.8,1,0,1,1,1,80.11
+Andheri West / Lokhandwala,1,464,1,1,19,26,1,5.9,1,0,1,1,1,131.2
+Andheri East / Marol / Sakinaka,2,850,2,2,26,34,3,7.8,0,1,1,1,1,165.14
+Goregaon / Malad West,1,473,1,0,12,19,1,8.0,0,1,0,1,1,102.55
+Goregaon / Malad West,3,1102,2,1,22,33,10,1.2,1,1,1,0,1,267.16
+Ghatkopar / Mulund West,3,1236,3,3,13,20,1,7.5,1,0,1,1,1,257.4
+Mira Road / Bhayandar,2,922,2,2,28,30,1,2.7,1,0,1,1,1,88.89
+Powai / Hiranandani,2,838,2,1,14,18,6,6.6,0,1,0,1,1,205.66
+Juhu / Vile Parle West,3,1357,3,2,22,30,0,3.1,0,1,0,0,1,637.92
+Andheri West / Lokhandwala,2,827,2,2,30,35,1,0.8,1,1,1,1,1,253.63
+Navi Mumbai (Kharghar / Belapur / Nerul),3,1273,3,2,20,33,1,2.1,1,0,1,1,1,158.56
+Chembur / Wadala,2,715,2,2,27,32,10,3.9,0,1,1,0,1,160.41
+Powai / Hiranandani,3,1503,2,2,38,46,15,6.7,1,0,0,1,1,354.28
+Thane (Majiwada / Teen Hath Naka),2,670,2,2,41,51,6,1.2,1,0,0,1,1,112.2
+Navi Mumbai (Vashi / Palm Beach Road),2,696,2,2,34,49,3,7.4,1,1,1,0,1,149.43
+Navi Mumbai (Vashi / Palm Beach Road),4,1956,4,2,39,51,3,9.0,1,0,0,1,1,384.93
+Navi Mumbai (Kharghar / Belapur / Nerul),2,874,2,2,41,55,3,7.2,1,0,1,0,1,113.76
+Powai / Hiranandani,2,627,2,1,37,51,1,4.4,0,0,0,0,1,169.05
+Thane West (Ghodbunder Road),1,371,1,1,1,17,15,5.2,1,0,0,1,1,36.48
+Goregaon / Malad West,2,825,2,1,15,18,0,0.4,1,1,0,1,1,182.47
+Navi Mumbai (Vashi / Palm Beach Road),2,847,2,1,32,42,1,2.1,1,0,1,1,1,182.22
+Thane West (Ghodbunder Road),1,401,1,1,8,12,10,8.1,0,0,1,0,1,43.0
+Thane (Majiwada / Teen Hath Naka),1,384,1,1,33,40,6,0.5,1,1,1,1,1,70.03
+Chembur / Wadala,2,900,2,1,18,23,0,8.2,1,1,1,1,1,221.9
+Andheri West / Lokhandwala,3,1093,3,2,29,31,0,1.3,1,1,1,1,1,308.47
+Borivali / Kandivali West,2,755,2,2,32,42,3,1.5,0,0,1,0,1,132.03
+Kalyan / Dombivli / Beyond Thane,1,419,1,0,33,45,3,1.8,1,1,1,1,1,30.78
+Mira Road / Bhayandar,2,826,2,1,5,21,3,7.3,1,0,0,1,1,66.18
+Worli / Lower Parel / Prabhadevi,1,466,1,1,18,25,1,4.5,1,1,0,1,1,249.2
+Andheri West / Lokhandwala,2,760,2,2,10,27,25,1.6,1,1,1,0,1,175.41
+Juhu / Vile Parle West,1,395,1,1,36,45,1,6.3,0,0,1,1,1,186.98
+Thane West (Ghodbunder Road),1,397,1,0,33,49,3,8.5,1,0,1,0,1,42.98
+Thane (Majiwada / Teen Hath Naka),1,436,1,0,23,39,3,5.3,1,0,1,1,1,68.45
+Andheri West / Lokhandwala,2,834,2,2,40,43,0,1.2,1,0,1,1,1,267.42
+Borivali / Kandivali West,1,379,1,0,5,13,1,0.8,1,1,1,0,1,73.87
+Navi Mumbai (Vashi / Palm Beach Road),2,889,2,2,34,41,15,7.2,1,0,0,1,1,165.56
+Thane West (Ghodbunder Road),2,928,2,2,24,27,10,5.7,0,1,0,0,1,92.52
+Borivali / Kandivali West,2,774,2,2,17,34,0,8.3,1,1,1,1,0,144.5
+Ghatkopar / Mulund West,2,734,2,1,31,34,10,5.1,1,1,0,0,1,137.73
+Borivali / Kandivali West,3,1530,2,1,7,12,1,0.8,0,0,1,1,1,296.05
+Powai / Hiranandani,1,487,1,0,17,22,3,3.8,1,1,1,1,1,137.41
+Ghatkopar / Mulund West,2,851,2,2,28,45,0,6.0,1,1,1,0,1,182.18
+Thane West (Ghodbunder Road),1,361,1,1,38,42,10,3.6,0,1,0,0,1,38.79
+Navi Mumbai (Vashi / Palm Beach Road),1,386,1,0,22,31,0,9.0,0,1,1,1,1,78.58
+Chembur / Wadala,2,920,2,1,15,30,3,3.8,1,1,1,0,1,229.55
+Thane West (Ghodbunder Road),2,628,2,2,37,45,6,5.1,0,1,0,1,1,81.15
+Andheri West / Lokhandwala,3,1213,3,3,15,18,0,2.3,1,1,1,0,1,374.9
+Goregaon / Malad West,2,946,2,2,25,29,3,1.6,1,1,0,1,1,217.3
+South Mumbai (Colaba / Marine Drive / Malabar Hill),4,2188,4,3,21,32,0,5.9,1,1,0,1,1,1601.28
+Powai / Hiranandani,1,461,1,0,38,48,6,5.4,0,0,1,1,1,114.58
+Thane West (Ghodbunder Road),1,455,1,1,2,16,1,0.3,1,0,0,0,1,49.37
+Kalyan / Dombivli / Beyond Thane,1,507,1,1,27,33,3,2.8,1,0,0,1,1,34.82
+Bandra West / Khar / Santacruz West,1,465,1,0,32,35,15,5.9,0,0,0,0,1,207.61
+Goregaon / Malad West,2,863,2,2,21,25,1,7.4,1,1,1,0,1,188.44
+Thane (Majiwada / Teen Hath Naka),2,896,2,1,4,13,0,3.0,1,1,0,1,1,139.42
+Andheri West / Lokhandwala,1,342,1,1,19,24,6,5.9,1,0,1,1,1,95.47
+Borivali / Kandivali West,4,2546,4,2,2,17,6,2.6,1,0,0,1,1,413.23
+Thane West (Ghodbunder Road),3,1487,3,2,26,29,15,6.3,1,0,1,1,1,160.48
+Ghatkopar / Mulund West,2,742,2,2,34,37,0,6.4,1,0,1,1,1,159.92
+Andheri West / Lokhandwala,1,496,1,0,14,21,1,1.4,1,1,1,0,0,142.04
+Andheri East / Marol / Sakinaka,1,399,1,1,15,24,10,6.1,1,0,1,1,1,71.1
+Thane (Majiwada / Teen Hath Naka),1,464,1,1,20,28,10,3.2,1,0,1,0,1,76.91
+Borivali / Kandivali West,1,390,1,1,34,39,3,1.8,1,1,1,1,1,72.45
+South Mumbai (Colaba / Marine Drive / Malabar Hill),2,946,2,2,36,39,1,4.7,1,0,1,1,1,721.84
+Thane West (Ghodbunder Road),1,408,1,0,19,29,1,4.2,1,1,1,1,1,52.91
+Worli / Lower Parel / Prabhadevi,2,676,2,2,9,14,0,7.0,1,0,1,0,1,319.84
+Thane West (Ghodbunder Road),5,4122,5,4,7,17,15,1.0,0,1,1,1,1,481.95
+Andheri West / Lokhandwala,2,634,2,2,30,36,0,7.2,0,1,0,0,1,182.77
+Mira Road / Bhayandar,4,1878,4,3,13,28,3,1.2,1,0,0,1,1,179.95
+Andheri East / Marol / Sakinaka,1,401,1,1,27,40,3,2.1,1,1,1,0,1,81.4
+Andheri East / Marol / Sakinaka,2,656,2,2,35,51,1,4.8,1,0,1,0,1,117.56
+Juhu / Vile Parle West,2,645,2,2,13,26,1,4.3,1,0,0,0,1,293.53
+Powai / Hiranandani,1,347,1,1,15,27,6,8.9,0,1,1,1,1,87.71
+Navi Mumbai (Vashi / Palm Beach Road),1,343,1,0,9,21,1,5.4,1,1,1,1,1,69.6
+Kalyan / Dombivli / Beyond Thane,2,768,2,2,23,38,1,3.1,1,0,1,0,1,53.46
+Andheri East / Marol / Sakinaka,2,762,2,1,36,44,1,8.1,0,0,0,1,1,140.93
+Goregaon / Malad West,2,662,2,2,40,53,10,3.0,1,0,1,1,1,141.31
+Thane West (Ghodbunder Road),2,804,2,1,3,20,25,2.7,1,0,0,0,1,73.87
+Navi Mumbai (Kharghar / Belapur / Nerul),2,711,2,1,34,40,3,4.6,1,0,1,1,1,86.15
+Ghatkopar / Mulund West,1,407,1,1,19,35,6,8.2,1,1,0,1,1,77.43
+Goregaon / Malad West,2,653,2,2,28,31,3,6.5,1,0,1,1,1,139.35
+Goregaon / Malad West,1,491,1,1,23,30,3,6.2,0,0,1,1,1,106.43
+Thane West (Ghodbunder Road),1,369,1,1,40,57,25,6.6,1,0,1,0,1,34.91
+South Mumbai (Colaba / Marine Drive / Malabar Hill),4,1931,4,2,7,15,3,6.0,1,0,0,0,1,1324.44
+Ghatkopar / Mulund West,2,911,2,2,41,56,0,6.9,0,0,1,1,1,189.63
+Andheri East / Marol / Sakinaka,3,1101,3,3,12,28,15,2.0,1,0,1,0,0,178.35
+Thane (Majiwada / Teen Hath Naka),2,840,2,1,14,26,6,1.8,1,0,0,1,1,122.71
+Bandra West / Khar / Santacruz West,2,762,2,2,15,29,1,3.5,1,0,0,1,0,389.9
+Ghatkopar / Mulund West,1,446,1,1,3,10,25,7.7,1,0,1,1,1,68.84
+Borivali / Kandivali West,1,360,1,0,15,29,1,6.5,1,1,1,0,1,64.24
+Chembur / Wadala,1,381,1,1,24,39,1,5.2,0,1,1,0,1,90.9
+Worli / Lower Parel / Prabhadevi,3,1064,3,2,8,12,3,0.5,1,0,1,1,1,576.67
+Ghatkopar / Mulund West,2,712,2,2,5,16,1,2.4,1,1,0,1,1,141.05
+Ghatkopar / Mulund West,2,671,2,2,4,13,6,7.3,1,0,1,1,1,129.33
+Ghatkopar / Mulund West,2,800,2,2,14,18,0,2.4,0,1,0,0,1,157.18
+Ghatkopar / Mulund West,4,2519,4,2,16,31,0,6.7,1,1,1,1,1,537.9
+Chembur / Wadala,1,382,1,1,20,26,3,1.9,0,0,1,1,1,87.27
+Thane (Majiwada / Teen Hath Naka),2,879,2,2,24,34,3,5.6,1,0,1,1,1,129.98
+Powai / Hiranandani,2,874,2,1,6,18,0,5.8,0,0,0,1,1,188.8
+Thane (Majiwada / Teen Hath Naka),3,1385,3,1,31,37,25,6.8,0,1,1,1,1,185.2
+Borivali / Kandivali West,5,4278,5,4,6,22,3,4.1,0,1,0,1,1,767.77
+Bandra West / Khar / Santacruz West,1,488,1,0,35,43,0,5.8,1,0,0,1,0,257.22
+Worli / Lower Parel / Prabhadevi,3,1294,3,2,15,27,1,4.5,1,1,1,0,1,659.05
+Andheri East / Marol / Sakinaka,3,1261,3,1,29,44,10,8.5,1,0,1,1,1,231.13
+Thane (Majiwada / Teen Hath Naka),1,470,1,1,3,11,3,4.8,1,0,1,1,1,68.05
+Thane West (Ghodbunder Road),2,875,2,1,11,17,0,2.1,0,0,0,1,1,102.44
+Thane (Majiwada / Teen Hath Naka),2,682,2,1,3,20,0,6.1,1,1,1,1,1,97.62
+Borivali / Kandivali West,4,2501,4,2,28,31,3,5.1,1,1,0,1,1,462.57
+Goregaon / Malad West,1,444,1,1,10,16,1,7.3,1,1,1,1,1,96.18
+Juhu / Vile Parle West,3,1224,3,1,33,41,6,1.8,1,1,0,1,1,532.18
+Andheri East / Marol / Sakinaka,2,721,2,2,16,24,15,2.6,1,0,0,0,1,126.7
+Goregaon / Malad West,3,1208,3,1,10,15,1,8.3,1,0,1,1,1,255.37
+Bandra West / Khar / Santacruz West,2,784,2,1,33,35,10,8.4,0,1,0,0,1,359.6
+Andheri West / Lokhandwala,2,684,2,2,36,43,15,4.1,1,1,0,1,1,205.09
+Ghatkopar / Mulund West,3,1331,3,3,3,17,15,0.7,0,1,1,1,1,256.71
+Thane West (Ghodbunder Road),3,1079,3,2,5,21,15,3.0,1,0,0,1,1,115.92
+Kalyan / Dombivli / Beyond Thane,3,1369,3,1,12,27,10,2.4,0,1,0,1,1,80.55
+Mira Road / Bhayandar,1,413,1,1,13,17,3,3.9,1,0,1,0,1,36.56
+Chembur / Wadala,2,666,2,2,24,36,3,3.1,1,1,1,1,1,167.51
+Goregaon / Malad West,1,468,1,1,32,38,3,7.5,1,1,1,1,1,91.06
+Chembur / Wadala,2,766,2,1,16,21,10,0.3,1,1,0,1,1,162.51
+Thane (Majiwada / Teen Hath Naka),2,691,2,2,32,48,1,5.9,1,0,0,0,1,98.18
+Juhu / Vile Parle West,2,646,2,2,37,51,0,6.1,0,0,1,1,1,262.48
+Goregaon / Malad West,2,793,2,1,36,39,0,6.0,1,0,1,1,1,180.42
+Navi Mumbai (Vashi / Palm Beach Road),5,3384,5,4,21,34,10,4.8,1,1,1,1,1,668.64
+Andheri East / Marol / Sakinaka,1,446,1,1,12,28,6,5.6,1,1,1,0,1,87.36
+Ghatkopar / Mulund West,2,878,2,2,21,29,3,7.4,1,1,1,1,1,183.16
+Ghatkopar / Mulund West,2,671,2,2,21,36,1,7.1,1,0,1,1,1,131.53
+Andheri West / Lokhandwala,1,435,1,0,6,12,6,0.6,0,1,0,1,1,122.08
+Andheri East / Marol / Sakinaka,1,399,1,0,9,25,0,0.6,1,0,0,1,1,83.61
+Andheri East / Marol / Sakinaka,4,2667,4,2,1,16,3,7.6,0,1,1,0,1,468.21
+South Mumbai (Colaba / Marine Drive / Malabar Hill),3,1295,3,2,12,20,1,5.3,0,1,1,1,1,1024.33
+South Mumbai (Colaba / Marine Drive / Malabar Hill),3,1466,3,3,14,24,25,8.6,0,0,0,1,1,865.52
+Navi Mumbai (Vashi / Palm Beach Road),5,3802,5,3,6,11,3,4.1,1,1,1,0,1,749.31
+Powai / Hiranandani,1,467,1,1,1,7,3,1.8,1,0,0,1,1,112.11
+Borivali / Kandivali West,2,762,2,2,22,32,6,4.4,1,1,0,1,1,140.31
+Powai / Hiranandani,2,709,2,2,34,48,3,4.1,0,1,0,1,1,175.0
+Mira Road / Bhayandar,2,843,2,1,11,22,1,4.8,1,0,1,0,0,71.3
+Powai / Hiranandani,2,632,2,2,3,15,3,7.3,1,1,0,1,1,154.51
+Goregaon / Malad West,2,717,2,2,6,23,15,6.0,0,0,0,1,1,109.24
+Navi Mumbai (Vashi / Palm Beach Road),2,923,2,1,6,21,3,1.9,1,0,0,0,1,163.94
+Navi Mumbai (Vashi / Palm Beach Road),2,679,2,2,20,34,6,6.7,1,1,1,1,1,142.06
+Andheri West / Lokhandwala,1,488,1,0,21,26,25,5.4,1,0,0,0,1,98.3
+Thane (Majiwada / Teen Hath Naka),2,805,2,1,2,8,10,5.3,1,1,1,0,1,123.56
+Goregaon / Malad West,2,697,2,1,26,40,6,6.2,1,0,1,1,1,149.53
+Borivali / Kandivali West,2,900,2,2,31,37,6,5.2,0,0,1,0,1,167.06
+Juhu / Vile Parle West,1,455,1,0,26,35,15,4.3,0,0,0,1,1,201.21
+Bandra West / Khar / Santacruz West,3,1193,3,2,32,48,15,5.9,0,0,0,0,1,532.32
+Thane West (Ghodbunder Road),1,473,1,0,10,24,25,6.6,1,0,0,0,0,41.15
+Borivali / Kandivali West,2,862,2,2,23,39,3,2.3,1,0,1,1,0,150.66
+Goregaon / Malad West,3,1059,2,1,6,11,1,4.6,1,1,1,1,1,220.39
+Thane West (Ghodbunder Road),2,706,2,1,23,28,0,4.3,1,0,0,1,1,95.48
+Thane West (Ghodbunder Road),1,385,1,0,28,42,1,0.6,1,1,0,1,1,47.73
+Andheri West / Lokhandwala,2,645,2,1,30,38,15,7.6,1,0,0,1,1,160.48
+Ghatkopar / Mulund West,2,623,2,2,14,26,10,3.6,1,0,1,0,1,122.49
+Juhu / Vile Parle West,3,1116,2,2,37,43,3,0.9,1,0,0,1,1,515.42
+Thane West (Ghodbunder Road),3,1123,3,1,32,39,3,4.3,0,0,0,1,1,140.36
+Chembur / Wadala,2,766,2,1,34,41,1,1.7,1,0,1,0,1,178.61
+Mira Road / Bhayandar,2,639,2,2,41,54,3,6.4,1,1,1,1,1,63.29
+Bandra West / Khar / Santacruz West,1,382,1,0,22,39,6,5.3,1,1,1,0,1,193.18
+Worli / Lower Parel / Prabhadevi,1,482,1,0,31,38,3,2.6,1,0,0,1,1,233.9
+Powai / Hiranandani,2,925,2,2,7,22,0,8.6,1,0,0,1,1,236.64
+Powai / Hiranandani,2,879,2,2,41,52,3,2.8,1,0,0,1,1,235.1
+Powai / Hiranandani,2,720,2,2,21,27,1,5.1,1,0,1,0,1,186.43
+Navi Mumbai (Kharghar / Belapur / Nerul),2,919,2,1,16,30,25,7.3,1,1,0,1,1,99.54
+Powai / Hiranandani,1,436,1,0,20,34,1,4.8,0,0,0,1,1,106.5
+Powai / Hiranandani,2,775,2,2,19,25,15,8.7,1,1,1,1,0,190.67
+Thane West (Ghodbunder Road),2,709,2,2,32,42,1,7.6,1,1,0,0,1,89.78
+Goregaon / Malad West,3,1285,3,2,15,29,0,8.3,1,1,1,1,1,293.59
+Thane (Majiwada / Teen Hath Naka),1,431,1,0,5,14,3,3.5,1,0,1,1,0,66.32
+Worli / Lower Parel / Prabhadevi,2,705,2,2,11,27,6,5.1,0,0,1,1,1,330.23
+Borivali / Kandivali West,4,2652,4,2,15,20,3,7.6,1,1,1,1,1,454.24
+Worli / Lower Parel / Prabhadevi,1,447,1,1,29,37,1,8.2,1,0,0,1,1,228.21
+Worli / Lower Parel / Prabhadevi,2,710,2,2,4,13,0,8.5,1,1,1,1,1,346.33
+Navi Mumbai (Kharghar / Belapur / Nerul),1,425,1,0,36,49,3,7.9,0,0,0,1,1,50.58
+Juhu / Vile Parle West,2,720,2,2,23,33,0,6.7,1,0,1,1,1,330.24
+Borivali / Kandivali West,2,679,2,2,15,21,1,0.5,0,1,1,1,1,136.42
+Goregaon / Malad West,2,667,2,2,3,7,6,3.0,1,0,0,1,1,122.82
+Andheri East / Marol / Sakinaka,2,652,2,1,32,48,0,1.4,0,1,0,1,1,135.24
+Navi Mumbai (Kharghar / Belapur / Nerul),3,1525,3,2,10,24,0,1.6,0,0,1,1,1,198.32
+South Mumbai (Colaba / Marine Drive / Malabar Hill),1,420,1,1,40,45,0,2.8,0,0,0,1,1,296.49
+Chembur / Wadala,1,469,1,0,38,54,25,1.0,1,1,0,0,1,87.34
+Kalyan / Dombivli / Beyond Thane,3,1274,3,3,22,33,1,2.4,1,0,1,1,1,80.28
+Ghatkopar / Mulund West,2,926,2,2,14,21,15,8.6,1,1,1,1,1,179.21
+Mira Road / Bhayandar,3,1293,3,2,17,28,1,3.0,1,0,1,1,1,123.54
+Worli / Lower Parel / Prabhadevi,2,632,2,1,21,33,6,1.7,1,1,0,1,1,319.48
+Goregaon / Malad West,3,1123,3,2,15,21,1,6.5,0,1,1,1,1,238.97
+Powai / Hiranandani,2,947,2,1,15,25,3,7.5,1,0,1,1,1,230.53
+Thane West (Ghodbunder Road),3,1127,3,1,1,15,10,3.0,1,1,1,1,0,133.52
+Kalyan / Dombivli / Beyond Thane,3,1057,3,2,24,36,10,2.7,1,0,1,0,0,67.44
+Powai / Hiranandani,2,910,2,2,12,24,6,2.4,1,0,0,0,1,205.07
+Chembur / Wadala,1,354,1,0,10,25,10,3.7,0,0,0,1,0,74.13
+Andheri West / Lokhandwala,1,454,1,0,31,35,1,1.1,0,1,1,1,1,142.83
+Ghatkopar / Mulund West,1,391,1,1,11,14,3,6.1,0,0,1,1,0,73.95
+Goregaon / Malad West,1,408,1,0,16,23,3,7.5,0,0,1,1,1,88.12
+Kalyan / Dombivli / Beyond Thane,2,794,2,2,9,23,10,6.1,1,1,0,1,1,49.17
+Ghatkopar / Mulund West,2,791,2,1,14,22,1,4.0,1,0,0,1,1,159.72
+Andheri East / Marol / Sakinaka,2,903,2,2,19,25,15,2.8,1,1,1,1,0,173.64
+Juhu / Vile Parle West,2,686,2,1,31,33,3,3.9,1,0,1,0,1,288.55
+Andheri West / Lokhandwala,2,739,2,2,9,13,6,4.0,1,0,1,1,1,182.05
+Andheri West / Lokhandwala,1,387,1,1,36,40,1,6.1,0,0,0,1,0,101.98
+Powai / Hiranandani,1,360,1,1,39,52,3,8.4,1,0,1,1,1,88.61
+Navi Mumbai (Vashi / Palm Beach Road),1,498,1,1,26,41,6,0.9,1,1,1,1,1,108.92
+Ghatkopar / Mulund West,2,854,2,2,8,13,3,8.6,0,1,1,1,1,178.31
+Borivali / Kandivali West,1,340,1,0,24,39,15,8.2,1,1,1,1,1,58.79
+Juhu / Vile Parle West,2,704,2,2,8,19,6,1.3,1,1,0,1,0,335.32
+Navi Mumbai (Vashi / Palm Beach Road),2,666,2,1,19,26,3,1.9,1,0,1,1,0,143.61
+Thane West (Ghodbunder Road),3,1536,3,1,30,36,10,3.0,0,0,1,1,1,159.22
+Bandra West / Khar / Santacruz West,1,345,1,0,22,24,6,5.2,1,1,0,1,1,185.2
+Thane West (Ghodbunder Road),2,880,2,1,9,25,3,1.5,0,0,1,1,1,108.05
+Borivali / Kandivali West,2,851,2,2,4,11,1,2.0,1,0,0,1,1,164.58
+Bandra West / Khar / Santacruz West,3,1496,2,3,37,52,1,8.2,0,1,1,1,1,809.43
+Goregaon / Malad West,4,2237,4,2,8,23,6,1.3,1,1,0,1,1,474.97
+Borivali / Kandivali West,1,448,1,1,1,11,10,3.8,1,0,1,1,1,77.89
+Andheri West / Lokhandwala,1,386,1,1,28,40,1,6.9,1,0,0,1,0,108.89
+Mira Road / Bhayandar,3,1166,2,1,6,8,1,8.0,1,0,1,0,1,97.18
+Navi Mumbai (Vashi / Palm Beach Road),2,846,2,2,36,45,3,3.2,1,1,1,1,1,178.88
+Chembur / Wadala,2,880,2,2,11,28,0,1.7,1,0,0,0,1,201.08
+Goregaon / Malad West,2,779,2,1,5,14,6,6.7,1,0,0,1,1,150.85
+Goregaon / Malad West,2,843,2,2,24,28,6,7.0,1,1,1,0,1,177.91
+Chembur / Wadala,4,1719,4,3,18,35,1,8.8,1,1,0,1,1,426.19
+Borivali / Kandivali West,5,3631,5,4,20,36,10,1.5,1,1,1,0,0,659.67
+Worli / Lower Parel / Prabhadevi,3,1517,3,1,28,42,3,6.5,1,1,0,0,1,712.02
+Borivali / Kandivali West,2,712,2,2,13,23,3,3.9,0,1,1,1,1,149.84
+Thane (Majiwada / Teen Hath Naka),3,1477,3,2,5,17,1,8.3,0,0,1,1,1,217.94
+Goregaon / Malad West,1,389,1,1,30,44,3,3.8,1,0,1,1,1,84.99
+Worli / Lower Parel / Prabhadevi,1,427,1,0,1,15,10,4.2,0,0,0,1,1,189.77
+Thane (Majiwada / Teen Hath Naka),3,1063,3,1,22,34,1,1.4,1,1,1,0,1,176.36
+Andheri West / Lokhandwala,1,463,1,1,18,27,1,3.1,0,0,1,1,1,131.11
+Powai / Hiranandani,1,419,1,0,5,9,1,3.8,1,1,0,0,1,103.78
+Andheri West / Lokhandwala,1,417,1,0,31,42,0,0.5,1,0,1,1,1,138.25
+Andheri East / Marol / Sakinaka,3,1338,3,1,6,12,1,4.1,1,0,1,1,1,273.81
+Thane West (Ghodbunder Road),2,626,2,2,27,31,1,3.2,1,0,0,0,1,81.2
+Borivali / Kandivali West,2,643,2,2,25,31,15,7.3,1,0,1,1,1,118.74
+Andheri West / Lokhandwala,1,451,1,1,29,46,6,1.2,1,1,1,1,1,127.49
+Navi Mumbai (Kharghar / Belapur / Nerul),3,1264,3,2,28,38,1,6.9,1,1,1,1,1,175.46
+Navi Mumbai (Kharghar / Belapur / Nerul),3,1252,3,2,16,32,6,6.5,0,0,1,0,1,132.05
+Navi Mumbai (Vashi / Palm Beach Road),2,835,2,1,12,25,0,2.4,1,0,0,1,1,180.73
+Powai / Hiranandani,2,803,2,2,20,37,3,1.0,1,0,1,0,1,215.22
+Goregaon / Malad West,1,401,1,1,18,23,1,7.6,0,0,1,1,1,79.83
+Kalyan / Dombivli / Beyond Thane,4,2064,4,2,34,41,0,2.5,1,0,1,1,1,131.95
+Thane West (Ghodbunder Road),2,723,2,2,23,27,10,1.6,0,1,1,1,1,82.36
+South Mumbai (Colaba / Marine Drive / Malabar Hill),4,2516,4,2,27,31,0,3.4,1,1,1,1,1,1994.24
+Worli / Lower Parel / Prabhadevi,2,735,2,1,17,34,10,3.8,1,1,0,1,1,385.28
+Goregaon / Malad West,3,1405,3,3,21,27,3,3.1,1,0,0,1,1,300.07
+Navi Mumbai (Kharghar / Belapur / Nerul),3,1433,2,1,40,49,0,8.8,1,0,0,1,1,172.72
+Borivali / Kandivali West,2,789,2,2,31,46,6,8.0,1,0,1,1,1,147.9
+Borivali / Kandivali West,4,1820,4,3,3,12,3,7.9,1,0,1,1,1,331.64
+Bandra West / Khar / Santacruz West,2,768,2,1,17,21,1,3.8,1,1,0,1,1,421.83
+Chembur / Wadala,1,516,1,1,26,35,1,8.7,1,1,1,1,0,134.41
+Thane (Majiwada / Teen Hath Naka),2,802,2,1,23,37,0,6.3,1,0,0,1,1,130.43
+Andheri East / Marol / Sakinaka,3,1137,3,1,6,18,15,7.5,1,0,0,1,1,189.26
+Thane (Majiwada / Teen Hath Naka),2,738,2,2,28,42,3,4.7,0,1,0,0,1,104.56
+Kalyan / Dombivli / Beyond Thane,1,513,1,1,8,17,0,1.7,1,0,1,1,1,32.83
+Andheri West / Lokhandwala,2,870,2,2,8,12,10,8.0,0,1,1,0,1,227.79
+Borivali / Kandivali West,2,851,2,2,19,30,1,4.5,1,1,0,1,0,170.72
+Powai / Hiranandani,2,665,2,2,38,54,1,8.7,0,0,0,1,1,165.76
+Thane (Majiwada / Teen Hath Naka),2,704,2,2,29,43,1,2.5,1,1,1,1,1,128.04
+Ghatkopar / Mulund West,3,1052,3,2,23,39,3,8.9,1,0,0,1,1,211.98
+Chembur / Wadala,1,485,1,1,32,43,0,2.2,1,1,1,1,1,129.77
+Thane (Majiwada / Teen Hath Naka),2,794,2,1,10,13,3,3.5,1,0,1,1,1,129.21
+Goregaon / Malad West,1,414,1,1,27,38,10,5.5,1,0,0,0,1,81.66
+Navi Mumbai (Kharghar / Belapur / Nerul),1,398,1,1,1,4,0,6.3,1,0,1,1,1,50.93
+Borivali / Kandivali West,3,1352,3,2,39,49,1,6.6,1,1,1,1,1,270.8
+Andheri West / Lokhandwala,3,1162,3,3,29,37,1,4.4,1,1,1,1,1,367.25
+Thane West (Ghodbunder Road),2,716,2,2,3,20,3,1.0,1,0,1,1,0,89.62
+Thane (Majiwada / Teen Hath Naka),3,1065,3,1,37,44,15,4.6,1,1,1,1,1,156.7
+Andheri East / Marol / Sakinaka,3,1439,3,2,31,48,1,3.2,1,0,1,1,1,271.22
+Navi Mumbai (Vashi / Palm Beach Road),3,1361,3,2,11,28,0,6.0,0,0,1,1,1,273.8
+Navi Mumbai (Kharghar / Belapur / Nerul),1,434,1,1,22,30,1,1.9,1,1,0,1,1,60.04
+Powai / Hiranandani,4,1930,4,3,18,27,0,3.7,0,0,0,1,1,488.05
+Kalyan / Dombivli / Beyond Thane,2,628,2,2,35,48,6,8.7,1,0,1,1,1,40.28
+Juhu / Vile Parle West,2,819,2,2,6,8,0,1.1,1,0,1,1,1,415.04
+Andheri West / Lokhandwala,1,426,1,1,3,12,1,5.5,1,1,1,1,1,127.08
+Andheri West / Lokhandwala,2,695,2,2,5,9,3,1.1,1,1,0,1,1,215.2
+Navi Mumbai (Kharghar / Belapur / Nerul),1,480,1,0,9,26,1,1.7,0,1,0,1,1,56.82
+Chembur / Wadala,1,471,1,1,28,32,3,5.6,1,1,0,0,1,116.65
+Andheri West / Lokhandwala,2,667,2,2,19,26,0,4.2,1,1,1,1,0,212.19
+Goregaon / Malad West,3,1079,3,1,28,33,15,5.1,1,0,0,1,1,214.41
+Ghatkopar / Mulund West,3,1535,3,3,27,32,1,8.0,1,1,1,0,1,332.0
+Bandra West / Khar / Santacruz West,2,889,2,2,13,18,15,7.4,1,1,0,1,1,400.54
+Navi Mumbai (Kharghar / Belapur / Nerul),3,1177,2,2,38,49,1,8.0,1,1,0,1,1,150.65
+Thane (Majiwada / Teen Hath Naka),3,1266,3,2,21,31,6,5.7,1,1,1,1,1,199.52
+Borivali / Kandivali West,3,1062,3,2,27,36,1,4.6,1,1,0,0,1,217.58
+Kalyan / Dombivli / Beyond Thane,1,434,1,1,6,10,6,4.3,1,0,0,1,1,24.93
+Goregaon / Malad West,2,644,2,2,38,40,1,6.7,0,0,1,1,1,128.47
+Kalyan / Dombivli / Beyond Thane,4,1865,4,2,11,13,3,4.8,1,1,1,1,1,127.85
+Chembur / Wadala,2,869,2,2,41,43,6,1.2,1,1,1,1,1,241.63
+Chembur / Wadala,2,753,2,2,17,22,3,1.5,1,0,1,1,1,169.68
+Andheri West / Lokhandwala,2,745,2,2,39,54,3,3.4,1,1,1,1,1,249.12
+Navi Mumbai (Kharghar / Belapur / Nerul),2,760,2,1,7,14,0,0.9,0,1,0,0,1,100.39
+Goregaon / Malad West,2,845,2,1,30,35,1,2.4,0,0,0,0,1,169.61
+Andheri West / Lokhandwala,1,377,1,1,21,33,3,6.0,1,1,0,1,1,102.04
+South Mumbai (Colaba / Marine Drive / Malabar Hill),2,873,2,2,1,13,0,0.4,1,0,0,1,1,656.84
+Ghatkopar / Mulund West,3,1313,3,2,25,29,1,5.6,1,0,0,1,1,254.57
+Borivali / Kandivali West,3,1083,3,3,32,41,1,7.0,0,1,0,1,1,216.97
+Thane West (Ghodbunder Road),1,396,1,1,8,23,1,1.8,1,0,0,1,1,47.34
+Navi Mumbai (Kharghar / Belapur / Nerul),4,1721,4,2,5,14,3,1.9,0,0,1,1,1,213.78
+Bandra West / Khar / Santacruz West,2,659,2,1,30,37,3,0.6,1,1,1,1,1,404.42
+Thane West (Ghodbunder Road),2,798,2,2,8,18,15,4.8,1,0,1,1,1,84.33
+Andheri West / Lokhandwala,3,1400,3,2,19,32,1,6.0,0,1,1,0,1,394.07
+Navi Mumbai (Vashi / Palm Beach Road),3,1530,3,3,30,41,15,4.3,0,1,1,1,1,310.52
+Thane (Majiwada / Teen Hath Naka),4,1979,4,3,15,17,6,3.7,1,0,0,0,1,291.52
+Borivali / Kandivali West,2,882,2,2,36,50,15,4.3,0,0,0,0,1,138.01
+Thane West (Ghodbunder Road),3,1117,2,2,27,36,10,7.1,0,0,1,1,1,127.93
+Andheri East / Marol / Sakinaka,1,517,1,0,13,20,6,0.6,0,1,0,1,1,93.67
+Goregaon / Malad West,2,871,2,1,14,16,1,7.1,0,0,1,1,1,159.96
+Thane (Majiwada / Teen Hath Naka),3,1428,3,1,37,42,1,6.1,1,0,0,0,0,222.81
+Goregaon / Malad West,2,708,2,2,30,36,1,2.4,0,1,0,1,1,166.34
+Andheri East / Marol / Sakinaka,1,476,1,1,39,47,15,4.9,0,0,0,0,1,84.7
+Borivali / Kandivali West,3,1215,3,2,13,22,15,0.7,1,1,1,1,0,227.19
+Thane (Majiwada / Teen Hath Naka),1,407,1,1,16,26,6,3.6,1,1,0,1,1,68.22
+Andheri East / Marol / Sakinaka,1,404,1,0,7,20,10,1.8,1,1,1,0,1,78.74
+Andheri West / Lokhandwala,2,639,2,1,27,40,15,0.5,0,1,0,1,1,174.96
+Thane West (Ghodbunder Road),2,719,2,2,35,42,3,3.4,0,0,1,0,1,81.58
+Thane (Majiwada / Teen Hath Naka),3,1126,3,2,15,26,3,6.6,1,1,0,1,0,173.21
+Bandra West / Khar / Santacruz West,2,820,2,2,28,38,3,8.3,1,0,1,1,0,430.35
+Powai / Hiranandani,1,413,1,1,35,40,3,6.1,1,1,0,1,0,118.03
+Juhu / Vile Parle West,3,1305,3,3,7,16,0,3.8,1,0,1,0,0,622.4
+Andheri East / Marol / Sakinaka,2,791,2,2,20,24,3,9.0,1,0,0,0,1,140.19
+Goregaon / Malad West,1,456,1,1,32,37,6,2.8,1,1,0,0,1,103.9
+Thane West (Ghodbunder Road),3,1434,3,2,38,49,3,1.9,0,0,1,1,1,178.57
+Chembur / Wadala,2,751,2,2,40,45,10,4.3,1,0,1,1,1,168.86
+Ghatkopar / Mulund West,2,891,2,1,32,39,1,4.7,0,0,0,1,1,181.86
+Andheri East / Marol / Sakinaka,2,728,2,2,26,42,0,3.4,1,0,1,1,1,151.76
+Navi Mumbai (Vashi / Palm Beach Road),3,1446,3,1,39,49,10,6.4,0,0,1,0,0,262.42
+Goregaon / Malad West,3,1547,3,3,20,27,6,1.9,1,0,1,0,1,347.4
+Kalyan / Dombivli / Beyond Thane,2,740,2,2,18,20,1,4.7,1,1,0,1,1,49.47
+Chembur / Wadala,1,409,1,0,15,21,3,4.7,1,0,1,1,1,89.22
+Juhu / Vile Parle West,3,1546,3,1,22,32,3,7.5,1,1,1,0,1,730.02
+Chembur / Wadala,2,688,2,2,22,28,15,8.4,1,1,0,0,1,138.3
+Andheri East / Marol / Sakinaka,2,721,2,2,21,28,3,6.1,1,1,1,1,1,134.69
+Thane West (Ghodbunder Road),2,764,2,1,2,6,0,3.0,0,0,1,0,1,89.79
+Bandra West / Khar / Santacruz West,3,1530,3,1,40,49,3,6.3,1,0,0,1,1,652.37
+Andheri West / Lokhandwala,3,1503,2,3,18,29,10,2.5,0,1,0,1,1,411.84
+Navi Mumbai (Vashi / Palm Beach Road),1,449,1,0,23,35,6,8.7,1,1,1,1,1,82.05
+Andheri West / Lokhandwala,2,757,2,1,13,30,10,7.5,0,0,1,1,1,192.87
+Navi Mumbai (Vashi / Palm Beach Road),3,1100,2,2,41,55,1,4.1,1,1,0,1,1,248.49
+Powai / Hiranandani,1,381,1,1,9,14,10,7.1,1,1,1,1,1,97.81
+Chembur / Wadala,4,2437,4,3,7,12,6,3.9,1,0,0,0,0,534.56
+Thane West (Ghodbunder Road),2,867,2,1,41,53,6,0.9,0,0,0,1,1,98.6
+Borivali / Kandivali West,2,882,2,1,1,14,1,6.4,1,1,0,1,0,164.91
+Powai / Hiranandani,1,517,1,0,2,8,10,3.8,1,0,0,1,1,116.95
+Andheri West / Lokhandwala,1,493,1,0,4,19,3,8.4,1,0,1,1,0,130.63
+Worli / Lower Parel / Prabhadevi,4,2476,4,2,14,25,10,3.0,1,0,0,1,1,1156.95
+Powai / Hiranandani,2,639,2,2,32,48,1,7.6,1,1,0,1,1,169.43
+Chembur / Wadala,3,1355,2,3,36,46,0,6.2,1,1,0,0,1,302.38
+Mira Road / Bhayandar,2,629,2,2,2,16,1,7.7,0,1,1,1,1,58.78
+Navi Mumbai (Vashi / Palm Beach Road),1,497,1,0,40,49,3,2.8,1,0,1,1,1,108.48
+Thane West (Ghodbunder Road),1,361,1,1,14,22,3,4.3,0,0,1,1,1,40.8
+Thane (Majiwada / Teen Hath Naka),2,791,2,2,20,26,3,7.5,1,1,0,1,1,126.43
+Chembur / Wadala,4,2521,4,3,25,35,3,5.9,1,0,0,1,1,563.61
+Powai / Hiranandani,2,645,2,2,8,18,10,3.4,0,0,0,1,1,146.23
+Navi Mumbai (Kharghar / Belapur / Nerul),2,757,2,2,28,39,0,4.8,1,0,0,1,1,99.0
+Chembur / Wadala,2,861,2,2,21,32,1,9.0,1,0,0,1,1,198.62
+Ghatkopar / Mulund West,2,787,2,2,23,26,10,6.8,0,0,1,0,1,148.16
+Bandra West / Khar / Santacruz West,2,700,2,2,32,37,3,5.6,1,1,1,1,1,393.68
+Goregaon / Malad West,3,1401,3,2,8,17,3,7.5,1,0,0,1,1,276.56
+Goregaon / Malad West,2,706,2,2,31,48,3,4.1,1,0,0,1,1,153.73
+Navi Mumbai (Vashi / Palm Beach Road),2,672,2,2,37,51,3,8.6,1,1,0,1,1,133.48
+Borivali / Kandivali West,1,419,1,1,16,31,0,5.1,1,0,1,1,1,75.6
+Andheri East / Marol / Sakinaka,5,3486,5,4,40,42,3,3.1,1,1,0,1,1,728.6
+Kalyan / Dombivli / Beyond Thane,1,480,1,1,27,41,25,1.0,1,1,0,1,1,23.27
+Bandra West / Khar / Santacruz West,1,348,1,1,40,56,3,3.6,0,1,1,1,1,191.45
+Goregaon / Malad West,2,828,2,2,41,47,0,5.2,1,0,0,1,1,187.61
+Worli / Lower Parel / Prabhadevi,2,784,2,1,18,27,6,6.4,1,0,1,1,1,390.71
+Thane West (Ghodbunder Road),2,939,2,2,35,38,1,7.9,1,1,1,1,1,127.47
+Navi Mumbai (Kharghar / Belapur / Nerul),2,909,2,2,15,18,0,8.5,0,0,0,1,1,110.44
+Powai / Hiranandani,3,1200,2,3,27,41,10,1.2,0,0,1,1,1,334.6
+Navi Mumbai (Vashi / Palm Beach Road),1,480,1,0,17,34,0,5.5,0,0,1,1,1,89.43
+Powai / Hiranandani,3,1145,3,3,40,57,15,6.1,0,1,0,0,1,257.11
+Navi Mumbai (Kharghar / Belapur / Nerul),2,922,2,2,2,11,3,1.8,1,1,0,0,1,117.37
+Thane West (Ghodbunder Road),2,737,2,2,31,42,6,5.0,1,0,1,0,0,85.69
+Thane (Majiwada / Teen Hath Naka),2,862,2,2,37,54,3,3.2,1,0,0,1,1,147.88
+South Mumbai (Colaba / Marine Drive / Malabar Hill),1,467,1,0,41,54,1,1.0,1,0,1,1,1,397.13
+Kalyan / Dombivli / Beyond Thane,3,1326,3,3,41,51,6,0.9,1,0,0,1,1,80.67
+Thane West (Ghodbunder Road),2,730,2,1,34,42,15,6.9,1,0,0,1,1,79.89
+Powai / Hiranandani,2,735,2,1,34,43,6,5.7,1,1,1,1,1,202.09
+Thane (Majiwada / Teen Hath Naka),2,870,2,2,3,9,3,6.5,0,0,1,1,1,139.05
+Powai / Hiranandani,5,4173,5,4,17,19,25,6.3,1,1,1,1,1,904.57
+Navi Mumbai (Vashi / Palm Beach Road),2,781,2,2,14,19,1,1.5,1,1,1,1,1,175.69
+Bandra West / Khar / Santacruz West,4,2623,4,2,14,30,0,1.6,1,1,0,1,1,1481.39
+Thane West (Ghodbunder Road),2,718,2,1,38,41,0,2.5,1,0,1,1,1,90.32
+Borivali / Kandivali West,1,490,1,0,35,39,6,3.8,1,0,1,0,1,88.37
+Bandra West / Khar / Santacruz West,1,341,1,1,1,14,10,8.5,1,1,0,1,1,147.25
+Powai / Hiranandani,2,684,2,2,29,33,3,6.2,1,1,1,1,1,182.35
+South Mumbai (Colaba / Marine Drive / Malabar Hill),1,460,1,1,4,14,15,2.5,1,1,0,0,1,326.2
+Goregaon / Malad West,1,517,1,1,33,47,6,0.8,1,0,1,1,1,116.43
+Powai / Hiranandani,3,1152,3,1,17,33,1,6.3,0,0,0,0,1,280.73
+Ghatkopar / Mulund West,3,1460,3,2,28,39,0,5.7,1,0,0,1,1,302.21
+Powai / Hiranandani,3,1452,3,2,26,42,15,6.2,1,0,0,1,1,337.95
+Powai / Hiranandani,1,386,1,1,8,13,0,2.6,0,1,1,0,1,109.46
+Thane West (Ghodbunder Road),1,452,1,1,34,37,3,4.8,0,1,1,1,0,56.43
+Worli / Lower Parel / Prabhadevi,1,499,1,0,18,22,1,3.4,1,0,1,1,0,256.41
+Navi Mumbai (Kharghar / Belapur / Nerul),3,1254,3,2,31,35,1,7.4,0,1,1,1,1,173.7
+Navi Mumbai (Vashi / Palm Beach Road),4,2557,4,3,27,42,3,0.9,0,1,1,1,1,564.54
+Chembur / Wadala,2,674,2,2,16,24,1,2.7,0,1,0,0,1,150.07
+Ghatkopar / Mulund West,1,356,1,1,10,19,15,5.5,0,0,0,1,1,62.48
+Navi Mumbai (Kharghar / Belapur / Nerul),2,807,2,2,40,54,3,2.1,0,0,0,1,1,101.14
+Andheri West / Lokhandwala,2,927,2,1,12,29,6,6.2,1,1,1,0,1,253.33
+Bandra West / Khar / Santacruz West,2,716,2,2,22,34,6,1.5,1,0,1,1,1,372.68
+Powai / Hiranandani,2,802,2,2,16,30,6,0.5,1,1,0,0,1,201.05
+Thane (Majiwada / Teen Hath Naka),2,904,2,2,12,19,15,7.8,1,0,1,1,1,117.33
+Worli / Lower Parel / Prabhadevi,1,443,1,1,11,16,1,3.2,1,0,0,1,1,235.52
+Ghatkopar / Mulund West,1,445,1,1,20,27,0,1.7,0,1,0,1,1,91.34
+Kalyan / Dombivli / Beyond Thane,5,3532,5,4,1,15,0,1.8,0,0,0,0,1,187.78
+Navi Mumbai (Vashi / Palm Beach Road),1,441,1,1,27,39,10,8.0,1,0,1,1,1,92.77
+Borivali / Kandivali West,1,434,1,1,3,5,25,6.0,1,1,0,1,1,65.37
+Worli / Lower Parel / Prabhadevi,1,464,1,1,12,26,1,8.6,1,1,1,1,1,244.23
+Navi Mumbai (Vashi / Palm Beach Road),1,452,1,0,30,41,6,7.3,1,0,0,1,1,81.38
+Ghatkopar / Mulund West,2,781,2,1,9,18,0,7.0,1,1,0,1,1,165.9
+Juhu / Vile Parle West,3,1402,3,2,37,39,0,4.6,1,0,1,1,1,674.43
+Bandra West / Khar / Santacruz West,2,744,2,2,1,17,6,7.4,1,0,0,1,1,347.44
+Navi Mumbai (Kharghar / Belapur / Nerul),2,880,2,2,4,10,0,3.9,1,1,0,1,0,117.66
+Chembur / Wadala,2,743,2,2,15,18,3,7.5,1,1,1,1,1,177.56
+Thane (Majiwada / Teen Hath Naka),2,820,2,1,27,44,6,6.9,1,0,0,1,1,118.91
+Navi Mumbai (Kharghar / Belapur / Nerul),3,1511,3,2,8,24,6,6.2,1,1,1,0,1,169.59
+Ghatkopar / Mulund West,3,1237,3,2,23,30,3,3.2,1,0,1,1,0,261.47
+Borivali / Kandivali West,1,462,1,0,15,25,3,5.8,0,0,0,0,1,76.89
+Goregaon / Malad West,3,1114,2,2,27,33,3,4.7,1,0,1,1,1,280.37
+Andheri East / Marol / Sakinaka,2,643,2,1,31,36,0,4.3,1,0,1,0,1,113.28
+Goregaon / Malad West,5,4296,5,3,39,54,6,8.9,1,0,0,1,1,892.12
+Thane (Majiwada / Teen Hath Naka),2,639,2,1,8,11,0,4.7,1,0,0,0,1,89.96
+Ghatkopar / Mulund West,5,4753,5,3,30,43,0,0.6,0,0,0,1,1,987.21
+Navi Mumbai (Kharghar / Belapur / Nerul),3,1356,3,1,18,22,3,5.8,1,0,1,0,1,160.15
+Goregaon / Malad West,1,342,1,1,4,11,10,6.6,0,0,1,1,1,65.93
+Ghatkopar / Mulund West,2,737,2,1,22,31,0,8.0,1,0,1,1,1,157.63
+Chembur / Wadala,5,3951,5,4,3,18,0,5.8,1,1,1,1,1,1003.28
+Ghatkopar / Mulund West,3,1186,3,3,15,24,0,0.5,0,0,0,0,1,237.93
+Thane West (Ghodbunder Road),1,408,1,0,35,41,1,1.3,0,1,0,1,1,53.97
+Powai / Hiranandani,2,876,2,2,38,44,3,1.7,0,1,1,1,1,254.94
+Borivali / Kandivali West,2,666,2,2,33,44,0,2.1,1,1,1,1,1,141.01
+Bandra West / Khar / Santacruz West,1,519,1,1,14,29,10,7.3,1,0,0,0,1,251.64
+Andheri East / Marol / Sakinaka,2,745,2,1,1,15,6,3.0,0,1,0,1,0,137.0
+Borivali / Kandivali West,1,479,1,1,26,30,6,3.0,1,0,1,1,1,90.49
+Chembur / Wadala,3,1225,3,2,8,25,3,6.9,0,0,0,1,1,249.05
+Mira Road / Bhayandar,2,762,2,2,16,32,1,3.9,0,1,1,1,1,75.68
+Ghatkopar / Mulund West,3,1447,3,2,38,46,1,0.9,0,0,0,1,0,309.68
+Thane West (Ghodbunder Road),1,452,1,0,10,26,3,5.4,0,0,0,1,1,50.82
+Borivali / Kandivali West,2,686,2,2,37,51,0,1.4,1,0,0,0,1,135.89
+Chembur / Wadala,1,358,1,0,26,33,6,5.3,1,1,1,0,1,85.51
+Bandra West / Khar / Santacruz West,1,408,1,1,28,44,1,7.1,1,1,1,1,1,213.82
+Powai / Hiranandani,1,500,1,0,12,14,1,8.4,1,0,1,1,0,119.16
+Andheri East / Marol / Sakinaka,1,438,1,1,20,25,1,0.9,1,1,0,1,1,93.51
+Borivali / Kandivali West,2,731,2,2,14,21,0,2.9,1,1,0,1,1,137.31
+Worli / Lower Parel / Prabhadevi,2,910,2,2,35,52,15,6.0,0,1,0,1,1,410.87
+Juhu / Vile Parle West,2,787,2,2,29,41,0,3.0,0,0,0,1,1,347.13
+Powai / Hiranandani,2,809,2,2,12,19,10,4.2,1,1,0,0,1,196.17
+Kalyan / Dombivli / Beyond Thane,3,1245,3,2,18,30,3,0.5,1,0,1,1,1,79.99
+Andheri East / Marol / Sakinaka,3,1231,3,2,2,17,10,6.3,0,0,0,1,0,204.77
+Borivali / Kandivali West,2,630,2,2,2,18,3,8.0,0,0,1,1,1,103.1
+Andheri West / Lokhandwala,2,838,2,2,17,30,15,8.8,0,1,1,0,1,209.1
+Ghatkopar / Mulund West,1,445,1,0,10,23,1,7.5,1,0,1,1,1,82.12
+Powai / Hiranandani,4,1783,4,3,18,22,3,0.6,0,1,1,1,0,465.6
+Andheri West / Lokhandwala,1,490,1,1,22,29,0,6.0,1,1,0,0,1,145.59
+Borivali / Kandivali West,2,726,2,1,19,32,3,4.6,0,1,1,1,1,149.02
+South Mumbai (Colaba / Marine Drive / Malabar Hill),2,895,2,1,1,12,3,8.5,0,1,1,1,1,676.07
+South Mumbai (Colaba / Marine Drive / Malabar Hill),2,774,2,2,24,31,3,8.1,0,0,0,1,1,563.66
+Andheri West / Lokhandwala,1,453,1,1,36,49,1,8.9,1,0,0,0,1,134.19
+Worli / Lower Parel / Prabhadevi,3,1084,3,1,25,35,0,7.8,0,0,0,1,0,553.68
+Bandra West / Khar / Santacruz West,1,485,1,1,36,46,6,5.1,1,1,1,0,1,235.69
+Andheri East / Marol / Sakinaka,2,744,2,2,31,34,3,6.5,1,0,1,0,1,146.47
+Thane (Majiwada / Teen Hath Naka),1,360,1,1,31,36,0,8.7,0,1,0,1,1,61.24
+Ghatkopar / Mulund West,1,430,1,0,2,12,15,5.3,1,0,0,1,1,66.73
+Borivali / Kandivali West,3,1173,3,3,19,35,15,7.6,1,1,1,0,1,191.23
+Powai / Hiranandani,1,496,1,1,12,27,10,8.5,0,0,0,1,1,119.52
+Mira Road / Bhayandar,3,1164,3,2,10,24,10,5.3,0,0,1,1,0,95.74
+Goregaon / Malad West,2,646,2,2,31,36,0,1.7,0,1,1,1,1,141.02
+Bandra West / Khar / Santacruz West,1,455,1,1,22,31,25,1.7,1,0,1,1,1,211.22
+Ghatkopar / Mulund West,4,1714,4,2,23,34,3,1.3,0,0,1,0,1,328.83
+Juhu / Vile Parle West,1,342,1,0,23,36,0,4.4,1,0,0,0,1,153.24
+Andheri East / Marol / Sakinaka,3,1169,3,1,15,19,10,4.5,0,0,1,1,1,216.49
+Borivali / Kandivali West,1,350,1,1,26,30,1,5.7,1,0,1,1,1,68.21
+Navi Mumbai (Vashi / Palm Beach Road),3,1374,2,2,3,13,3,4.5,0,0,1,0,1,255.55
+Borivali / Kandivali West,1,493,1,1,23,40,0,8.8,1,0,1,0,1,92.49
+Thane West (Ghodbunder Road),2,635,2,2,20,32,3,2.8,0,0,1,1,0,75.2
+Kalyan / Dombivli / Beyond Thane,3,1406,3,3,40,51,3,7.9,1,0,1,1,1,94.99
+Juhu / Vile Parle West,4,2259,4,3,39,48,3,1.2,1,0,1,1,1,1052.83
+Powai / Hiranandani,3,1322,2,1,8,10,0,5.5,1,1,0,1,1,342.64
+Goregaon / Malad West,3,1398,3,3,18,29,3,5.9,0,1,0,1,1,285.41
+Goregaon / Malad West,3,1367,2,3,41,56,3,7.0,1,0,0,0,1,282.46
+Goregaon / Malad West,1,375,1,1,6,9,1,4.7,1,0,0,0,1,72.05
+Navi Mumbai (Kharghar / Belapur / Nerul),2,623,2,2,27,31,15,2.0,1,1,1,1,1,82.87
+Thane West (Ghodbunder Road),2,661,2,2,36,51,3,3.5,0,0,0,1,1,75.33
+Ghatkopar / Mulund West,2,733,2,2,15,27,10,2.7,1,1,1,1,1,156.95
+Powai / Hiranandani,2,793,2,2,37,40,0,3.9,1,0,1,1,1,225.9
+Thane (Majiwada / Teen Hath Naka),2,896,2,2,5,9,1,4.9,1,0,0,1,1,142.09
+Mira Road / Bhayandar,1,408,1,1,39,48,0,5.7,0,0,0,0,1,36.1
+Thane (Majiwada / Teen Hath Naka),2,849,2,2,9,21,3,7.7,1,1,1,1,1,124.85
+South Mumbai (Colaba / Marine Drive / Malabar Hill),1,500,1,0,7,19,0,8.2,0,0,1,1,1,348.81
+Chembur / Wadala,2,778,2,1,41,54,3,4.3,0,1,1,1,1,220.08
+Worli / Lower Parel / Prabhadevi,2,691,2,1,20,35,1,1.1,1,0,0,1,1,372.25
+Powai / Hiranandani,3,1239,2,2,10,27,1,7.2,1,1,1,0,1,326.64
+Worli / Lower Parel / Prabhadevi,3,1445,3,2,26,33,3,4.5,0,0,0,0,1,617.03
+Ghatkopar / Mulund West,2,687,2,1,4,20,15,5.1,0,0,1,1,0,115.59
+Thane West (Ghodbunder Road),1,377,1,1,38,53,1,5.5,0,0,1,0,1,42.79
+Juhu / Vile Parle West,2,620,2,2,24,32,6,6.1,1,0,1,1,1,269.37
+Andheri East / Marol / Sakinaka,1,519,1,1,14,25,6,8.0,1,0,1,1,1,98.45
+Goregaon / Malad West,2,854,2,2,41,57,3,8.6,1,0,1,1,1,181.54
+Andheri East / Marol / Sakinaka,2,627,2,2,1,17,10,8.5,1,1,0,1,1,106.85
+Juhu / Vile Parle West,1,366,1,0,17,31,25,7.3,1,1,1,1,0,132.56
+Goregaon / Malad West,1,430,1,1,24,35,1,8.0,1,0,0,1,1,86.27
+Thane West (Ghodbunder Road),4,2533,4,2,27,34,6,0.7,1,0,1,1,1,306.88
+Bandra West / Khar / Santacruz West,4,2293,4,2,7,9,6,7.7,1,0,0,1,1,1094.0
+Bandra West / Khar / Santacruz West,2,838,2,1,9,21,3,0.9,1,0,0,0,1,421.57
+Andheri East / Marol / Sakinaka,1,409,1,1,35,39,1,6.8,1,0,1,1,0,78.5
+Mira Road / Bhayandar,1,389,1,0,12,26,15,1.8,0,0,0,0,1,27.29
+Chembur / Wadala,2,826,2,2,21,23,6,3.4,1,0,1,1,1,181.39
+Chembur / Wadala,4,1811,4,2,3,16,0,1.9,1,0,0,1,1,415.84
+Andheri East / Marol / Sakinaka,1,382,1,1,15,31,0,4.2,1,0,1,1,1,82.01
+Ghatkopar / Mulund West,3,1177,3,2,21,38,15,3.9,1,0,1,1,1,239.36
+South Mumbai (Colaba / Marine Drive / Malabar Hill),1,435,1,0,10,21,0,0.7,1,0,1,1,1,383.13
+Chembur / Wadala,5,4093,5,4,33,46,6,7.5,1,1,1,1,1,988.81
+Navi Mumbai (Kharghar / Belapur / Nerul),2,689,2,2,6,16,1,7.7,1,0,0,0,1,80.02
+Ghatkopar / Mulund West,3,1181,3,3,2,16,0,7.2,0,1,0,0,1,230.5
+Navi Mumbai (Vashi / Palm Beach Road),2,756,2,2,29,39,0,7.7,1,1,1,1,1,163.52
+Thane West (Ghodbunder Road),2,837,2,1,40,46,1,6.8,1,0,0,1,1,105.49
+Juhu / Vile Parle West,1,439,1,1,33,38,0,8.5,0,0,0,1,1,195.58
+Navi Mumbai (Kharghar / Belapur / Nerul),1,396,1,1,4,17,3,5.3,1,1,0,1,1,49.79
+Bandra West / Khar / Santacruz West,4,1843,4,2,4,21,3,5.4,0,1,0,0,1,854.1
+Borivali / Kandivali West,3,1417,3,2,29,39,1,7.8,1,0,1,1,1,285.34
+Juhu / Vile Parle West,3,1104,3,1,37,47,6,3.3,1,0,1,1,1,493.8
+South Mumbai (Colaba / Marine Drive / Malabar Hill),2,948,2,2,20,36,3,0.7,1,1,1,1,0,764.28
+Goregaon / Malad West,3,1413,3,3,41,45,3,6.8,0,0,0,1,1,282.73
+Powai / Hiranandani,1,381,1,1,23,29,3,2.5,1,1,1,1,1,101.6
+Borivali / Kandivali West,2,830,2,2,18,22,3,4.4,1,0,1,1,1,162.85
+Ghatkopar / Mulund West,2,771,2,1,25,36,25,2.4,1,0,1,1,0,133.86
+Worli / Lower Parel / Prabhadevi,2,679,2,2,1,4,6,7.5,1,0,1,1,1,305.14
+Juhu / Vile Parle West,2,685,2,2,15,17,1,8.6,0,0,1,1,1,297.15
+Ghatkopar / Mulund West,1,499,1,1,34,47,6,0.8,1,1,0,1,1,110.24
+Andheri East / Marol / Sakinaka,2,795,2,2,20,31,1,2.3,0,0,1,0,1,149.38
+Thane West (Ghodbunder Road),3,1091,2,3,37,40,0,1.9,1,1,0,0,1,132.04
+Chembur / Wadala,2,627,2,2,27,36,3,6.2,0,0,0,0,1,131.49
+Navi Mumbai (Vashi / Palm Beach Road),1,479,1,1,22,34,6,4.0,1,0,0,0,1,94.45
+Thane West (Ghodbunder Road),1,449,1,1,5,14,1,4.3,0,1,1,1,1,54.58
+Goregaon / Malad West,1,439,1,0,34,38,10,1.7,1,0,0,1,1,85.54
+Chembur / Wadala,2,734,2,2,39,47,1,3.9,0,1,0,1,1,188.44
+Powai / Hiranandani,2,786,2,2,3,20,1,2.9,0,0,1,0,1,195.83
+Powai / Hiranandani,2,690,2,2,17,25,25,5.6,1,0,0,0,1,132.5
+Thane (Majiwada / Teen Hath Naka),2,819,2,2,24,27,3,2.2,0,0,0,1,1,126.93
+Goregaon / Malad West,2,757,2,2,24,34,10,5.6,1,0,1,0,1,145.09
+Thane (Majiwada / Teen Hath Naka),3,1262,3,3,3,7,10,3.6,0,1,1,1,1,180.3
+Thane (Majiwada / Teen Hath Naka),1,426,1,0,7,10,15,3.3,1,0,0,1,1,61.56
+Navi Mumbai (Vashi / Palm Beach Road),2,867,2,2,25,38,0,3.0,1,0,0,1,1,197.04
+Navi Mumbai (Kharghar / Belapur / Nerul),3,1298,3,2,3,7,1,6.2,0,1,1,1,1,169.16
+Goregaon / Malad West,1,343,1,1,15,18,6,5.2,1,1,0,1,1,72.77
+Andheri East / Marol / Sakinaka,1,515,1,0,29,45,3,7.7,1,0,1,1,1,98.61
+Ghatkopar / Mulund West,3,1308,3,2,29,38,3,2.4,0,0,0,0,1,216.61
+Andheri East / Marol / Sakinaka,2,700,2,2,10,16,0,0.6,1,0,1,1,1,155.56
+Ghatkopar / Mulund West,2,745,2,1,32,36,1,1.9,1,1,1,1,1,162.51
+Thane West (Ghodbunder Road),1,439,1,0,23,29,3,3.3,1,0,0,1,1,55.46
+Thane West (Ghodbunder Road),2,849,2,1,39,51,1,1.9,0,1,0,0,1,107.96
+Andheri East / Marol / Sakinaka,2,929,2,2,9,21,1,1.0,0,0,1,0,1,183.9
+Andheri West / Lokhandwala,1,452,1,0,37,46,0,4.2,0,1,1,0,0,125.13
+Goregaon / Malad West,2,754,2,2,40,48,0,6.2,0,0,0,1,1,164.95
+Juhu / Vile Parle West,1,352,1,1,14,21,6,6.8,1,1,0,1,1,154.82
+Navi Mumbai (Kharghar / Belapur / Nerul),2,635,2,1,4,19,6,3.8,1,0,0,1,1,75.34
+Andheri East / Marol / Sakinaka,1,473,1,1,20,34,0,4.5,1,0,1,1,1,94.98
+Andheri West / Lokhandwala,1,472,1,0,28,30,1,6.9,1,0,0,1,1,130.53
+South Mumbai (Colaba / Marine Drive / Malabar Hill),2,651,2,2,14,25,3,3.4,1,1,0,1,1,494.4
+Chembur / Wadala,1,497,1,0,34,36,1,7.1,0,0,1,1,1,114.71
+Chembur / Wadala,3,1365,3,3,13,15,10,8.7,0,1,0,0,1,262.62
+Andheri East / Marol / Sakinaka,1,397,1,0,31,46,6,8.0,1,1,1,1,1,72.44
+Bandra West / Khar / Santacruz West,2,829,2,2,33,44,10,4.2,0,0,0,0,1,405.39
+Goregaon / Malad West,1,510,1,1,39,54,3,5.3,0,0,1,1,1,108.33
+Powai / Hiranandani,2,673,2,1,28,37,1,6.5,0,1,1,1,1,163.22
+Chembur / Wadala,4,2640,4,3,25,34,3,3.3,1,0,1,1,1,643.46
+Ghatkopar / Mulund West,1,376,1,1,32,47,0,7.3,1,0,1,0,1,75.83
+Andheri East / Marol / Sakinaka,4,2463,4,3,9,17,0,4.1,1,0,1,1,1,455.34
+Andheri West / Lokhandwala,1,387,1,1,28,35,0,7.7,1,0,0,1,1,108.28
+Kalyan / Dombivli / Beyond Thane,3,1055,2,2,31,36,3,2.5,1,0,1,1,1,71.57
+Goregaon / Malad West,2,898,2,2,17,19,1,0.4,0,0,0,1,1,184.63
+Thane West (Ghodbunder Road),3,1062,2,3,23,39,0,5.8,1,0,0,1,1,121.5
+Juhu / Vile Parle West,2,773,2,1,13,29,3,4.2,1,0,0,1,1,341.17
+Borivali / Kandivali West,2,633,2,2,10,20,25,0.8,1,1,1,0,0,97.45
+South Mumbai (Colaba / Marine Drive / Malabar Hill),1,375,1,1,16,32,0,4.5,1,0,1,0,1,266.06
+Borivali / Kandivali West,1,489,1,1,6,8,3,1.8,1,0,1,1,1,86.04
+Kalyan / Dombivli / Beyond Thane,3,1169,3,2,11,16,0,5.8,1,0,0,1,0,74.16
+Andheri East / Marol / Sakinaka,2,650,2,2,3,7,15,4.2,0,1,1,1,1,107.67
+Worli / Lower Parel / Prabhadevi,2,700,2,2,28,36,1,1.8,1,1,0,1,1,401.79
+Worli / Lower Parel / Prabhadevi,3,1547,3,1,41,47,10,3.9,0,0,0,1,0,799.56
+Goregaon / Malad West,2,751,2,2,15,21,1,2.3,1,1,1,1,1,172.16
+Andheri West / Lokhandwala,4,1831,4,2,13,18,10,6.0,1,0,0,1,1,518.23
+South Mumbai (Colaba / Marine Drive / Malabar Hill),3,1058,3,3,17,19,1,2.9,1,1,1,1,1,879.23
+Thane West (Ghodbunder Road),2,944,2,2,7,13,1,7.5,0,1,0,0,1,107.25
+Goregaon / Malad West,3,1072,3,3,28,33,0,0.4,0,0,1,1,1,244.88
+Powai / Hiranandani,1,387,1,1,38,53,1,3.8,1,0,1,1,1,95.77
+Navi Mumbai (Kharghar / Belapur / Nerul),1,446,1,1,13,24,10,5.7,1,1,1,1,0,53.25
+Juhu / Vile Parle West,2,827,2,2,17,31,3,0.5,1,1,0,0,1,375.01
+Mira Road / Bhayandar,1,404,1,0,15,24,3,2.2,0,0,0,1,1,37.47
+Andheri East / Marol / Sakinaka,3,1350,3,2,36,39,25,3.1,1,1,1,1,1,252.3
+Navi Mumbai (Kharghar / Belapur / Nerul),3,1525,3,3,28,37,3,0.5,1,0,1,1,1,210.9
+Ghatkopar / Mulund West,2,782,2,1,15,17,25,5.1,1,1,1,1,1,135.82
+Thane (Majiwada / Teen Hath Naka),2,857,2,1,11,25,0,5.8,1,0,0,1,1,139.45
+Kalyan / Dombivli / Beyond Thane,4,1715,4,2,31,36,15,2.3,0,1,1,1,1,104.54
+Powai / Hiranandani,2,915,2,2,4,8,0,5.0,1,0,0,1,1,248.17
+Mira Road / Bhayandar,2,895,2,1,35,41,3,9.0,1,1,1,1,1,99.03
+Goregaon / Malad West,2,688,2,1,34,48,3,8.0,1,1,0,1,1,163.12
+Andheri East / Marol / Sakinaka,3,1269,3,2,27,33,3,0.8,1,1,1,1,1,267.02
+Andheri East / Marol / Sakinaka,2,914,2,1,10,16,3,1.4,1,0,0,1,1,179.19
+Borivali / Kandivali West,3,1156,3,2,30,47,1,4.6,0,0,0,0,1,199.74
+Andheri West / Lokhandwala,3,1534,2,3,20,33,25,2.4,1,1,1,0,1,367.55
+Borivali / Kandivali West,2,631,2,2,29,34,25,1.0,1,1,0,0,1,111.38
+Borivali / Kandivali West,2,913,2,1,29,38,25,2.5,1,0,0,1,0,134.81
+Thane West (Ghodbunder Road),3,1127,3,2,23,27,25,0.8,0,0,1,1,1,113.15
+Navi Mumbai (Vashi / Palm Beach Road),2,919,2,2,21,34,6,4.9,1,0,1,1,1,197.9
+Goregaon / Malad West,3,1126,2,2,10,15,25,4.6,0,0,0,1,1,178.35
+Powai / Hiranandani,4,2420,4,2,41,43,10,0.4,1,1,0,0,1,568.42
+Powai / Hiranandani,2,703,2,2,12,20,3,4.5,0,1,0,0,1,160.44
+Andheri West / Lokhandwala,3,1353,3,2,30,32,6,4.8,0,1,0,1,1,375.16
+Worli / Lower Parel / Prabhadevi,3,1165,3,2,33,49,15,5.6,1,0,1,1,1,537.18
+Andheri East / Marol / Sakinaka,3,1408,3,2,18,21,6,8.7,1,1,1,0,1,260.01
+Powai / Hiranandani,2,837,2,2,14,26,3,8.8,0,1,1,0,1,201.45
+Kalyan / Dombivli / Beyond Thane,1,383,1,0,22,30,0,4.9,0,1,1,1,1,26.07
+Ghatkopar / Mulund West,2,932,2,2,21,23,10,7.7,0,0,1,1,1,167.29
+Andheri East / Marol / Sakinaka,2,677,2,2,1,13,15,1.0,0,1,1,1,1,117.45
+Ghatkopar / Mulund West,2,776,2,2,15,19,1,4.9,1,1,0,1,1,167.66
+Juhu / Vile Parle West,3,1481,2,2,36,50,0,6.2,1,0,0,1,1,694.7
+Goregaon / Malad West,2,697,2,2,22,29,1,5.2,0,1,0,1,1,156.39
+Chembur / Wadala,2,923,2,2,32,39,3,2.3,0,1,1,0,1,238.43
+Borivali / Kandivali West,1,503,1,0,33,40,1,0.8,1,0,0,1,1,90.34
+Goregaon / Malad West,3,1424,3,1,41,53,3,3.7,1,0,1,1,1,327.16
+Kalyan / Dombivli / Beyond Thane,2,807,2,1,39,53,25,5.9,1,0,1,1,1,43.08
+Navi Mumbai (Kharghar / Belapur / Nerul),1,458,1,0,23,26,6,8.9,1,1,0,1,1,61.16
+Chembur / Wadala,2,725,2,2,2,5,1,2.4,1,0,1,0,1,158.14
+Ghatkopar / Mulund West,3,1068,2,3,2,9,15,8.3,1,0,0,1,1,179.43
+Ghatkopar / Mulund West,2,765,2,2,38,49,3,0.9,1,1,1,1,1,165.23
+Andheri West / Lokhandwala,1,465,1,1,29,35,0,8.4,0,0,1,1,1,139.56
+Goregaon / Malad West,4,1792,4,2,3,18,3,7.5,0,0,1,1,1,358.52
+Worli / Lower Parel / Prabhadevi,2,713,2,2,39,47,6,0.5,0,0,0,1,1,378.14
+Borivali / Kandivali West,4,2133,4,2,7,15,10,2.9,0,0,1,1,0,354.15
+Borivali / Kandivali West,2,933,2,2,36,42,15,0.7,1,0,0,1,1,160.6
+Andheri West / Lokhandwala,2,627,2,2,29,38,1,9.0,0,0,0,0,1,172.0
+Kalyan / Dombivli / Beyond Thane,3,1317,3,2,37,48,0,4.0,1,0,0,1,1,85.97
+Navi Mumbai (Kharghar / Belapur / Nerul),2,855,2,1,36,43,0,6.1,0,1,1,1,1,116.8
+Thane West (Ghodbunder Road),2,787,2,2,23,39,6,2.3,1,0,1,1,0,98.13
+Borivali / Kandivali West,1,354,1,1,16,22,6,8.4,0,1,0,0,1,60.54
+Navi Mumbai (Vashi / Palm Beach Road),2,630,2,1,31,36,3,2.7,1,1,0,0,1,127.44
+Juhu / Vile Parle West,1,404,1,0,34,42,1,2.6,1,0,0,0,1,188.88
+Thane (Majiwada / Teen Hath Naka),1,355,1,0,1,6,15,3.0,1,0,1,1,0,48.47
+Juhu / Vile Parle West,1,445,1,1,18,24,15,4.3,1,1,1,1,1,198.62
+Thane (Majiwada / Teen Hath Naka),1,369,1,0,40,46,1,0.5,1,0,1,0,1,67.88
+Powai / Hiranandani,4,1885,4,3,15,17,6,5.5,1,1,0,0,1,487.73
+Navi Mumbai (Vashi / Palm Beach Road),1,424,1,1,17,33,3,0.6,0,0,1,1,0,85.85
+Mira Road / Bhayandar,2,942,2,1,10,12,0,5.0,1,1,0,1,1,93.55
+Juhu / Vile Parle West,3,1262,3,2,20,24,1,4.3,1,0,0,1,1,574.74
+Goregaon / Malad West,2,679,2,1,6,22,0,2.4,1,0,1,0,1,145.39
+Kalyan / Dombivli / Beyond Thane,1,407,1,0,8,23,1,3.2,1,0,1,1,1,25.2
+Borivali / Kandivali West,3,1089,3,2,34,46,3,6.4,0,1,0,1,1,195.86
+Navi Mumbai (Vashi / Palm Beach Road),2,881,2,2,32,36,1,0.4,1,1,1,0,1,218.33
+Ghatkopar / Mulund West,3,1386,3,1,4,7,1,3.1,0,0,1,1,1,276.16
+Andheri East / Marol / Sakinaka,3,1335,3,2,39,52,3,6.2,1,0,1,1,1,254.39
+Powai / Hiranandani,4,2075,4,2,20,23,0,1.6,0,0,1,1,1,484.9
+Andheri West / Lokhandwala,2,760,2,2,24,31,6,5.2,0,0,0,1,1,200.55
+Thane West (Ghodbunder Road),2,815,2,2,24,38,3,1.8,0,1,1,1,0,113.93
+Andheri East / Marol / Sakinaka,2,737,2,1,26,28,3,1.6,1,1,1,1,1,149.23
+Borivali / Kandivali West,1,400,1,0,25,32,25,7.0,1,0,0,1,1,58.69
+Borivali / Kandivali West,3,1384,3,2,36,42,1,2.6,1,0,1,1,1,275.27
+Ghatkopar / Mulund West,1,461,1,0,7,14,3,3.6,0,0,1,1,1,87.45
+Navi Mumbai (Vashi / Palm Beach Road),2,627,2,2,10,16,1,6.7,1,0,0,0,1,131.48
+Kalyan / Dombivli / Beyond Thane,3,1393,3,2,12,20,10,1.9,0,1,0,0,1,83.84
+Goregaon / Malad West,2,646,2,2,1,3,10,4.9,1,1,1,1,1,139.39
